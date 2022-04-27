@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"Norway","region_code":"","city":"","latitude":59.9452,"metro_code":0,"ip":"178.164.15.6","longitude":10.7559,"time_zone":"Europe/Oslo","region_name":"","zip_code":"","country_code":"NO"},"ipaddress":"178.164.15.6","name":"Final Realms"}
+{"ipaddress":"178.164.15.6","geoip":{"longitude":10.7559,"time_zone":"Europe/Oslo","country_code":"NO","city":"","zip_code":"","latitude":59.9452,"region_name":"","region_code":"","metro_code":0,"country_name":"Norway","ip":"178.164.15.6"},"name":"Final Realms"}

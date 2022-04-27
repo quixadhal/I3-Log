@@ -1,1 +1,1 @@
-{"name":"Hogwarts","geoip":{"latitude":45.4024,"zip_code":"J1G","metro_code":0,"longitude":-71.8479,"country_name":"Canada","time_zone":"America/Toronto","city":"Sherbrooke","ip":"24.48.107.73","region_code":"QC","country_code":"CA","region_name":"Quebec"},"ipaddress":"24.48.107.73"}
+{"geoip":{"ip":"24.48.107.73","country_name":"Canada","metro_code":0,"region_code":"QC","latitude":45.4024,"region_name":"Quebec","zip_code":"J1G","city":"Sherbrooke","country_code":"CA","time_zone":"America/Toronto","longitude":-71.8479},"name":"Hogwarts","ipaddress":"24.48.107.73"}

@@ -1,1 +1,1 @@
-{"name":"Iberia test","ipaddress":"2.81.178.169","geoip":{"region_code":"11","city":"Ericeira","latitude":38.9627,"metro_code":0,"country_name":"Portugal","region_name":"Lisbon","time_zone":"Europe/Lisbon","zip_code":"2655-228","country_code":"PT","ip":"2.81.178.169","longitude":-9.4156}}
+{"ipaddress":"2.81.178.169","geoip":{"ip":"2.81.178.169","region_code":"11","country_name":"Portugal","metro_code":0,"latitude":38.9627,"region_name":"Lisbon","zip_code":"2655-228","city":"Ericeira","time_zone":"Europe/Lisbon","country_code":"PT","longitude":-9.4156},"name":"Iberia test"}

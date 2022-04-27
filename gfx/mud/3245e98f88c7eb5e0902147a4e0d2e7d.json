@@ -1,1 +1,1 @@
-{"name":"gessland","ipaddress":"142.113.220.26","geoip":{"ip":"142.113.220.26","longitude":-76.3494,"region_code":"ON","metro_code":0,"zip_code":"K7S","region_name":"Ontario","country_name":"Canada","country_code":"CA","latitude":45.4334,"city":"Arnprior","time_zone":"America/Toronto"}}
+{"geoip":{"country_code":"CA","ip":"142.113.220.26","metro_code":0,"time_zone":"America/Toronto","region_code":"ON","region_name":"Ontario","city":"Arnprior","zip_code":"K7S","latitude":45.4334,"country_name":"Canada","longitude":-76.3494},"ipaddress":"142.113.220.26","name":"gessland"}

@@ -1,1 +1,1 @@
-{"name":"Archipelago","ipaddress":"88.97.75.68","geoip":{"longitude":-0.1033,"ip":"88.97.75.68","country_code":"GB","zip_code":"N4","time_zone":"Europe/London","region_name":"England","country_name":"United Kingdom","metro_code":0,"latitude":51.5708,"city":"Finsbury","region_code":"ENG"}}
+{"name":"Archipelago","geoip":{"country_code":"GB","time_zone":"Europe/London","city":"Finsbury","longitude":-0.1033,"metro_code":0,"country_name":"United Kingdom","region_code":"ENG","ip":"88.97.75.68","zip_code":"N4","region_name":"England","latitude":51.5708},"ipaddress":"88.97.75.68"}

@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"GB","zip_code":"EC2V","city":"London","metro_code":0,"country_name":"United Kingdom","ip":"178.79.173.99","region_name":"England","time_zone":"Europe/London","region_code":"ENG","latitude":51.5164,"longitude":-0.093},"ipaddress":"178.79.173.99","name":"MoH"}
+{"geoip":{"country_code":"GB","time_zone":"Europe/London","city":"London","longitude":-0.093,"metro_code":0,"country_name":"United Kingdom","region_code":"ENG","ip":"178.79.173.99","zip_code":"EC2V","latitude":51.5164,"region_name":"England"},"name":"MoH","ipaddress":"178.79.173.99"}

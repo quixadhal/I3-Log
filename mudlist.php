@@ -234,7 +234,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 $online_counter = 0;
                 $verified_counter = 0;
                 $total_muds = sizeof($mudlist["mudlist"]);
-                $opacity = 1.0;
+                $opacity = "opacity: 1.0;";
                 foreach ($mudlist["mudlist"] as $mud) {
                     if($mud["online"] == 0) {
                         $opacity = "opacity: 0.25; background: rgba(255,0,0,0.25);";
@@ -280,6 +280,9 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                         $now_hour = date("H");
                         if( $now_hour === $hour_stamp ) {
                             $update_stamp = "Online!";
+                            // For some reason, some muds say they're offline even
+                            // though they are not...
+                            $opacity = "opacity: 1.0;";
                         } else {
                             $update_stamp = date("g:i a", $updatetime);
                             $update_stamp = "Last seen today, at $update_stamp";

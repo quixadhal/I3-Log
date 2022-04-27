@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"Germany","metro_code":0,"latitude":52.5174,"city":"Berlin","region_code":"BE","longitude":13.3985,"ip":"85.214.91.234","country_code":"DE","zip_code":"12529","region_name":"Land Berlin","time_zone":"Europe/Berlin"},"name":"MultiMUD","ipaddress":"85.214.91.234"}
+{"name":"MultiMUD","ipaddress":"85.214.91.234","geoip":{"ip":"85.214.91.234","metro_code":0,"longitude":13.3985,"country_code":"DE","time_zone":"Europe/Berlin","latitude":52.5174,"region_name":"Land Berlin","region_code":"BE","zip_code":"12529","city":"Berlin","country_name":"Germany"}}

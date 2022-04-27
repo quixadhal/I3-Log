@@ -1,1 +1,1 @@
-{"name":"A.HEGY","ipaddress":"89.133.33.44","geoip":{"city":"Budapest","region_code":"BU","metro_code":0,"latitude":47.4984,"country_name":"Hungary","zip_code":"1112","time_zone":"Europe/Budapest","region_name":"Budapest","country_code":"HU","ip":"89.133.33.44","longitude":19.0404}}
+{"ipaddress":"89.133.33.44","name":"A.HEGY","geoip":{"zip_code":"1112","region_name":"Budapest","latitude":47.4984,"country_name":"Hungary","metro_code":0,"region_code":"BU","ip":"89.133.33.44","longitude":19.0404,"country_code":"HU","time_zone":"Europe/Budapest","city":"Budapest"}}
