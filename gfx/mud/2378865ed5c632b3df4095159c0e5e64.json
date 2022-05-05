@@ -1,1 +1,1 @@
-{"geoip":{"ip":"207.162.200.121","region_code":"","country_name":"United States","metro_code":0,"latitude":37.751,"region_name":"","zip_code":"","city":"","time_zone":"America/Chicago","country_code":"US","longitude":-97.822},"name":"Nanvaent","ipaddress":"207.162.200.121"}
+{"ipaddress":"207.162.200.121","name":"Nanvaent","geoip":{"zip_code":"","country_name":"United States","ip":"207.162.200.121","latitude":37.751,"region_code":"","region_name":"","metro_code":0,"city":"","longitude":-97.822,"country_code":"US","time_zone":"America/Chicago"}}

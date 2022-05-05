@@ -1,1 +1,1 @@
-{"geoip":{"city":"","time_zone":"Asia/Taipei","country_code":"TW","longitude":121,"ip":"163.27.9.55","region_code":"","country_name":"Taiwan","metro_code":0,"latitude":23.5,"region_name":"","zip_code":""},"name":"Dead_Souls_admin","ipaddress":"163.27.9.55"}
+{"name":"Dead_Souls_admin","ipaddress":"163.27.9.55","geoip":{"city":"","ip":"163.27.9.55","region_name":"","latitude":23.5,"country_name":"Taiwan","zip_code":"","country_code":"TW","time_zone":"Asia/Taipei","region_code":"","metro_code":0,"longitude":121}}

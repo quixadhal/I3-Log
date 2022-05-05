@@ -1,1 +1,1 @@
-{"geoip":{"latitude":46.0092,"region_name":"Ticino","zip_code":"6900","ip":"85.3.65.139","country_name":"Switzerland","metro_code":0,"region_code":"TI","longitude":8.9574,"city":"Lugano","country_code":"CH","time_zone":"Europe/Zurich"},"name":"Adaka","ipaddress":"85.3.65.139"}
+{"name":"Adaka","ipaddress":"85.3.65.139","geoip":{"region_name":"Ticino","metro_code":0,"zip_code":"6900","country_name":"Switzerland","ip":"85.3.65.139","region_code":"TI","latitude":46.0092,"city":"Lugano","longitude":8.9574,"country_code":"CH","time_zone":"Europe/Zurich"}}

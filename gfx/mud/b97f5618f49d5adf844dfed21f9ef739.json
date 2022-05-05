@@ -1,1 +1,1 @@
-{"name":"Frontiers","geoip":{"time_zone":"America/Toronto","country_code":"CA","city":"","longitude":-79.3716,"region_code":"","country_name":"Canada","metro_code":0,"ip":"204.209.44.3","zip_code":"","latitude":43.6319,"region_name":""},"ipaddress":"204.209.44.3"}
+{"name":"Frontiers","ipaddress":"204.209.44.3","geoip":{"longitude":-79.3716,"country_code":"CA","city":"","time_zone":"America/Toronto","zip_code":"","country_name":"Canada","ip":"204.209.44.3","region_code":"","latitude":43.6319,"region_name":"","metro_code":0}}

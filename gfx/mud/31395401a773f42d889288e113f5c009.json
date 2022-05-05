@@ -1,1 +1,1 @@
-{"geoip":{"zip_code":"","latitude":37.751,"region_name":"","region_code":"","metro_code":0,"country_name":"United States","ip":"70.175.223.139","longitude":-97.822,"time_zone":"America/Chicago","country_code":"US","city":""},"name":"AETHERIUM","ipaddress":"70.175.223.139"}
+{"name":"AETHERIUM","ipaddress":"70.175.223.139","geoip":{"region_name":"","metro_code":0,"country_name":"United States","zip_code":"","region_code":"","latitude":37.751,"ip":"70.175.223.139","country_code":"US","longitude":-97.822,"city":"","time_zone":"America/Chicago"}}

@@ -1,1 +1,1 @@
-{"geoip":{"zip_code":"","latitude":37.751,"region_name":"","region_code":"","country_name":"United States","metro_code":0,"ip":"20.223.238.107","longitude":-97.822,"time_zone":"America/Chicago","country_code":"US","city":""},"name":"Lima Rebean","ipaddress":"20.223.238.107"}
+{"name":"Lima Rebean","ipaddress":"20.223.238.107","geoip":{"country_code":"US","longitude":-97.822,"city":"","time_zone":"America/Chicago","zip_code":"","country_name":"United States","ip":"20.223.238.107","region_code":"","latitude":37.751,"region_name":"","metro_code":0}}

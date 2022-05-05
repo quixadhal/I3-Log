@@ -1,1 +1,1 @@
-{"ipaddress":"172.105.10.232","name":"All Today`s","geoip":{"ip":"172.105.10.232","region_code":"ON","metro_code":0,"country_name":"Canada","latitude":43.6547,"region_name":"Ontario","zip_code":"M5A","city":"Toronto","time_zone":"America/Toronto","country_code":"CA","longitude":-79.3623}}
+{"name":"All Today`s","ipaddress":"172.105.10.232","geoip":{"time_zone":"America/Toronto","longitude":-79.3623,"country_code":"CA","city":"Toronto","metro_code":0,"region_name":"Ontario","region_code":"ON","latitude":43.6547,"ip":"172.105.10.232","country_name":"Canada","zip_code":"M5A"}}

@@ -1,1 +1,1 @@
-{"geoip":{"metro_code":0,"country_name":"Germany","region_code":"","ip":"46.4.48.195","zip_code":"","region_name":"","latitude":51.2993,"country_code":"DE","time_zone":"Europe/Berlin","city":"","longitude":9.491},"name":"The Rifthome MUD","ipaddress":"46.4.48.195"}
+{"ipaddress":"46.4.48.195","name":"The Rifthome MUD","geoip":{"zip_code":"","country_name":"Germany","ip":"46.4.48.195","latitude":51.2993,"region_code":"","region_name":"","metro_code":0,"city":"","longitude":9.491,"country_code":"DE","time_zone":"Europe/Berlin"}}

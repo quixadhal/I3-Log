@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"","latitude":51.2993,"zip_code":"","ip":"135.181.26.55","metro_code":0,"country_name":"Germany","region_code":"","longitude":9.491,"city":"","country_code":"DE","time_zone":"Europe/Berlin"},"name":"Epitaph_Black_Ops","ipaddress":"135.181.26.55"}
+{"name":"Epitaph_Black_Ops","ipaddress":"135.181.26.55","geoip":{"ip":"135.181.26.55","latitude":51.2993,"region_code":"","zip_code":"","country_name":"Germany","metro_code":0,"region_name":"","time_zone":"Europe/Berlin","city":"","longitude":9.491,"country_code":"DE"}}

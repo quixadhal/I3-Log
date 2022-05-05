@@ -1,1 +1,1 @@
-{"geoip":{"region_code":"85","country_name":"Denmark","metro_code":0,"ip":"85.218.174.24","zip_code":"4180","latitude":55.4308,"region_name":"Zealand","time_zone":"Europe/Copenhagen","country_code":"DK","city":"Soro","longitude":11.5557},"name":"PLEXUS","ipaddress":"85.218.174.24"}
+{"ipaddress":"85.218.174.24","name":"PLEXUS","geoip":{"zip_code":"4180","country_name":"Denmark","ip":"85.218.174.24","region_code":"85","latitude":55.4308,"region_name":"Zealand","metro_code":0,"longitude":11.5557,"city":"Soro","country_code":"DK","time_zone":"Europe/Copenhagen"}}
