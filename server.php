@@ -519,7 +519,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                 <td class="speedtest-text-column" rowspan="0">
                 <pre>
                 <?php
-                    printf("%s\n", ">>> This Week's Performance Average <<<");
+                    printf("%s      \n", ">>> This Week's Performance Average <<<");
                     printf("%23s %20s %20s %20s\n", "Interface", "Average Ping", "Average Download", "Average Upload");
                     printf("%23s %20s %20s %20s\n", "-----------------------", "--------------------", "--------------------", "--------------------");
                     ksort($speedtest_avg);
