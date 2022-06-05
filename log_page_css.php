@@ -78,6 +78,8 @@ header("Content-type: text/css");
 }
 .content-speaker-column {
     text-align: left;
+    overflow-x: hidden;
+    white-space: nowrap;
     min-width: 30ch;
     width: 30ch; 
 }
