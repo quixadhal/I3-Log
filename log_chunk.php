@@ -230,7 +230,7 @@ function fetch_page_data_by_time($db, $query_start_time = NULL, $query_end_time 
             if(array_key_exists('message_orig', $row)) {
                 // We found a URL before
                 $urls = [];
-                if(preg_match('/((?:http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(?::[a-zA-Z0-9]*)?\/?(?:[a-zA-Z0-9\-\._\?\,\'\/\\\+&amp;%\$#\=~])*)/i', $row['message_orig'], $urls)) {
+                if(preg_match('/((?:http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(?::[a-zA-Z0-9]*)?\/?(?:[a-zA-Z0-9\-\._\?\,\'\/\\\+&amp;%\$#\=~\:\@])*)/i', $row['message_orig'], $urls)) {
                     // Set up a new entry...
                     $newrow = [];
                     $newrow['the_date'] = $row['the_date'];
@@ -257,7 +257,8 @@ function fetch_page_data_by_time($db, $query_start_time = NULL, $query_end_time 
                         $urlbot = $known_url['message'];
                         $urlbot = htmlentities($urlbot, ENT_QUOTES|ENT_SUBSTITUTE, 'UTF-8');
                         //$urlbot = preg_replace('/<(.*\s+on\s+.*)>/i', '&lt;$1&gt;', $urlbot);
-                        $urlbot = preg_replace('/((?:http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(?::[a-zA-Z0-9]*)?\/?(?:[a-zA-Z0-9\-\._\?\,\'\/\\\+&amp;%\$#\=~\:])*)/i', '<a href="$1" target="I3-link">$1</a>', $urlbot);
+                        $urlbot = preg_replace('/((?:http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(?::[a-zA-Z0-9]*)?\/?(?:[a-zA-Z0-9\-\._\?\,\'\/\\\+&amp;%\$#\=~\:\@])*)/i', '<a href="$1" target="I3-link">$1</a>', $urlbot);
+                        //$urlbot = preg_replace('/((?:http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(?::[a-zA-Z0-9]*)?\/?(?:[a-zA-Z0-9\-\._\?\,\'\/\\\+&amp;%\$#\=~\:])*)/i', '<a href="$1" target="I3-link">$1</a>', $urlbot);
                         $urlbot = preg_replace('/YouTube\s+(<span.*?>)\s*\[([^\]]*)\]/i', 'YouTube $1 <a href="https://youtu.be/$2" target="I3-link">[$2]</a>', $urlbot);
                         $urlbot = preg_replace('/IMDB\s+(<span.*?>)\s*\[([^\]]*)\]/i', 'IMDB $1 <a href="https://www.imdb.com/title/$2/" target="I3-link">[$2]</a>', $urlbot);
                         $urlbot = preg_replace('/Steam\s+(<span.*?>)\s*\[([^\]]*)\]/i', 'Steam $1 <a href="http://store.steampowered.com/app/$2/" target="I3-link">[$2]</a>', $urlbot);
