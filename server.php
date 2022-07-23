@@ -77,7 +77,7 @@ if(!array_key_exists('result', $speedtest)) {
         $speedtest["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
         $speedtest["speedtest_current"] = $row["result_url"] . ".png";
         $speedtest["interface"]["internalIp"] = $row["internal_ip"];
-        $speedtest["interface"]["name"] = "---"; // Have to hardcode this, bleh.
+        $speedtest["interface"]["name"] = "i219v"; // Windows doesn't report this, so hardcoded.
         $speedtest["server"]["name"] = $row["name"];
         $speedtest["server"]["host"] = $row["host"];
         $speedtest["ping"]["latency"] = $row["ping"];
@@ -89,6 +89,7 @@ if(!array_key_exists('result', $speedtest)) {
     $speedtest["unix_timestamp"] = strtotime($speedtest["timestamp"]);
     $speedtest["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
     $speedtest["speedtest_current"] = $speedtest["result"]["url"] . ".png";
+    $speedtest["interface"]["name"] = "i219v";  // Windows doesn't report this, so hardcoded.
 }
 
 $speedtest_wifi_text = file_get_contents($SPEEDTEST_WIFI_FILE);
@@ -117,7 +118,7 @@ if(!array_key_exists('result', $speedtest_wifi)) {
         $speedtest_wifi["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
         $speedtest_wifi["speedtest_current"] = $row["result_url"] . ".png";
         $speedtest_wifi["interface"]["internalIp"] = $row["internal_ip"];
-        $speedtest_wifi["interface"]["name"] = "wlp1s0"; // Hardcoded, bleh.
+        $speedtest_wifi["interface"]["name"] = "wlp1s0"; // Hardcoded, as it wasn't picked up, bleh.
         $speedtest_wifi["server"]["name"] = $row["name"];
         $speedtest_wifi["server"]["host"] = $row["host"];
         $speedtest_wifi["ping"]["latency"] = $row["ping"];
