@@ -20,6 +20,7 @@ var BG_OFF = "<?php echo $BG_OFF_ICON; ?>";
 var Random = new MersenneTwister();
 var NoBackground = Cookies.get('nobackground') || false;
 var BoringBackground = Cookies.get('boringbackground') || false;
+var NSFW = Cookies.get('nsfw') || false;
 
 function toggleBackground() {
     NoBackground = Cookies.get('nobackground') || false;
@@ -97,7 +98,7 @@ function new_toggleBackground() {
     randomizeBackground();
 }
 
-function randomizeBackground() {
+function orig_randomizeBackground() {
     if(NoBackground) {
         $("#background-img").attr("src", OnePixelBG);
     } else {
@@ -114,6 +115,30 @@ function randomizeBackground() {
             var bg_choice = Math.floor(BackgroundImageList.length * Random.random());
             var new_bg = "<?php echo "$BACKGROUND_DIR_URL/"; ?>" + BackgroundImageList[bg_choice];
             $("#background-img").attr("src", new_bg);
+        }
+    }
+}
+
+function randomizeBackground() {
+    if(NoBackground) {
+        $("#background-img").attr("src", OnePixelBG);
+    } else {
+        if(TodayDirExists) {
+            var bg_choice = Math.floor(SpecialImageList.length * Random.random());
+            var new_bg = "<?php echo "$SPECIAL_DIR_URL/"; ?>" + SpecialImageList[bg_choice];
+            $("#background-img").attr("src", new_bg);
+        } else {
+            if(NSFW) {
+                // We said we're OK with overly cute anime images.
+                var bg_choice = Math.floor(BackgroundImageList.length * Random.random());
+                var new_bg = "<?php echo "$BORING_DIR_URL/"; ?>" + BackgroundImageList[bg_choice];
+                $("#background-img").attr("src", new_bg);
+            } else {
+                // This lets us be SFW, unless Today overrides it.
+                var bg_choice = Math.floor(BoringImageList.length * Random.random());
+                var new_bg = "<?php echo "$BORING_DIR_URL/"; ?>" + BoringImageList[bg_choice];
+                $("#background-img").attr("src", new_bg);
+            }
         }
     }
 }

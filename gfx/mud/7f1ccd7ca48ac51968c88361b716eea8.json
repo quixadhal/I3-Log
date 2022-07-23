@@ -1,1 +1,1 @@
-{"name":"TheLand","ipaddress":"213.95.32.156","geoip":{"time_zone":"Europe/Berlin","city":"Darmstadt","longitude":8.6448,"country_code":"DE","ip":"213.95.32.156","latitude":49.8875,"region_code":"HE","zip_code":"64293","country_name":"Germany","metro_code":0,"region_name":"Hesse"}}
+{"ipaddress":"213.95.32.156","name":"TheLand","geoip":{"time_zone":"Europe/Berlin","country_name":"Germany","zip_code":"64293","ip":"213.95.32.156","metro_code":0,"latitude":49.8875,"city":"Darmstadt","region_name":"Hesse","country_code":"DE","region_code":"HE","longitude":8.6448}}

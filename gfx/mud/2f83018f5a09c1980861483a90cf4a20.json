@@ -1,1 +1,1 @@
-{"ipaddress":"104.154.76.197","name":"TimMUD","geoip":{"metro_code":0,"region_name":"Virginia","region_code":"VA","latitude":38.6583,"ip":"104.154.76.197","country_name":"United States","zip_code":"","time_zone":"America/New_York","city":"","longitude":-77.2481,"country_code":"US"}}
+{"name":"TimMUD","geoip":{"city":"","region_code":"VA","longitude":-77.2481,"latitude":38.6583,"country_code":"US","ip":"104.154.76.197","region_name":"Virginia","metro_code":0,"time_zone":"America/New_York","country_name":"United States","zip_code":""},"ipaddress":"104.154.76.197"}

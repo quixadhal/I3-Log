@@ -32,12 +32,14 @@ function random_background($dir) {
     $jpg_list = glob("*.jpg");
     $png_list = glob("*.png");
     $boring_image_list = array_merge($jpg_list, $png_list);
+    // This lets us be SFW, unless Today overrides it.
+    $pick = array_rand($boring_image_list);
 
     chdir($dir);
     $jpg_list = glob("*.jpg");
     $png_list = glob("*.png");
     $background_image_list = array_merge($jpg_list, $png_list);
-    $pick = array_rand($background_image_list);
+    //$pick = array_rand($background_image_list);
 
     if(is_dir($today_dir)) {
         // This allows us to create special subdirectories

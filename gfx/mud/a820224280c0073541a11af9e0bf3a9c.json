@@ -1,1 +1,1 @@
-{"name":"Astaria","ipaddress":"13.66.189.79","geoip":{"city":"","longitude":-122.3314,"country_code":"US","time_zone":"America/Los_Angeles","country_name":"United States","zip_code":"","latitude":47.6092,"region_code":"WA","ip":"13.66.189.79","region_name":"Washington","metro_code":0}}
+{"geoip":{"country_code":"US","longitude":-122.3314,"region_code":"WA","region_name":"Washington","latitude":47.6092,"city":"","zip_code":"","ip":"13.66.189.79","country_name":"United States","time_zone":"America/Los_Angeles","metro_code":0},"name":"Astaria","ipaddress":"13.66.189.79"}

@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"","metro_code":0,"zip_code":"","country_name":"United States","ip":"65.19.167.66","region_code":"","latitude":37.751,"city":"","longitude":-97.822,"country_code":"US","time_zone":"America/Chicago"},"ipaddress":"65.19.167.66","name":"The Library"}
+{"ipaddress":"65.19.167.66","geoip":{"region_code":"","longitude":-97.822,"country_code":"US","region_name":"","city":"","latitude":37.751,"metro_code":0,"country_name":"United States","time_zone":"America/Chicago","zip_code":"","ip":"65.19.167.66"},"name":"The Library"}

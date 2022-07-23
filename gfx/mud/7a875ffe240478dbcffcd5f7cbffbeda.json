@@ -1,1 +1,1 @@
-{"ipaddress":"98.59.188.162","name":"FOR_NOW","geoip":{"metro_code":0,"region_name":"","ip":"98.59.188.162","latitude":37.751,"region_code":"","zip_code":"","country_name":"United States","time_zone":"America/Chicago","city":"","longitude":-97.822,"country_code":"US"}}
+{"name":"FOR_NOW","geoip":{"country_code":"US","region_code":"","longitude":-97.822,"region_name":"","latitude":37.751,"city":"","zip_code":"","ip":"98.59.188.162","time_zone":"America/Chicago","country_name":"United States","metro_code":0},"ipaddress":"98.59.188.162"}
