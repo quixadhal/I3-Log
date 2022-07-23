@@ -59,7 +59,10 @@ if(!array_key_exists('result', $speedtest)) {
     $speedtest["speedtest_current"] = $NOT_AVAILABLE_ICON;
     $sql = "
             SELECT  extract(epoch FROM local)::integer AS unix_timestamp,
-                    result_url
+                    result_url,
+                    internal_ip, external_ip,
+                    name, host,
+                    ping, download, upload
               FROM speedtest
              WHERE NOT wifi
           ORDER BY local DESC
@@ -73,6 +76,13 @@ if(!array_key_exists('result', $speedtest)) {
         $speedtest["unix_timestamp"] = $row["unix_timestamp"];
         $speedtest["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
         $speedtest["speedtest_current"] = $row["result_url"] . ".png";
+        $speedtest["interface"]["internalIp"] = $row["internal_ip"];
+        $speedtest["interface"]["name"] = "---"; // Have to hardcode this, bleh.
+        $speedtest["server"]["name"] = $row["name"];
+        $speedtest["server"]["host"] = $row["host"];
+        $speedtest["ping"]["latency"] = $row["ping"];
+        $speedtest["download"]["bandwidth"] = ($row["download"] * 1000000.0) / 8.0;
+        $speedtest["upload"]["bandwidth"] = ($row["upload"] * 1000000.0) / 8.0;
     }
     $db = null;
 } else {
@@ -89,7 +99,10 @@ if(!array_key_exists('result', $speedtest_wifi)) {
     $speedtest_wifi["speedtest_current"] = $NOT_AVAILABLE_ICON;
     $sql = "
             SELECT  extract(epoch FROM local)::integer AS unix_timestamp,
-                    result_url
+                    result_url,
+                    internal_ip, external_ip,
+                    name, host,
+                    ping, download, upload
               FROM speedtest
              WHERE wifi
           ORDER BY local DESC
@@ -103,6 +116,13 @@ if(!array_key_exists('result', $speedtest_wifi)) {
         $speedtest_wifi["unix_timestamp"] = $row["unix_timestamp"];
         $speedtest_wifi["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
         $speedtest_wifi["speedtest_current"] = $row["result_url"] . ".png";
+        $speedtest_wifi["interface"]["internalIp"] = $row["internal_ip"];
+        $speedtest_wifi["interface"]["name"] = "wlp1s0"; // Hardcoded, bleh.
+        $speedtest_wifi["server"]["name"] = $row["name"];
+        $speedtest_wifi["server"]["host"] = $row["host"];
+        $speedtest_wifi["ping"]["latency"] = $row["ping"];
+        $speedtest_wifi["download"]["bandwidth"] = ($row["download"] * 1000000.0) / 8.0;
+        $speedtest_wifi["upload"]["bandwidth"] = ($row["upload"] * 1000000.0) / 8.0;
     }
     $db = null;
 } else {
