@@ -5,10 +5,10 @@ require_once 'log_navigation.php';
 $BACKGROUND_URL         = "$URL_HOME/gfx/one_black_pixel.png";
 $BACKGROUND_DIR         = "$FILE_HOME/gfx/wallpaper/";
 $SPECIAL_DIR            = "$FILE_HOME/gfx/wallpaper/$month_day/";
-$BORING_DIR             = "$FILE_HOME/gfx/wallpaper/scenic/";
+$BORING_DIR             = "$FILE_HOME/gfx/wallpaper/sfw/";
 $BACKGROUND_DIR_URL     = "$URL_HOME/gfx/wallpaper";
 $SPECIAL_DIR_URL        = "$URL_HOME/gfx/wallpaper/$month_day";
-$BORING_DIR_URL         = "$URL_HOME/gfx/wallpaper/scenic";
+$BORING_DIR_URL         = "$URL_HOME/gfx/wallpaper/sfw";
 $BACKGROUND_FILE        = "$FILE_HOME/random_background_css.php";
 $BACKGROUND_TIME        = filemtime($BACKGROUND_FILE);
 $BACKGROUND_CSS         = "$URL_HOME/random_background_css.php?version=$BACKGROUND_TIME";
@@ -26,7 +26,7 @@ function random_background($dir) {
     global $today_dir_exists;
     $old_dir = getcwd();
     $today_dir = "$dir/$month_day";
-    $boring_dir = "$dir/scenic";
+    $boring_dir = "$dir/sfw";
 
     chdir($boring_dir);
     $jpg_list = glob("*.jpg");
