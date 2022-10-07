@@ -1,1 +1,1 @@
-{"ipaddress":"192.64.86.250","name":"StoneyMud","geoip":{"latitude":37.751,"city":"","ip":"192.64.86.250","zip_code":"","country_name":"United States","time_zone":"America/Chicago","metro_code":0,"country_code":"US","region_code":"","longitude":-97.822,"region_name":""}}
+{"name":"StoneyMud","geoip":{"zip_code":"","time_zone":"America/Chicago","city":"","region_code":"","country_name":"United States","longitude":-97.822,"region_name":"","country_code":"US","ip":"192.64.86.250","metro_code":0,"latitude":37.751},"ipaddress":"192.64.86.250"}
