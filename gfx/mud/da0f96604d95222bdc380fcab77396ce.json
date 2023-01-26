@@ -1,1 +1,1 @@
-{"geoip":{"metro_code":623,"country_name":"United States","longitude":-96.8218,"city":"Dallas","zip_code":"75270","ip":"45.79.26.210","region_name":"Texas","latitude":32.7787,"country_code":"US","time_zone":"America/Chicago","region_code":"TX"},"name":"Personal Use","ipaddress":"45.79.26.210"}
+{"name":"Personal Use","geoip":{"time_zone":"America/Chicago","region_name":"","country_code":"US","latitude":37.751,"city":"","region_code":"","ip":"139.144.35.225","country_name":"United States","zip_code":"","longitude":-97.822,"metro_code":0},"ipaddress":"139.144.35.225"}

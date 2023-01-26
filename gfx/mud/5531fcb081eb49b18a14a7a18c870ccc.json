@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"","ip":"88.198.179.143","country_code":"DE","time_zone":"Europe/Berlin","region_code":"","latitude":51.2993,"country_name":"Germany","metro_code":0,"zip_code":"","longitude":9.491,"city":""},"name":"Wunderland","ipaddress":"88.198.179.143"}
+{"ipaddress":"88.198.179.143","geoip":{"time_zone":"Europe/Berlin","latitude":51.2993,"country_code":"DE","city":"","region_name":"","ip":"88.198.179.143","region_code":"","metro_code":0,"zip_code":"","longitude":9.491,"country_name":"Germany"},"name":"Wunderland"}

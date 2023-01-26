@@ -122,6 +122,7 @@ function server_date() {
 }
 function server_time_midnight() {
     // This is only true when the page first loads
+    // return <?php date_default_timezone_set("America/Los_Angeles"); $dt = new DateTime(date("Y-m-d")); echo $dt->format("U"); ?>;
     return <?php $dt = new DateTime(date("Y-m-d")); echo $dt->format("U"); ?>;
 }
 function query_parameters() {

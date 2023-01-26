@@ -1,5 +1,5 @@
 #COUNT
-Count   3081
+Count   3187
 End
 
 #SPEAKER
@@ -35,6 +35,16 @@ End
 #SPEAKER
 Name    a cow
 Color   %^BLACK%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    a dark shadow
+Color   %^RED%^
+End
+
+#SPEAKER
+Name    a dark shadow (wop in gv)
+Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
@@ -1718,6 +1728,16 @@ Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    barlow
+Color   %^RED%^
+End
+
+#SPEAKER
+Name    barlow (neonmoo in gv)
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    barnabus
 Color   %^WHITE%^%^B_BLUE%^
 End
@@ -2018,6 +2038,16 @@ Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
+Name    blame
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    blame (wop in gv)
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    blargh
 Color   %^RED%^%^BOLD%^
 End
@@ -2053,6 +2083,11 @@ Color   %^GREEN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    blizzard (grapevine in gv)
+Color   %^BLUE%^
+End
+
+#SPEAKER
 Name    blizzard (wop in gv)
 Color   %^BLUE%^%^BOLD%^
 End
@@ -2065,6 +2100,16 @@ End
 #SPEAKER
 Name    blkcandy (sindome in gv)
 Color   %^BLACK%^%^B_YELLOW%^
+End
+
+#SPEAKER
+Name    blonk
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    blonk (wop in gv)
+Color   %^WHITE%^
 End
 
 #SPEAKER
@@ -2085,6 +2130,11 @@ End
 #SPEAKER
 Name    bluius
 Color   %^BLACK%^%^B_MAGENTA%^
+End
+
+#SPEAKER
+Name    blystyryng
+Color   %^ORANGE%^
 End
 
 #SPEAKER
@@ -2185,6 +2235,16 @@ End
 #SPEAKER
 Name    boyo
 Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    bozimmerman
+Color   %^RED%^
+End
+
+#SPEAKER
+Name    bozimmerman (grapevine in gv)
+Color   %^YELLOW%^
 End
 
 #SPEAKER
@@ -2363,6 +2423,11 @@ Color   %^GREEN%^
 End
 
 #SPEAKER
+Name    cadence
+Color   %^RED%^
+End
+
+#SPEAKER
 Name    caelreth
 Color   %^WHITE%^%^B_GREEN%^
 End
@@ -2480,6 +2545,16 @@ End
 #SPEAKER
 Name    carnifex
 Color   %^YELLOW%^
+End
+
+#SPEAKER
+Name    carolina
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    carolina (neonmoo in gv)
+Color   %^RED%^%^BOLD%^
 End
 
 #SPEAKER
@@ -2993,6 +3068,16 @@ Color   %^BLACK%^%^BOLD%^
 End
 
 #SPEAKER
+Name    courier
+Color   %^YELLOW%^
+End
+
+#SPEAKER
+Name    courier (neonmoo in gv)
+Color   %^GREEN%^
+End
+
+#SPEAKER
 Name    coy
 Color   %^CYAN%^%^BOLD%^
 End
@@ -3115,6 +3200,16 @@ End
 #SPEAKER
 Name    cruentus
 Color   %^WHITE%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    cruinne
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    cruinne (grapevine in gv)
+Color   %^BLUE%^
 End
 
 #SPEAKER
@@ -3278,6 +3373,26 @@ Color   %^WHITE%^%^B_BLUE%^
 End
 
 #SPEAKER
+Name    daiverd
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    daiverd (mongoose in gv)
+Color   %^BLACK%^%^B_CYAN%^
+End
+
+#SPEAKER
+Name    daiverd dreviad
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    daiverd dreviad (mongoose in gv)
+Color   %^CYAN%^
+End
+
+#SPEAKER
 Name    dakra
 Color   %^MAGENTA%^%^BOLD%^
 End
@@ -3290,6 +3405,16 @@ End
 #SPEAKER
 Name    dalsor
 Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    damascus
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    damascus (grapevine in gv)
+Color   %^CYAN%^
 End
 
 #SPEAKER
@@ -3758,6 +3883,11 @@ Color   %^WHITE%^%^B_MAGENTA%^
 End
 
 #SPEAKER
+Name    dex
+Color   %^GREEN%^
+End
+
+#SPEAKER
 Name    dextar
 Color   %^ORANGE%^
 End
@@ -4003,6 +4133,11 @@ Color   %^BLACK%^%^B_YELLOW%^
 End
 
 #SPEAKER
+Name    doom
+Color   %^YELLOW%^
+End
+
+#SPEAKER
 Name    doris
 Color   %^GREEN%^%^BOLD%^
 End
@@ -4100,6 +4235,11 @@ End
 #SPEAKER
 Name    drenon
 Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    drexlor
+Color   %^BLACK%^%^BOLD%^
 End
 
 #SPEAKER
@@ -4328,8 +4468,23 @@ Color   %^MAGENTA%^
 End
 
 #SPEAKER
+Name    ekhart
+Color   %^YELLOW%^
+End
+
+#SPEAKER
 Name    ekoygugu
 Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
+Name    ekurisona
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    ekurisona (grapevine in gv)
+Color   %^BLACK%^%^B_GREEN%^
 End
 
 #SPEAKER
@@ -4658,6 +4813,11 @@ Color   %^WHITE%^
 End
 
 #SPEAKER
+Name    equinox
+Color   %^ORANGE%^
+End
+
+#SPEAKER
 Name    eral
 Color   %^YELLOW%^
 End
@@ -4970,6 +5130,26 @@ End
 #SPEAKER
 Name    fengshui (sindome in gv)
 Color   %^BLACK%^%^B_WHITE%^
+End
+
+#SPEAKER
+Name    fenrin
+Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    fenrin (evermore in gv)
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    fenrin@evermore
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    fenrin@evermore (evermore in gv)
+Color   %^BLACK%^%^B_GREEN%^
 End
 
 #SPEAKER
@@ -5843,6 +6023,11 @@ Color   %^CYAN%^
 End
 
 #SPEAKER
+Name    guest (neonmoo in gv)
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    guest1
 Color   %^RED%^
 End
@@ -6000,6 +6185,16 @@ End
 #SPEAKER
 Name    harrigen
 Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    harrold
+Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    harrold (evermore in gv)
+Color   %^WHITE%^%^B_GREEN%^
 End
 
 #SPEAKER
@@ -6593,6 +6788,16 @@ Color   %^GREEN%^
 End
 
 #SPEAKER
+Name    isaak
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    isaak (neonmoo in gv)
+Color   %^BLACK%^%^B_WHITE%^
+End
+
+#SPEAKER
 Name    isha
 Color   %^CYAN%^
 End
@@ -6620,6 +6825,11 @@ End
 #SPEAKER
 Name    isla
 Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    islay
+Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -6700,6 +6910,11 @@ End
 #SPEAKER
 Name    jacob
 Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    jade
+Color   %^GREEN%^
 End
 
 #SPEAKER
@@ -6875,6 +7090,11 @@ End
 #SPEAKER
 Name    jerin
 Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    jerovich
+Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
@@ -7263,6 +7483,16 @@ Color   %^BLACK%^%^B_WHITE%^
 End
 
 #SPEAKER
+Name    kat
+Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    kat (mongoose in gv)
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
 Name    katana
 Color   %^BLACK%^%^B_CYAN%^
 End
@@ -7460,6 +7690,11 @@ End
 #SPEAKER
 Name    kelvin:_canadians_and_northerners
 Color   %^BLACK%^%^B_RED%^
+End
+
+#SPEAKER
+Name    kelwin
+Color   %^BLUE%^
 End
 
 #SPEAKER
@@ -7763,6 +7998,16 @@ Color   %^BLUE%^
 End
 
 #SPEAKER
+Name    kran
+Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    kran (grapevine in gv)
+Color   %^BLACK%^%^B_WHITE%^
+End
+
+#SPEAKER
 Name    krazel
 Color   %^ORANGE%^
 End
@@ -7923,6 +8168,11 @@ Color   %^WHITE%^%^B_BLUE%^
 End
 
 #SPEAKER
+Name    lancius
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    lancustran
 Color   %^BLACK%^%^B_GREEN%^
 End
@@ -8020,6 +8270,11 @@ End
 #SPEAKER
 Name    leanna
 Color   %^BLACK%^%^B_CYAN%^
+End
+
+#SPEAKER
+Name    lee
+Color   %^BLUE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -8175,6 +8430,11 @@ End
 #SPEAKER
 Name    lilcutie
 Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    lilianaria
+Color   %^GREEN%^
 End
 
 #SPEAKER
@@ -8548,6 +8808,16 @@ Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
+Name    maggie560827
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    maggie560827 (neonmoo in gv)
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
 Name    maggy
 Color   %^WHITE%^%^BOLD%^
 End
@@ -8728,6 +8998,11 @@ Color   %^YELLOW%^
 End
 
 #SPEAKER
+Name    marelle
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    mariah
 Color   %^BLUE%^%^BOLD%^
 End
@@ -8890,6 +9165,11 @@ End
 #SPEAKER
 Name    me
 Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    mecai
+Color   %^BLACK%^%^BOLD%^
 End
 
 #SPEAKER
@@ -9228,6 +9508,11 @@ Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    moltec
+Color   %^CYAN%^
+End
+
+#SPEAKER
 Name    monad
 Color   %^YELLOW%^
 End
@@ -9265,6 +9550,11 @@ End
 #SPEAKER
 Name    monzoo
 Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    moonbeam
+Color   %^YELLOW%^
 End
 
 #SPEAKER
@@ -9863,6 +10153,16 @@ Color   %^BLACK%^%^B_WHITE%^
 End
 
 #SPEAKER
+Name    noiotk
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    noiotk (grapevine in gv)
+Color   %^WHITE%^
+End
+
+#SPEAKER
 Name    noiram
 Color   %^BLACK%^%^B_WHITE%^
 End
@@ -10313,6 +10613,21 @@ Color   %^BLUE%^%^BOLD%^
 End
 
 #SPEAKER
+Name    papercombo
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    papercombo (grapevine in gv)
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    paracelsus
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    paranoia
 Color   %^MAGENTA%^
 End
@@ -10343,6 +10658,16 @@ Color   %^ORANGE%^
 End
 
 #SPEAKER
+Name    parx
+Color   %^RED%^
+End
+
+#SPEAKER
+Name    parx (evermore in gv)
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
 Name    patch
 Color   %^GREEN%^
 End
@@ -10350,6 +10675,16 @@ End
 #SPEAKER
 Name    patientfox
 Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    patrick w
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    patrick w (mongoose in gv)
+Color   %^GREEN%^
 End
 
 #SPEAKER
@@ -10370,6 +10705,11 @@ End
 #SPEAKER
 Name    paven
 Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    payn
+Color   %^RED%^%^BOLD%^
 End
 
 #SPEAKER
@@ -10623,6 +10963,11 @@ Color   %^CYAN%^
 End
 
 #SPEAKER
+Name    pool
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
 Name    poseidon
 Color   %^BLACK%^%^B_RED%^
 End
@@ -10808,6 +11153,16 @@ Color   %^WHITE%^%^B_GREEN%^
 End
 
 #SPEAKER
+Name    q
+Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    q (mongoose in gv)
+Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
 Name    qiuyan
 Color   %^RED%^
 End
@@ -10905,6 +11260,11 @@ End
 #SPEAKER
 Name    rain
 Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    rainbowbeard
+Color   %^GREEN%^
 End
 
 #SPEAKER
@@ -11343,6 +11703,11 @@ Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    rmp
+Color   %^WHITE%^
+End
+
+#SPEAKER
 Name    rob
 Color   %^BLUE%^%^BOLD%^
 End
@@ -11553,6 +11918,11 @@ Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
+Name    saint
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
 Name    sakari
 Color   %^RED%^%^BOLD%^
 End
@@ -11640,6 +12010,16 @@ End
 #SPEAKER
 Name    sandon (myelinalpha in gv)
 Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
+Name    santa claus
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    santa claus (wop in gv)
+Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -11820,6 +12200,11 @@ End
 #SPEAKER
 Name    seerlock
 Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    segfault
+Color   %^WHITE%^
 End
 
 #SPEAKER
@@ -12283,6 +12668,16 @@ Color   %^BLACK%^%^B_WHITE%^
 End
 
 #SPEAKER
+Name    skolkrusher
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    skolkrusher (grapevine in gv)
+Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
 Name    skout
 Color   %^GREEN%^
 End
@@ -12478,6 +12873,11 @@ Color   %^BLACK%^%^B_RED%^
 End
 
 #SPEAKER
+Name    society
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    sojan
 Color   %^BLUE%^
 End
@@ -12593,6 +12993,11 @@ Color   %^BLACK%^%^B_CYAN%^
 End
 
 #SPEAKER
+Name    spacepup
+Color   %^ORANGE%^
+End
+
+#SPEAKER
 Name    spamspanker
 Color   %^GREEN%^%^BOLD%^
 End
@@ -12615,6 +13020,11 @@ End
 #SPEAKER
 Name    spawn
 Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
+Name    speedrun
+Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -12725,6 +13135,11 @@ End
 #SPEAKER
 Name    stardust
 Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    stardust (grapevine in gv)
+Color   %^BLACK%^%^B_RED%^
 End
 
 #SPEAKER
@@ -13003,6 +13418,21 @@ Color   %^BLACK%^%^B_WHITE%^
 End
 
 #SPEAKER
+Name    tacosal
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    tacosal (grapevine in gv)
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    tacosal (wop in gv)
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    taepha
 Color   %^BLACK%^%^B_YELLOW%^
 End
@@ -13065,6 +13495,16 @@ End
 #SPEAKER
 Name    tali
 Color   %^RED%^
+End
+
+#SPEAKER
+Name    talia
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    talia (neonmoo in gv)
+Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
@@ -13493,6 +13933,11 @@ Color   %^GREEN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    therain
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    theramon
 Color   %^YELLOW%^
 End
@@ -13500,6 +13945,16 @@ End
 #SPEAKER
 Name    theregister
 Color   %^RED%^
+End
+
+#SPEAKER
+Name    thetinkerer
+Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    thetinkerer (grapevine in gv)
+Color   %^BLACK%^%^B_MAGENTA%^
 End
 
 #SPEAKER
@@ -13824,6 +14279,11 @@ End
 
 #SPEAKER
 Name    trebor
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    tremulo
 Color   %^MAGENTA%^
 End
 
@@ -14438,6 +14898,16 @@ Color   %^CYAN%^
 End
 
 #SPEAKER
+Name    vitaly
+Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    vitaly (apotheosis in gv)
+Color   %^BLACK%^%^B_CYAN%^
+End
+
+#SPEAKER
 Name    vivi
 Color   %^CYAN%^%^BOLD%^
 End
@@ -14568,6 +15038,16 @@ Color   %^CYAN%^
 End
 
 #SPEAKER
+Name    walbiss
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    walbiss (evermore in gv)
+Color   %^WHITE%^%^B_MAGENTA%^
+End
+
+#SPEAKER
 Name    wallsy
 Color   %^YELLOW%^
 End
@@ -14650,6 +15130,16 @@ End
 #SPEAKER
 Name    well blow me down! reflection
 Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    welsh
+Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    welsh (evermore in gv)
+Color   %^BLACK%^%^B_YELLOW%^
 End
 
 #SPEAKER
@@ -14803,6 +15293,11 @@ Color   %^ORANGE%^
 End
 
 #SPEAKER
+Name    wolves (wop in gv)
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
 Name    wolvesbane
 Color   %^GREEN%^
 End
@@ -14903,6 +15398,16 @@ Color   %^BLACK%^%^B_RED%^
 End
 
 #SPEAKER
+Name    xenthum
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    xenthum (grapevine in gv)
+Color   %^BLACK%^%^B_RED%^
+End
+
+#SPEAKER
 Name    xeon
 Color   %^YELLOW%^
 End
@@ -14955,6 +15460,11 @@ End
 #SPEAKER
 Name    xoral
 Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    xorlarrin
+Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -15055,6 +15565,26 @@ End
 #SPEAKER
 Name    yorkie
 Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    young mage
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    young mage (evermore in gv)
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    young warrior
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    young warrior (evermore in gv)
+Color   %^ORANGE%^
 End
 
 #SPEAKER

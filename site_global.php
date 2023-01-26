@@ -1,4 +1,6 @@
 <?php
+date_default_timezone_set("America/Los_Angeles");
+
 function is_local_ip() {
     $visitor_ip = $_SERVER['REMOTE_ADDR'];
     if($visitor_ip == '104.156.100.167') // Hard coded DNS entry

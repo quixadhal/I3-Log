@@ -1,1 +1,1 @@
-{"ipaddress":"85.10.205.77","name":"Avalon","geoip":{"metro_code":0,"country_name":"Germany","city":"Nuremberg","longitude":11.0683,"zip_code":"90409","ip":"85.10.205.77","region_name":"Bavaria","latitude":49.4475,"region_code":"BY","time_zone":"Europe/Berlin","country_code":"DE"}}
+{"name":"Avalon","geoip":{"latitude":49.4475,"country_code":"DE","city":"Nuremberg","region_name":"Bavaria","time_zone":"Europe/Berlin","metro_code":0,"zip_code":"90409","longitude":11.0683,"country_name":"Germany","region_code":"BY","ip":"85.10.205.77"},"ipaddress":"85.10.205.77"}

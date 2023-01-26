@@ -541,15 +541,15 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                 <pre>
                 <?php
                     printf("%s      \n", ">>> This Week's Performance Average <<<");
-                    printf("%23s %20s %20s %20s\n", "Interface", "Average Ping", "Average Download", "Average Upload");
-                    printf("%23s %20s %20s %20s\n", "-----------------------", "--------------------", "--------------------", "--------------------");
+                    printf("%27s %20s %20s\n", "Interface", "Average Ping", "Average Download");
+                    printf("%27s %20s %20s\n", "---------------------------", "--------------------", "--------------------");
                     ksort($speedtest_avg);
                     foreach ($speedtest_avg as $k => $v) {
-                        $wire   = sprintf("%s (%s)", $k, $v["wire"]);
+                        $wire   = sprintf("%s (%s)", substr($k, -19), $v["wire"]);
                         $ping   = sprintf("%.3f ms", $v["ping"]);
                         $down   = sprintf("%.3f Mbps", $v["download"]);
                         $up     = sprintf("%.3f Mbps", $v["upload"]);
-                        printf("%23s %20s %20s %20s\n", $wire, $ping, $down, $up);
+                        printf("%23s %20s %20s\n", $wire, $ping, $down);
                     }
                 ?>
                 </pre>

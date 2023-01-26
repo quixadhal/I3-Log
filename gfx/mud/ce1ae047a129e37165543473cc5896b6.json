@@ -1,1 +1,1 @@
-{"ipaddress":"192.99.10.40","name":"CoreMUD","geoip":{"region_code":"QC","time_zone":"America/Toronto","country_code":"CA","latitude":45.5063,"region_name":"Quebec","ip":"192.99.10.40","zip_code":"H3A","longitude":-73.5795,"city":"Montreal","country_name":"Canada","metro_code":0}}
+{"name":"CoreMUD","geoip":{"country_code":"CA","longitude":-73.5795,"zip_code":"H3A","metro_code":0,"time_zone":"America/Toronto","region_code":"QC","region_name":"Quebec","ip":"192.99.10.40","country_name":"Canada","latitude":45.5063,"city":"Montreal"},"ipaddress":"192.99.10.40"}
