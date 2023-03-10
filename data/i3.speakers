@@ -1,5 +1,5 @@
 #COUNT
-Count   3187
+Count   3208
 End
 
 #SPEAKER
@@ -545,6 +545,11 @@ End
 #SPEAKER
 Name    albus
 Color   %^WHITE%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    aldar
+Color   %^CYAN%^
 End
 
 #SPEAKER
@@ -1925,6 +1930,16 @@ End
 #SPEAKER
 Name    berun
 Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    bessie the milkcow
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    bessie the milkcow (wop in gv)
+Color   %^BLUE%^
 End
 
 #SPEAKER
@@ -3585,6 +3600,16 @@ End
 #SPEAKER
 Name    dartal
 Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    darth molly
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    darth molly (mongoose in gv)
+Color   %^BLACK%^%^B_MAGENTA%^
 End
 
 #SPEAKER
@@ -5863,6 +5888,11 @@ Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
+Name    gordov
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
 Name    gorgar007
 Color   %^WHITE%^
 End
@@ -6048,6 +6078,16 @@ Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
+Name    gumml
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    gumml (grapevine in gv)
+Color   %^RED%^
+End
+
+#SPEAKER
 Name    gungho
 Color   %^WHITE%^%^BOLD%^
 End
@@ -6105,6 +6145,16 @@ End
 #SPEAKER
 Name    hagi
 Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    hahattpro
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    hahattpro (grapevine in gv)
+Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
@@ -7188,6 +7238,11 @@ Color   %^WHITE%^%^B_GREEN%^
 End
 
 #SPEAKER
+Name    joe (grapevine in gv)
+Color   %^BLACK%^%^B_CYAN%^
+End
+
+#SPEAKER
 Name    joffie
 Color   %^WHITE%^%^B_RED%^
 End
@@ -7589,6 +7644,11 @@ End
 
 #SPEAKER
 Name    kaziem
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    kblood
 Color   %^CYAN%^%^BOLD%^
 End
 
@@ -9468,6 +9528,11 @@ Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    mmiao
+Color   %^YELLOW%^
+End
+
+#SPEAKER
 Name    moab
 Color   %^BLACK%^%^BOLD%^
 End
@@ -10818,6 +10883,11 @@ Color   %^WHITE%^%^B_BLUE%^
 End
 
 #SPEAKER
+Name    phrygian
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
 Name    phrynicus
 Color   %^GREEN%^%^BOLD%^
 End
@@ -11913,6 +11983,16 @@ Color   %^ORANGE%^
 End
 
 #SPEAKER
+Name    sabels
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    sabels (grapevine in gv)
+Color   %^BLACK%^%^B_RED%^
+End
+
+#SPEAKER
 Name    sabreur
 Color   %^MAGENTA%^%^BOLD%^
 End
@@ -12370,6 +12450,11 @@ End
 #SPEAKER
 Name    shak
 Color   %^WHITE%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    shakath
+Color   %^RED%^
 End
 
 #SPEAKER
@@ -13880,6 +13965,16 @@ End
 #SPEAKER
 Name    the kobold
 Color   %^BLACK%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    the owl
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    the owl (wop in gv)
+Color   %^CYAN%^
 End
 
 #SPEAKER
@@ -15635,6 +15730,16 @@ End
 #SPEAKER
 Name    zaerth
 Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    zafrusteria
+Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    zafrusteria (wop in gv)
+Color   %^WHITE%^%^B_BLUE%^
 End
 
 #SPEAKER

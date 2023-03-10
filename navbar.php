@@ -44,5 +44,6 @@ if($isLocal) {
 $FORUM_URL              = "$URL_HOME/lpmuds.net/forum/index.html";
 $SERVER_URL             = "$URL_HOME/server.php";
 $GITHUB_URL             = "https://github.com/quixadhal/wileymud";
-$DISCORD_URL            = "https://discord.gg/kUduSsJ";
+//$DISCORD_URL            = "https://discord.gg/kUduSsJ"; // Kali's server
+$DISCORD_URL            = "https://discord.gg/mgnitl"; // Sali's server
 ?>
