@@ -15,12 +15,14 @@ $BACKGROUND_CSS         = "$URL_HOME/random_background_css.php?version=$BACKGROU
 $BACKGROUND_JS          = "$URL_HOME/random_background_js.php";
 $background_image_list  = array();
 $special_image_list     = array();
+$safe_special_image_list = array();
 $boring_image_list      = array();
 $today_dir_exists       = false;
 
 function random_background($dir) {
     global $background_image_list;
     global $special_image_list;
+    global $safe_special_image_list;
     global $boring_image_list;
     global $month_day;
     global $today_dir_exists;
@@ -51,6 +53,36 @@ function random_background($dir) {
         $jpg_list = glob("*.jpg");
         $png_list = glob("*.png");
         $special_image_list = array_merge($jpg_list, $png_list);
+        // Now we keep all the special stuff in ../kawaii/
+        // so we should be able to filter them out by using readlink()
+        // to check the eventual path, which should be either one or two
+        // symlink levels away.
+        foreach ($special_image_list as $i) {
+            if(is_link($i)) {
+                // Let's see...
+                $t = readlink($i);
+                if(is_link($t)) {
+                    // OK, this probably pointed to ../foo which may
+                    // then point to kawaii/blah...
+                    $t2 = readlink($t);
+                    if(strpos($t2, "kawaii/") !== false) {
+                        // NSFW
+                    } else {
+                        $safe_special_image_list[] = $i;
+                    }
+                } else {
+                    // Good, this points to a file (or is broken)
+                    // If the path has kawaii in it, skip it.
+                    if(strpos($t, "kawaii/") !== false) {
+                        // NSFW
+                    } else {
+                        $safe_special_image_list[] = $i;
+                    }
+                }
+            } else {
+                $safe_special_image_list[] = $i;
+            }
+        }
         $pick = array_rand($special_image_list);
     }
     chdir($old_dir);

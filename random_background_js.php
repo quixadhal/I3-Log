@@ -9,6 +9,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 var BackgroundImageList = <?php echo json_encode($background_image_list); ?>;
 var SpecialImageList = <?php echo json_encode($special_image_list); ?>;
+var SafeSpecialImageList = <?php echo json_encode($safe_special_image_list); ?>;
 var BoringImageList = <?php echo json_encode($boring_image_list); ?>;
 var TodayDirExists = <?php echo $today_dir_exists ? "1" : "0"; ?>;
 var VisitorIP = "<?php echo $VISITOR_IP; ?>";
@@ -124,14 +125,20 @@ function randomizeBackground() {
         $("#background-img").attr("src", OnePixelBG);
     } else {
         if(TodayDirExists) {
-            var bg_choice = Math.floor(SpecialImageList.length * Random.random());
-            var new_bg = "<?php echo "$SPECIAL_DIR_URL/"; ?>" + SpecialImageList[bg_choice];
-            $("#background-img").attr("src", new_bg);
+            if(NSFW) {
+                var bg_choice = Math.floor(SpecialImageList.length * Random.random());
+                var new_bg = "<?php echo "$SPECIAL_DIR_URL/"; ?>" + SpecialImageList[bg_choice];
+                $("#background-img").attr("src", new_bg);
+            } else {
+                var bg_choice = Math.floor(SafeSpecialImageList.length * Random.random());
+                var new_bg = "<?php echo "$SPECIAL_DIR_URL/"; ?>" + SafeSpecialImageList[bg_choice];
+                $("#background-img").attr("src", new_bg);
+            }
         } else {
             if(NSFW) {
                 // We said we're OK with overly cute anime images.
                 var bg_choice = Math.floor(BackgroundImageList.length * Random.random());
-                var new_bg = "<?php echo "$BORING_DIR_URL/"; ?>" + BackgroundImageList[bg_choice];
+                var new_bg = "<?php echo "$BACKGROUND_DIR_URL/"; ?>" + BackgroundImageList[bg_choice];
                 $("#background-img").attr("src", new_bg);
             } else {
                 // This lets us be SFW, unless Today overrides it.
