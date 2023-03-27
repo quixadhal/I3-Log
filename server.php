@@ -557,8 +557,8 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                 <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $speedtest_wifi['speedtest_current']; ?>" /> </td>
             </tr>
             <tr>
-                <td class="speedtest-left-column">Bellevue&nbsp;(wired)</td>
-                <td class="speedtest-right-column">Bellevue&nbsp;(wi-fi)</td>
+                <td class="speedtest-left-column">Bellevue&nbsp;(angband)</td>
+                <td class="speedtest-right-column">Bellevue&nbsp;(lenin)</td>
             </tr>
         </table>
 
