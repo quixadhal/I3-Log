@@ -513,8 +513,8 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
             </tr>
             <tr>
                 <td class="content-price-column"><s>34.99</s></td>
-                <td class="content-message-column"><a target="__pricelist" href="https://www.amazon.com/gp/product/B016K0896K/">TP-Link AC1300 PCIe WiFi PCIe Card(Archer T6E)- 2.4G/5G Dual Band Wireless PCI Express Adapter</a></td>
-                <td class="content-date-column">2020-12-24</td>
+                <td class="content-message-column"><s><a target="__pricelist" href="https://www.amazon.com/gp/product/B016K0896K/">TP-Link AC1300 PCIe WiFi PCIe Card(Archer T6E)- 2.4G/5G Dual Band Wireless PCI Express Adapter</a></s></td>
+                <td class="content-date-column"><s>2020-12-24</s></td>
                 <td class="content-status-column">REMOVED</td>
             </tr>
             <tr>
