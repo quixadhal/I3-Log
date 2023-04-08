@@ -611,8 +611,10 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                     <td>&nbsp;</td>
                     <td class="popup-text-column">
                             <pre>Blacklist entries: <?php pcmd("/bin/cat /etc/iptables/ipset.blacklist | /usr/bin/grep -v 'create blacklist' | /usr/bin/wc -l"); ?></pre>
+<!--
                             <pre><?php pcmd("/usr/bin/nmcli -f 'DEVICE,CHAN,BARS,SIGNAL,RATE,SSID' dev wifi | /usr/bin/egrep '(\s+SSID|\s+Dread_.748)'"); ?></pre>
                             <pre>Wifi Connection in use: <?php pcmd("/sbin/iwconfig wlp1s0 | grep ESSID"); ?></pre>
+-->
                             <pre>External IPv4 address: <?php pcmd("/home/wiley/bin/mudinfo -I wileymud"); ?></pre>
                             <pre><?php
                                     printf("%s %s\n",         "Wired Speedtest performed on", $speedtest["the_time"]);
@@ -623,6 +625,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                                     printf("%s %-.2f Mbps\n", "                upload      ", ($speedtest["upload"]["bandwidth"] * 8.0 / 1000000.0));
                                  ?>
                             </pre>
+<!--
                             <pre><?php
                                     printf("%s %s\n",         "Wi-fi Speedtest performed on", $speedtest_wifi["the_time"]);
                                     printf("%s %s:%s\n",      "                interface   ", $speedtest_wifi["interface"]["internalIp"], $speedtest_wifi["interface"]["name"]);
@@ -632,6 +635,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                                     printf("%s %-.2f Mbps\n", "                upload      ", ($speedtest_wifi["upload"]["bandwidth"] * 8.0 / 1000000.0));
                                  ?>
                             </pre>
+-->
                             <pre><?php echo htmlentities(file_get_contents($KELLY_MTR)); ?></pre>
                             <hr class="hr-100" />
                     </td>
