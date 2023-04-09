@@ -31,7 +31,7 @@ if(is_local_ip()) {
 $URL_HOME                   = https() . "://wileymud.themud.org/log";
 $FILE_HOME                  = "/home/www/log";
 
-$JQ                         = "$URL_HOME/inc/jquery-3.3.1.min.js";
+$JQ                         = "$URL_HOME/inc/jquery-3.5.0.min.js";
 $JQUI_CSS                   = "$URL_HOME/inc/jquery-ui-1.12.1.custom/jquery-ui.min.css";
 $JQUI_THEME                 = "$URL_HOME/inc/jquery-ui-1.12.1.custom/jquery-ui.theme.min.css";
 $JQUI                       = "$URL_HOME/inc/jquery-ui-1.12.1.custom/jquery-ui.min.js";
