@@ -1,0 +1,68 @@
+smartctl 7.3 2022-02-28 r5338 [x86_64-linux-6.1.0-7-amd64] (local build)
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Family:     Crucial/Micron Client SSDs
+Device Model:     Crucial_CT256M550SSD1
+Serial Number:    14240C510319
+LU WWN Device Id: 5 00a075 10c510319
+Firmware Version: MU01
+User Capacity:    256,060,514,304 bytes [256 GB]
+Sector Sizes:     512 bytes logical, 4096 bytes physical
+Rotation Rate:    Solid State Device
+Form Factor:      2.5 inches
+TRIM Command:     Available, deterministic, zeroed
+Device is:        In smartctl database 7.3/5319
+ATA Version is:   ACS-2, ATA8-ACS T13/1699-D revision 6
+SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)
+Local Time is:    Tue Apr 11 16:33:01 2023 PDT
+SMART support is: Available - device has SMART capability.
+SMART support is: Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+smartctl 7.3 2022-02-28 r5338 [x86_64-linux-6.1.0-7-amd64] (local build)
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Family:     Western Digital Red
+Device Model:     WDC WD40EFRX-68N32N0
+Serial Number:    WD-WCC7K4UC06R9
+LU WWN Device Id: 5 0014ee 263c251d6
+Firmware Version: 82.00A82
+User Capacity:    4,000,787,030,016 bytes [4.00 TB]
+Sector Sizes:     512 bytes logical, 4096 bytes physical
+Rotation Rate:    5400 rpm
+Form Factor:      3.5 inches
+Device is:        In smartctl database 7.3/5319
+ATA Version is:   ACS-3 T13/2161-D revision 5
+SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 3.0 Gb/s)
+Local Time is:    Tue Apr 11 16:33:01 2023 PDT
+SMART support is: Available - device has SMART capability.
+SMART support is: Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+
+smartctl 7.3 2022-02-28 r5338 [x86_64-linux-6.1.0-7-amd64] (local build)
+Copyright (C) 2002-22, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Model Family:     Western Digital Caviar Green
+Device Model:     WDC WD10EADS-00P6B0
+Serial Number:    WD-WCAV5S605620
+LU WWN Device Id: 5 0014ee 205c87e15
+Firmware Version: 01.00A01
+User Capacity:    1,000,204,886,016 bytes [1.00 TB]
+Sector Size:      512 bytes logical/physical
+Device is:        In smartctl database 7.3/5319
+ATA Version is:   ATA8-ACS (minor revision not indicated)
+SATA Version is:  SATA 2.6, 3.0 Gb/s
+Local Time is:    Tue Apr 11 16:33:01 2023 PDT
+SMART support is: Available - device has SMART capability.
+SMART support is: Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART overall-health self-assessment test result: PASSED
+

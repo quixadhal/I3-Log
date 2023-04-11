@@ -18,6 +18,7 @@ $SPEEDTEST_HEIGHT       = sprintf("%dpx", (int)($SPEEDTEST_HEIGHT_BASE * $SCALE)
 $SPEEDTEST_WIDTH        = sprintf("%dpx", (int)($SPEEDTEST_WIDTH_BASE * $SCALE));
 
 $KELLY_MTR              = "$FILE_HOME/data/kelly.mtr";
+$DISK_SMART             = "$FILE_HOME/data/disk.smart";
 
 $PG_DB      = "speedtest";
 $PG_USER    = "wiley";
@@ -676,6 +677,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                     <td>&nbsp;</td>
                     <td class="popup-text-column">
                         <pre><?php pcmd("/bin/df -h | /bin/grep -v 'udev' | /bin/grep -v 'tmpfs' | /bin/grep -v 'by-uuid'"); ?></pre>
+                        <pre><?php echo htmlentities(file_get_contents($DISK_SMART)); ?></pre>
                         <hr class="hr-100" />
                     </td>
                     <td>&nbsp;</td>

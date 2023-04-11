@@ -1,5 +1,5 @@
 #COUNT
-Count   3208
+Count   3224
 End
 
 #SPEAKER
@@ -3408,6 +3408,16 @@ Color   %^CYAN%^
 End
 
 #SPEAKER
+Name    daiverd shork
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    daiverd shork (mongoose in gv)
+Color   %^BLACK%^%^B_MAGENTA%^
+End
+
+#SPEAKER
 Name    dakra
 Color   %^MAGENTA%^%^BOLD%^
 End
@@ -5223,6 +5233,16 @@ Color   %^BLACK%^%^BOLD%^
 End
 
 #SPEAKER
+Name    fireside huxley
+Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    fireside huxley (mongoose in gv)
+Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
 Name    firestarman
 Color   %^MAGENTA%^%^BOLD%^
 End
@@ -5700,6 +5720,16 @@ End
 #SPEAKER
 Name    gellan
 Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    gene
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    gene (backrooms in gv)
+Color   %^BLACK%^%^B_YELLOW%^
 End
 
 #SPEAKER
@@ -6898,6 +6928,11 @@ Color   %^MAGENTA%^
 End
 
 #SPEAKER
+Name    itami
+Color   %^WHITE%^
+End
+
+#SPEAKER
 Name    ith
 Color   %^YELLOW%^
 End
@@ -7640,6 +7675,16 @@ End
 #SPEAKER
 Name    kazdean
 Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    kazemi
+Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    kazemi (mongoose in gv)
+Color   %^YELLOW%^
 End
 
 #SPEAKER
@@ -10030,6 +10075,16 @@ End
 #SPEAKER
 Name    nexuiz
 Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    nguyen oblate
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    nguyen oblate (mongoose in gv)
+Color   %^WHITE%^%^B_RED%^
 End
 
 #SPEAKER
@@ -13323,6 +13378,11 @@ Color   %^GREEN%^
 End
 
 #SPEAKER
+Name    stupid
+Color   %^BLACK%^%^B_RED%^
+End
+
+#SPEAKER
 Name    styx
 Color   %^BLACK%^%^BOLD%^
 End
@@ -13620,6 +13680,16 @@ End
 #SPEAKER
 Name    tallman
 Color   %^WHITE%^%^B_RED%^
+End
+
+#SPEAKER
+Name    talon
+Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    talon (mongoose in gv)
+Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
@@ -14600,6 +14670,16 @@ End
 #SPEAKER
 Name    tyler
 Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    tyler spivey
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    tyler spivey (mongoose in gv)
+Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
