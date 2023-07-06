@@ -1,1 +1,1 @@
-{"name":"Dark City","geoip":{"time_zone":"Europe/London","latitude":51.5164,"city":"London","country_code":"GB","region_name":"England","region_code":"ENG","ip":"178.79.173.99","zip_code":"EC2V","longitude":-0.093,"country_name":"United Kingdom","metro_code":0},"ipaddress":"178.79.173.99"}
+{"geoip":{"city":"London","country_name":"United Kingdom","ip":"178.79.173.99","longitude":-0.093,"latitude":51.5088,"country_code":"GB","region_name":"ENG"},"ipaddress":"178.79.173.99","name":"Dark City"}

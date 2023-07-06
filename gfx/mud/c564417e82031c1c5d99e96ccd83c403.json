@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"GB","longitude":-0.093,"zip_code":"EC2V","metro_code":0,"time_zone":"Europe/London","region_name":"England","ip":"178.79.173.99","region_code":"ENG","country_name":"United Kingdom","city":"London","latitude":51.5164},"ipaddress":"178.79.173.99","name":"Rogue-Edition"}
+{"ipaddress":"178.79.173.99","name":"Rogue-Edition","geoip":{"ip":"178.79.173.99","country_name":"United Kingdom","city":"London","region_name":"ENG","country_code":"GB","latitude":51.5088,"longitude":-0.093}}

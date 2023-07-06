@@ -1,5 +1,5 @@
 #COUNT
-Count   3224
+Count   3251
 End
 
 #SPEAKER
@@ -233,6 +233,11 @@ Color   %^YELLOW%^
 End
 
 #SPEAKER
+Name    abrutalorc
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    abulia
 Color   %^BLACK%^%^B_YELLOW%^
 End
@@ -385,6 +390,11 @@ End
 #SPEAKER
 Name    aesc
 Color   %^WHITE%^%^B_MAGENTA%^
+End
+
+#SPEAKER
+Name    aeschix
+Color   %^BLUE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -763,6 +773,16 @@ Color   %^MAGENTA%^
 End
 
 #SPEAKER
+Name    an elven dancer
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    an elven dancer (wop in gv)
+Color   %^BLACK%^%^B_GREEN%^
+End
+
+#SPEAKER
 Name    an invisible immortal
 Color   %^CYAN%^%^BOLD%^
 End
@@ -945,6 +965,11 @@ End
 #SPEAKER
 Name    anubis
 Color   %^BLACK%^%^B_MAGENTA%^
+End
+
+#SPEAKER
+Name    anuglyhalforc
+Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
@@ -2853,6 +2878,11 @@ Color   %^MAGENTA%^
 End
 
 #SPEAKER
+Name    chrnos
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
 Name    chromaldt
 Color   %^WHITE%^%^B_RED%^
 End
@@ -4683,6 +4713,11 @@ Color   %^WHITE%^%^B_BLUE%^
 End
 
 #SPEAKER
+Name    elwood
+Color   %^GREEN%^
+End
+
+#SPEAKER
 Name    elysium
 Color   %^BLUE%^
 End
@@ -6258,6 +6293,11 @@ Color   %^ORANGE%^
 End
 
 #SPEAKER
+Name    haplo
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    harik
 Color   %^BLUE%^%^BOLD%^
 End
@@ -7693,6 +7733,16 @@ Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    kazza
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    kazza (mongoose in gv)
+Color   %^WHITE%^
+End
+
+#SPEAKER
 Name    kblood
 Color   %^CYAN%^%^BOLD%^
 End
@@ -9108,6 +9158,16 @@ Color   %^GREEN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    marge300844
+Color   %^RED%^
+End
+
+#SPEAKER
+Name    marge300844 (neonmoo in gv)
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    mariah
 Color   %^BLUE%^%^BOLD%^
 End
@@ -9170,6 +9230,16 @@ End
 #SPEAKER
 Name    martinez
 Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    maslore
+Color   %^YELLOW%^
+End
+
+#SPEAKER
+Name    maslore (grapevine in gv)
+Color   %^BLACK%^%^BOLD%^
 End
 
 #SPEAKER
@@ -9738,6 +9808,16 @@ Color   %^GREEN%^
 End
 
 #SPEAKER
+Name    morris the moose
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    morris the moose (mongoose in gv)
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    mors
 Color   %^ORANGE%^
 End
@@ -9775,6 +9855,11 @@ End
 #SPEAKER
 Name    mouse
 Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    moustafa
+Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
@@ -10893,6 +10978,11 @@ Color   %^GREEN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    pgt
+Color   %^WHITE%^
+End
+
+#SPEAKER
 Name    phabian
 Color   %^WHITE%^%^B_BLUE%^
 End
@@ -11823,6 +11913,16 @@ Color   %^WHITE%^%^B_MAGENTA%^
 End
 
 #SPEAKER
+Name    rishla
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    rishla (wop in gv)
+Color   %^GREEN%^
+End
+
+#SPEAKER
 Name    riverphoenix
 Color   %^CYAN%^%^BOLD%^
 End
@@ -12050,6 +12150,16 @@ End
 #SPEAKER
 Name    sabreur
 Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    saeed
+Color   %^YELLOW%^
+End
+
+#SPEAKER
+Name    saeed (mongoose in gv)
+Color   %^BLACK%^%^B_YELLOW%^
 End
 
 #SPEAKER
@@ -13558,6 +13668,16 @@ Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
+Name    tabasko
+Color   %^CYAN%^
+End
+
+#SPEAKER
+Name    tabasko (wop in gv)
+Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
 Name    tacitus
 Color   %^BLACK%^%^B_WHITE%^
 End
@@ -13900,6 +14020,11 @@ End
 #SPEAKER
 Name    terano
 Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    terin
+Color   %^BLUE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -14590,6 +14715,16 @@ End
 #SPEAKER
 Name    tsath
 Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    tsath@goo
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    tsath@space mud
+Color   %^BLUE%^%^BOLD%^
 End
 
 #SPEAKER

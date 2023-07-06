@@ -1,1 +1,1 @@
-{"geoip":{"latitude":47.63,"city":"Seattle","country_name":"United States","time_zone":"America/Los_Angeles","ip":"24.18.138.217","region_name":"Washington","region_code":"WA","metro_code":819,"zip_code":"98112","country_code":"US","longitude":-122.2972},"ipaddress":"24.18.138.217","name":"FOR_NOW"}
+{"name":"FOR_NOW","ipaddress":"24.18.138.217","geoip":{"city":"Everett","ip":"24.18.138.217","country_name":"United States","country_code":"US","latitude":47.9856,"region_name":"WA","longitude":-122.2002}}

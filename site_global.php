@@ -97,4 +97,6 @@ $LOG_PAGE_CSS               = "$URL_HOME/log_page_css.php?version=$LOG_PAGE_TIME
 $LOG_PAGE_JS                = "$URL_HOME/log_page_js.php";
 $VISITOR_IP                 = $_SERVER['REMOTE_ADDR'];
 
+$DOWNLOAD_URL               = "$URL_HOME/data/i3log.sql.xz";
+
 ?>

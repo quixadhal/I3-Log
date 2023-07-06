@@ -1,1 +1,1 @@
-{"name":"The Zone","geoip":{"country_code":"NL","longitude":5.4009,"zip_code":"5657","time_zone":"Europe/Amsterdam","region_code":"NB","region_name":"North Brabant","ip":"136.144.155.250","metro_code":0,"city":"Eindhoven","latitude":51.4513,"country_name":"Netherlands"},"ipaddress":"136.144.155.250"}
+{"geoip":{"country_name":"Netherlands","ip":"136.144.155.250","city":"Reek","region_name":"NB","latitude":51.7447,"country_code":"NL","longitude":5.6815},"ipaddress":"136.144.155.250","name":"The Zone"}

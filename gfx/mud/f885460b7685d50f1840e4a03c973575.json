@@ -1,1 +1,1 @@
-{"ipaddress":"12.7.112.67","geoip":{"latitude":33.919,"longitude":-117.2359,"city":"Moreno Valley","country_name":"United States","region_name":"California","country_code":"US","time_zone":"America/Los_Angeles","metro_code":803,"ip":"12.7.112.67","region_code":"CA","zip_code":"92553"},"name":"TestMUD"}
+{"geoip":{"longitude":-114.1102,"latitude":51.0605,"country_code":"CA","region_name":"AB","city":"Calgary","country_name":"Canada","ip":"206.75.7.134"},"name":"TestMUD","ipaddress":"206.75.7.134"}

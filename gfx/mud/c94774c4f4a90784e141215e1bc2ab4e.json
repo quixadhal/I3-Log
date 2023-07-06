@@ -1,1 +1,1 @@
-{"name":"CoffeeMud","geoip":{"country_code":"US","longitude":-97.6796,"zip_code":"78681","time_zone":"America/Chicago","region_name":"Texas","ip":"104.14.28.106","region_code":"TX","metro_code":635,"city":"Round Rock","latitude":30.5089,"country_name":"United States"},"ipaddress":"104.14.28.106"}
+{"geoip":{"longitude":-97.6796,"region_name":"TX","latitude":30.5089,"country_code":"US","country_name":"United States","ip":"104.14.28.106","city":"Round Rock"},"ipaddress":"104.14.28.106","name":"CoffeeMud"}

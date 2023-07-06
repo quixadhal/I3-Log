@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-0.093,"country_code":"GB","zip_code":"EC2V","metro_code":0,"region_name":"England","ip":"139.162.227.40","region_code":"ENG","time_zone":"Europe/London","country_name":"United Kingdom","city":"London","latitude":51.5164},"ipaddress":"139.162.227.40","name":"Your MUD Name"}
+{"ipaddress":"139.162.227.40","name":"Your MUD Name","geoip":{"country_name":"United Kingdom","ip":"139.162.227.40","city":"London","region_name":"ENG","latitude":51.5088,"country_code":"GB","longitude":-0.093}}

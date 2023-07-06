@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"","country_name":"Germany","city":"","ip":"159.69.87.242","latitude":51.2993,"country_code":"DE","metro_code":0,"longitude":9.491,"region_code":"","time_zone":"Europe/Berlin","zip_code":""},"ipaddress":"159.69.87.242","name":"OuterSpace"}
+{"name":"OuterSpace","ipaddress":"159.69.87.242","geoip":{"city":"Nuremberg","ip":"159.69.87.242","country_name":"Germany","longitude":11.0191,"country_code":"DE","latitude":49.4423,"region_name":"BY"}}

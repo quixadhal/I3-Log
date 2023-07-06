@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"Michigan","latitude":43.1772,"time_zone":"America/Detroit","country_code":"US","ip":"97.95.97.92","city":"Greenville","zip_code":"48838","metro_code":563,"longitude":-85.2473,"country_name":"United States","region_code":"MI"},"ipaddress":"97.95.97.92","name":"The Third Age"}
+{"name":"The Third Age","ipaddress":"174.84.194.241","geoip":{"longitude":-85.2066,"latitude":42.2967,"country_name":"United States","region_name":"MI","country_code":"US","city":"Battle Creek","ip":"174.84.194.241"}}

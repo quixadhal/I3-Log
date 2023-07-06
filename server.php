@@ -374,6 +374,19 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                         element.style.color = '#808080';
                     }
             }
+            function scrollToAnchor(aId) {
+                anchor_tag = $("a[name='" + aId + "']");
+                $('html,body').animate({scrollTop: anchor_tag.offset().top - <?php echo "($ICON_BASE * $SCALE)"; ?> }, 'slow');
+            }
+            function revealHashId() {
+                anchor_name = window.location.hash.substring(1);
+                //console.log(anchor_name);
+                if(anchor_name) {
+                    toggleDiv('hacklog');
+                    toggleLight('hacklog-light');
+                    scrollToAnchor(anchor_name);
+                }
+            }
             $(document).ready(function() {
                 hideDiv('uptime');
                 hideDiv('network');
@@ -391,6 +404,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                 updateRefreshTime();
                 backgroundTimer = setInterval(randomizeBackground, 1000 * 60 * 5);
                 // clearInterval(backgroundTimer);
+                setTimeout(revealHashId, 500);
             });
         </script>
     </head>
@@ -538,30 +552,34 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
         <table id="speedtest-table">
             <tr>
                 <!-- <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $speedtest['speedtest_current']; ?>" /> </td> -->
-                <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $ONE_PIXEL_ICON; ?>" /> </td>
+                <!-- <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $ONE_PIXEL_ICON; ?>" /> </td> -->
+                <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $speedtest_wifi['speedtest_current']; ?>" /> </td>
                 <td class="speedtest-text-column" rowspan="0">
                 <pre>
                 <?php
                     printf("%s      \n", ">>> This Week's Performance Average <<<");
-                    printf("%27s %20s %20s\n", "Interface", "Average Ping", "Average Download");
-                    printf("%27s %20s %20s\n", "---------------------------", "--------------------", "--------------------");
+                    printf("%27s %20s %20s %20s\n", "Interface", "Average Ping", "Average Download", "Average Upload");
+                    printf("%27s %20s %20s %20s\n", "---------------------------", "--------------------", "--------------------", "--------------------");
                     ksort($speedtest_avg);
                     foreach ($speedtest_avg as $k => $v) {
                         $wire   = sprintf("%s (%s)", substr($k, -19), $v["wire"]);
                         $ping   = sprintf("%.3f ms", $v["ping"]);
                         $down   = sprintf("%.3f Mbps", $v["download"]);
                         $up     = sprintf("%.3f Mbps", $v["upload"]);
-                        printf("%23s %20s %20s\n", $wire, $ping, $down);
+                        printf("%26s %20s %20s %20s\n", $wire, $ping, $down, $up);
                     }
                 ?>
                 </pre>
                 </td>
-                <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $speedtest_wifi['speedtest_current']; ?>" /> </td>
+                <!-- <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $speedtest_wifi['speedtest_current']; ?>" /> </td> -->
+                <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $ONE_PIXEL_ICON; ?>" /> </td>
             </tr>
             <tr>
                 <!-- <td class="speedtest-left-column">Bellevue&nbsp;(angband)</td> -->
-                <td class="speedtest-left-column">&nbsp;</td>
-                <td class="speedtest-right-column">Bellevue&nbsp;(lenin)</td>
+                <!-- <td class="speedtest-left-column">&nbsp;</td> -->
+                <!-- <td class="speedtest-right-column">Bellevue&nbsp;(lenin)</td> -->
+                <td class="speedtest-left-column">Bellevue&nbsp;(lenin)</td>
+                <td class="speedtest-right-column">&nbsp;</td>
             </tr>
         </table>
 
@@ -698,8 +716,15 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
             </table>
         </div>
 
+<?php
+        $hacklog = htmlentities(file_get_contents("/home/wiley/HACKLOG"));
+        $hacklog = preg_replace(
+            '/^([0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9])$/m',
+            '<a name="hacklog_$1">$1</a>',
+            $hacklog);
+?>
         <div id="hacklog" class="greeting">
-            <pre><?php echo htmlentities(file_get_contents("/home/wiley/HACKLOG")); ?></pre>
+            <pre><?php echo $hacklog; ?></pre>
             <hr class="hr-100" />
         </div>
 
