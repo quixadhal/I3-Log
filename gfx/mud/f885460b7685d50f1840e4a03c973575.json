@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-114.1102,"latitude":51.0605,"country_code":"CA","region_name":"AB","city":"Calgary","country_name":"Canada","ip":"206.75.7.134"},"name":"TestMUD","ipaddress":"206.75.7.134"}
+{"ipaddress":"206.75.7.134","name":"TestMUD","geoip":{"city":"Calgary","longitude":-114.1102,"country_code":"CA","region_name":"AB","country_name":"Canada","latitude":51.0605,"ip":"206.75.7.134"}}

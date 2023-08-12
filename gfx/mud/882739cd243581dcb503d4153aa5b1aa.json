@@ -1,1 +1,1 @@
-{"ipaddress":"172.105.94.5","name":"Wow MUD","geoip":{"city":"Frankfurt am Main","ip":"172.105.94.5","country_name":"Germany","longitude":8.6843,"country_code":"DE","latitude":50.1188,"region_name":"HE"}}
+{"ipaddress":"172.105.94.5","geoip":{"ip":"172.105.94.5","region_name":"HE","country_name":"Germany","country_code":"DE","latitude":50.1188,"city":"Frankfurt am Main","longitude":8.6843},"login":1,"name":"Wow MUD"}

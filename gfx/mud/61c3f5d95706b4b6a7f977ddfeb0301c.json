@@ -1,1 +1,1 @@
-{"geoip":{"city":"North Bergen","country_name":"United States","ip":"64.227.16.38","longitude":-74.0247,"latitude":40.793,"country_code":"US","region_name":"NJ"},"ipaddress":"64.227.16.38","name":"LuridMUD"}
+{"name":"LuridMUD","ipaddress":"64.227.16.38","geoip":{"country_code":"US","longitude":-74.0247,"city":"North Bergen","ip":"64.227.16.38","latitude":40.793,"country_name":"United States","region_name":"NJ"}}

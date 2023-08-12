@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"Canada","ip":"174.88.31.186","city":"Toronto","region_name":"ON","latitude":43.6653,"country_code":"CA","longitude":-79.4343},"name":"gessland","ipaddress":"174.88.31.186"}
+{"name":"gessland","ipaddress":"174.88.31.186","geoip":{"latitude":43.6653,"country_code":"CA","region_name":"ON","country_name":"Canada","city":"Toronto","longitude":-79.4343,"ip":"174.88.31.186"}}

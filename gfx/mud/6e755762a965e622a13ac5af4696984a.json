@@ -1,1 +1,1 @@
-{"geoip":{"ip":"174.229.20.1","country_name":"United States","city":"","longitude":-86.8033,"region_name":"AL","country_code":"US","latitude":33.5226},"ipaddress":"174.229.20.1","name":"test mud"}
+{"geoip":{"latitude":33.5226,"region_name":"AL","country_code":"US","country_name":"United States","city":"","ip":"174.229.20.1","longitude":-86.8033},"ipaddress":"174.229.20.1","name":"test mud"}

@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","latitude":45.1936,"region_name":"OR","longitude":-123.077,"city":"Dayton","ip":"69.168.113.6","country_name":"United States"},"name":"DarkeMUD","ipaddress":"69.168.113.6"}
+{"ipaddress":"69.168.113.6","geoip":{"city":"Dayton","longitude":-123.077,"latitude":45.1936,"ip":"69.168.113.6","region_name":"OR","country_name":"United States","country_code":"US"},"login":1,"name":"DarkeMUD"}

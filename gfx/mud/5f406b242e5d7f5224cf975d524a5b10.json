@@ -1,1 +1,1 @@
-{"geoip":{"city":"London","country_name":"United Kingdom","ip":"178.79.173.99","longitude":-0.093,"latitude":51.5088,"country_code":"GB","region_name":"ENG"},"ipaddress":"178.79.173.99","name":"Dark City"}
+{"name":"Dark City","login":0,"geoip":{"ip":"178.79.173.99","country_name":"United Kingdom","country_code":"GB","region_name":"ENG","city":"London","longitude":-0.093,"latitude":51.5088},"ipaddress":"178.79.173.99"}

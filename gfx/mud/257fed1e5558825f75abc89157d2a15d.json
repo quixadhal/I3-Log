@@ -1,1 +1,1 @@
-{"geoip":{"latitude":32.2506,"country_code":"US","region_name":"AZ","longitude":-110.884,"city":"Tucson","country_name":"United States","ip":"24.251.213.76"},"ipaddress":"24.251.213.76","name":"The Dragon Call"}
+{"ipaddress":"24.251.213.76","name":"The Dragon Call","geoip":{"longitude":-110.884,"region_name":"AZ","country_name":"United States","latitude":32.2506,"ip":"24.251.213.76","country_code":"US","city":"Tucson"}}

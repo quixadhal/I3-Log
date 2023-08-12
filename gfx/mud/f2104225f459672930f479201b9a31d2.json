@@ -1,1 +1,1 @@
-{"name":"Oblivion Mud","ipaddress":"74.109.234.32","geoip":{"region_name":"PA","country_code":"US","latitude":40.4295,"longitude":-80.0152,"ip":"74.109.234.32","country_name":"United States","city":"Pittsburgh"}}
+{"geoip":{"ip":"74.109.234.32","city":"Pittsburgh","country_code":"US","region_name":"PA","latitude":40.4295,"country_name":"United States","longitude":-80.0152},"name":"Oblivion Mud","login":0,"ipaddress":"74.109.234.32"}

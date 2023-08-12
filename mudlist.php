@@ -233,11 +233,22 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 $image_counter = 0;
                 $online_counter = 0;
                 $verified_counter = 0;
-                $total_muds = sizeof($mudlist["mudlist"]);
                 $opacity = "opacity: 1.0;";
+                //$combined_mudlist = array_merge($mudlist["mudlist"], $mssp_mudlist["mudlist"]);
+                $combined = array();
                 foreach ($mudlist["mudlist"] as $mud) {
+                    $combined[] = $mud;
+                }
+                foreach ($mssp_mudlist["mudlist"] as $mud) {
+                    $combined[] = $mud;
+                }
+                usort( $combined, function($a,$b) {return strnatcasecmp($a["name"], $b["name"]);} );
+                $combined_mudlist = $combined;
+                //$combined_mudlist = $mudlist["mudlist"];
+                $total_muds = sizeof($combined_mudlist);
+                foreach ($combined_mudlist as $mud) {
                     if($mud["from_mssp"] == 1) {
-                        $opacity = "opacity: 0.25; background: rgba(0,255,0,0.25);";
+                        $opacity = "opacity: 0.50; background: rgba(0,255,0,0.25);";
                     } else if($mud["online"] == 0) {
                         $opacity = "opacity: 0.25; background: rgba(255,0,0,0.25);";
                     } else {

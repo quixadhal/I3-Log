@@ -1,1 +1,1 @@
-{"name":"lpcdb","ipaddress":"136.144.155.250","geoip":{"country_code":"NL","latitude":51.7447,"region_name":"NB","longitude":5.6815,"city":"Reek","ip":"136.144.155.250","country_name":"Netherlands"}}
+{"login":1,"name":"lpcdb","geoip":{"city":"Reek","longitude":5.6815,"latitude":51.7447,"ip":"136.144.155.250","country_name":"Netherlands","country_code":"NL","region_name":"NB"},"ipaddress":"136.144.155.250"}

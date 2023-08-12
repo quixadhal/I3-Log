@@ -1,1 +1,1 @@
-{"ipaddress":"45.56.92.184","name":"DarkLands MUD","geoip":{"longitude":-122.0004,"region_name":"CA","country_code":"US","latitude":37.5625,"ip":"45.56.92.184","country_name":"United States","city":"Fremont"}}
+{"ipaddress":"45.56.92.184","geoip":{"longitude":-122.0004,"city":"Fremont","latitude":37.5625,"country_name":"United States","country_code":"US","region_name":"CA","ip":"45.56.92.184"},"login":1,"name":"DarkLands MUD"}

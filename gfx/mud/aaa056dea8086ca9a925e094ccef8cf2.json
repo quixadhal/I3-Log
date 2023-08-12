@@ -1,1 +1,1 @@
-{"name":"Your Muds Name Here","ipaddress":"98.28.162.5","geoip":{"longitude":-83.7998,"region_name":"OH","country_code":"US","latitude":39.7465,"ip":"98.28.162.5","country_name":"United States","city":"Cedarville"}}
+{"geoip":{"region_name":"OH","country_name":"United States","country_code":"US","ip":"98.28.162.5","latitude":39.7465,"longitude":-83.7998,"city":"Cedarville"},"ipaddress":"98.28.162.5","login":1,"name":"Your Muds Name Here"}

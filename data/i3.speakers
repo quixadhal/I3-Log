@@ -1,5 +1,5 @@
 #COUNT
-Count   3251
+Count   3257
 End
 
 #SPEAKER
@@ -265,6 +265,11 @@ End
 #SPEAKER
 Name    achille
 Color   %^BLACK%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    acire
+Color   %^WHITE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -640,6 +645,11 @@ End
 #SPEAKER
 Name    aljldjge
 Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    aloha
+Color   %^BLACK%^%^BOLD%^
 End
 
 #SPEAKER
@@ -9808,6 +9818,16 @@ Color   %^GREEN%^
 End
 
 #SPEAKER
+Name    morris the moo
+Color   %^RED%^
+End
+
+#SPEAKER
+Name    morris the moo (mongoose in gv)
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
 Name    morris the moose
 Color   %^BLUE%^
 End
@@ -9840,6 +9860,11 @@ End
 #SPEAKER
 Name    morvudd
 Color   %^RED%^
+End
+
+#SPEAKER
+Name    moss
+Color   %^GREEN%^
 End
 
 #SPEAKER
@@ -11924,6 +11949,11 @@ End
 
 #SPEAKER
 Name    riverphoenix
+Color   %^CYAN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    riverwind
 Color   %^CYAN%^%^BOLD%^
 End
 

@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-122.0004,"country_code":"US","latitude":37.5625,"region_name":"CA","city":"Fremont","ip":"192.81.131.178","country_name":"United States"},"name":"Dead_Souls_marelle","ipaddress":"192.81.131.178"}
+{"ipaddress":"192.81.131.178","geoip":{"ip":"192.81.131.178","country_code":"US","country_name":"United States","region_name":"CA","city":"Fremont","longitude":-122.0004,"latitude":37.5625},"name":"Dead_Souls_marelle","login":1}

@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-121.9753,"latitude":37.3417,"country_code":"US","region_name":"CA","city":"Santa Clara","country_name":"United States","ip":"138.68.247.72"},"name":"GTFO","ipaddress":"138.68.247.72"}
+{"name":"GTFO","login":1,"geoip":{"city":"Santa Clara","longitude":-121.9753,"latitude":37.3417,"ip":"138.68.247.72","region_name":"CA","country_name":"United States","country_code":"US"},"ipaddress":"138.68.247.72"}

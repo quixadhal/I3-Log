@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"South Africa","country_code":"ZA","metro_code":0,"longitude":18.4155,"region_name":"Western Cape","time_zone":"Africa/Johannesburg","latitude":-33.9165,"ip":"102.65.4.253","city":"Cape Town","zip_code":"7441","region_code":"WC"},"name":"Testing","ipaddress":"102.65.4.253"}
+{"geoip":{"ip":"73.239.80.47","city":"Spokane","country_code":"US","region_name":"WA","latitude":47.6987,"country_name":"United States","longitude":-117.4397},"ipaddress":"73.239.80.47","login":0,"name":"Testing"}
