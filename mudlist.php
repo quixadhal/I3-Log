@@ -248,7 +248,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 $total_muds = sizeof($combined_mudlist);
                 foreach ($combined_mudlist as $mud) {
                     if($mud["from_mssp"] == 1) {
-                        $opacity = "opacity: 0.50; background: rgba(0,255,0,0.25);";
+                        $opacity = "opacity: 0.40; background: rgba(0,255,0,0.25);";
                     } else if($mud["online"] == 0) {
                         $opacity = "opacity: 0.25; background: rgba(255,0,0,0.25);";
                     } else {
@@ -295,10 +295,17 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                             $update_stamp = "Online!";
                             // For some reason, some muds say they're offline even
                             // though they are not...
-                            $opacity = "opacity: 1.0;";
+                            if($mud["from_mssp"] == 1) {
+                                $opacity = "opacity: 0.75; background: rgba(0,255,0,0.25);";
+                            } else {
+                                $opacity = "opacity: 1.0;";
+                            }
                         } else {
                             $update_stamp = date("g:i a", $updatetime);
                             $update_stamp = "Last seen today, at $update_stamp";
+                            if($mud["from_mssp"] == 1) {
+                                $opacity = "opacity: 0.65; background: rgba(0,255,0,0.25);";
+                            }
                         }
                     } else if( $update_stamp === $yesterday_stamp ) {
                             $update_stamp = date("g:i a", $updatetime);
