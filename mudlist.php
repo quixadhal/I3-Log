@@ -297,7 +297,9 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                             // though they are not...
                             $update_stamp = "Online!";
                             $opacity = "opacity: 1.0;";
-                            $online_counter++;
+                            if($mud["online"] == 0) {
+                                $online_counter++;
+                            }
                         } else {
                             $opacity = "opacity: 0.4; background: rgba(255,0,0,0.25);";
                             $update_stamp = date("g:i a", $updatetime);
