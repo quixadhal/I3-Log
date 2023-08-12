@@ -18,6 +18,7 @@ $SPEEDTEST_HEIGHT       = sprintf("%dpx", (int)($SPEEDTEST_HEIGHT_BASE * $SCALE)
 $SPEEDTEST_WIDTH        = sprintf("%dpx", (int)($SPEEDTEST_WIDTH_BASE * $SCALE));
 
 $KELLY_MTR              = "$FILE_HOME/data/kelly.mtr";
+$DALET_MTR              = "$FILE_HOME/data/dalet.mtr";
 $DISK_SMART             = "$FILE_HOME/data/disk.smart";
 
 $PG_DB      = "speedtest";
@@ -656,6 +657,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                             </pre>
 -->
                             <pre><?php echo htmlentities(file_get_contents($KELLY_MTR)); ?></pre>
+                            <pre><?php echo htmlentities(file_get_contents($DALET_MTR)); ?></pre>
                             <hr class="hr-100" />
                     </td>
                     <td>&nbsp;</td>

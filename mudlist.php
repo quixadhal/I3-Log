@@ -236,7 +236,9 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 $total_muds = sizeof($mudlist["mudlist"]);
                 $opacity = "opacity: 1.0;";
                 foreach ($mudlist["mudlist"] as $mud) {
-                    if($mud["online"] == 0) {
+                    if($mud["from_mssp"] == 1) {
+                        $opacity = "opacity: 0.25; background: rgba(0,255,0,0.25);";
+                    } else if($mud["online"] == 0) {
                         $opacity = "opacity: 0.25; background: rgba(255,0,0,0.25);";
                     } else {
                         $opacity = "opacity: 1.0;";
