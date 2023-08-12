@@ -336,6 +336,10 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                     $latitude = "";
                     $longitude = "";
                     $map_url = "";
+                    $side = "left";
+                    if($counter % 2) {
+                        $side = "right";
+                    }
                     if(file_exists($geo_filename)) {
                         $geo_text = file_get_contents($geo_filename);
                         $geo_ip = json_decode($geo_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
@@ -352,14 +356,14 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                         }
                     }
                     ?>
-                    <td class="content-left-login" style="<?php echo $opacity; ?>">
+                    <td class="content-<?php echo $side; ?>-login" style="<?php echo $opacity; ?>">
                         <div class="gallery-item">
                             <a href="<?php echo $fileurl; ?>" data-lightbox>
                                 <img border="0" width="192" height="120" src="<?php echo $fileurl; ?>" />
                             </a>
                         </div>
                     </td>
-                    <td class="content-left-gap" style="<?php echo $opacity; ?>">
+                    <td class="content-<?php echo $side; ?>-gap" style="<?php echo $opacity; ?>">
                         <?php
                             if( $mud["from_mssp"] == 1 ) {
                                 echo "MSSP";
@@ -368,7 +372,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                             }
                         ?>
                     </td>
-                    <td class="content-left-info" style="<?php echo $opacity; ?>">
+                    <td class="content-<?php echo $side; ?>-info" style="<?php echo $opacity; ?>">
                         <a target="I3 mudlist" href="http://<?php echo $mud["ipaddress"]; ?>/">
                             <?php echo $mud["name"]; ?>
                         </a><br />
