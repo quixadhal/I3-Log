@@ -308,9 +308,9 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                             // If they ARE on I3, and are not present, we do want
                             // to say they're offline via the red tint.
                             if( $mud["from_mssp"] == 1 ) {
-                                $opacity = "opacity: 0.4;";
+                                $opacity = "opacity: 0.5;";
                             } else {
-                                $opacity = "opacity: 0.4; background: rgba(255,0,0,0.25);";
+                                $opacity = "opacity: 0.5; background: rgba(255,0,0,0.25);";
                             }
                             $update_stamp = date("g:i a", $updatetime);
                             $update_stamp = "Last seen today, at $update_stamp";
