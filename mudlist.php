@@ -301,7 +301,17 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                                 $online_counter++;
                             }
                         } else {
-                            $opacity = "opacity: 0.4; background: rgba(255,0,0,0.25);";
+                            // The logic here is that we only poll MSSP every
+                            // 3 hours, and anyone who isn't on I3, our data is
+                            // stale... but if it's from today, maybe it is still
+                            // online?
+                            // If they ARE on I3, and are not present, we do want
+                            // to say they're offline via the red tint.
+                            if( $mud["from_mssp"] == 1 ) {
+                                $opacity = "opacity: 0.4;";
+                            } else {
+                                $opacity = "opacity: 0.4; background: rgba(255,0,0,0.25);";
+                            }
                             $update_stamp = date("g:i a", $updatetime);
                             $update_stamp = "Last seen today, at $update_stamp";
                         }
