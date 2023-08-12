@@ -129,7 +129,8 @@ header("Content-type: text/css");
     width: 194px;
 }
 .content-left-gap {
-    text-align: left;
+    text-align: center;
+    font-size: <?php echo $TINY_FONT_SIZE; ?>;
     width: 50px;
 }
 .content-left-info {
@@ -141,7 +142,8 @@ header("Content-type: text/css");
     width: 194px;
 }
 .content-right-gap {
-    text-align: left;
+    text-align: center;
+    font-size: <?php echo $TINY_FONT_SIZE; ?>;
     width: 50px;
 }
 .content-right-info {

@@ -247,9 +247,10 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 //$combined_mudlist = $mudlist["mudlist"];
                 $total_muds = sizeof($combined_mudlist);
                 foreach ($combined_mudlist as $mud) {
-                    if($mud["from_mssp"] == 1) {
-                        $opacity = "opacity: 0.40; background: rgba(0,255,0,0.25);";
-                    } else if($mud["online"] == 0) {
+                    //if($mud["from_mssp"] == 1) {
+                    //    $opacity = "opacity: 0.40; background: rgba(0,255,0,0.25);";
+                    //} else if($mud["online"] == 0) {
+                    if($mud["online"] == 0) {
                         $opacity = "opacity: 0.25; background: rgba(255,0,0,0.25);";
                     } else {
                         $opacity = "opacity: 1.0;";
@@ -292,20 +293,15 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                         $hour_stamp = date("H", $updatetime);
                         $now_hour = date("H");
                         if( $now_hour === $hour_stamp ) {
-                            $update_stamp = "Online!";
                             // For some reason, some muds say they're offline even
                             // though they are not...
-                            if($mud["from_mssp"] == 1) {
-                                $opacity = "opacity: 0.75; background: rgba(0,255,0,0.25);";
-                            } else {
-                                $opacity = "opacity: 1.0;";
-                            }
+                            $update_stamp = "Online!";
+                            $opacity = "opacity: 1.0;";
+                            $online_counter++;
                         } else {
+                            $opacity = "opacity: 0.4; background: rgba(255,0,0,0.25);";
                             $update_stamp = date("g:i a", $updatetime);
                             $update_stamp = "Last seen today, at $update_stamp";
-                            if($mud["from_mssp"] == 1) {
-                                $opacity = "opacity: 0.65; background: rgba(0,255,0,0.25);";
-                            }
                         }
                     } else if( $update_stamp === $yesterday_stamp ) {
                             $update_stamp = date("g:i a", $updatetime);
@@ -315,6 +311,12 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                     } else {
                         $update_stamp = "Last seen on $update_stamp";
                     }
+
+                    //if( $mud["from_mssp"] == 1 ) {
+                    //    $update_stamp = "$update_stamp [MSSP]";
+                    //} else {
+                    //    $update_stamp = "$update_stamp [I3]";
+                    //}
 
                     $geo_file = "gfx/mud/" . $mud["md5"] . ".json";
                     $geo_filename = "$FILE_HOME/$geo_file";
@@ -345,7 +347,15 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                             </a>
                         </div>
                     </td>
-                    <td class="content-left-gap" style="<?php echo $opacity; ?>">&nbsp;</td>
+                    <td class="content-left-gap" style="<?php echo $opacity; ?>">
+                        <?php
+                            if( $mud["from_mssp"] == 1 ) {
+                                echo "MSSP";
+                            } else {
+                                echo "I3";
+                            }
+                        ?>
+                    </td>
                     <td class="content-left-info" style="<?php echo $opacity; ?>">
                         <a target="I3 mudlist" href="http://<?php echo $mud["ipaddress"]; ?>/">
                             <?php echo $mud["name"]; ?>
