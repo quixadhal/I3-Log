@@ -234,17 +234,18 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 $online_counter = 0;
                 $verified_counter = 0;
                 $opacity = "opacity: 1.0;";
-                //$combined_mudlist = array_merge($mudlist["mudlist"], $mssp_mudlist["mudlist"]);
-                $combined = array();
-                foreach ($mudlist["mudlist"] as $mud) {
-                    $combined[] = $mud;
-                }
+
+                $mssp_mudlist_text          = file_get_contents($MSSP_MUDLIST_JSON);
+                $mssp_mudlist               = json_decode($mssp_mudlist_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
+                $combined_mudlist           = array();
                 foreach ($mssp_mudlist["mudlist"] as $mud) {
-                    $combined[] = $mud;
+                    $combined_mudlist[] = $mud;
                 }
-                usort( $combined, function($a,$b) {return strnatcasecmp($a["name"], $b["name"]);} );
-                $combined_mudlist = $combined;
-                //$combined_mudlist = $mudlist["mudlist"];
+                foreach ($mudlist["mudlist"] as $mud) {
+                    $combined_mudlist[] = $mud;
+                }
+                usort( $combined_mudlist, function($a,$b) {return strnatcasecmp($a["name"], $b["name"]);} );
+
                 $total_muds = sizeof($combined_mudlist);
                 foreach ($combined_mudlist as $mud) {
                     //if($mud["from_mssp"] == 1) {
