@@ -47,7 +47,8 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
 
             history.scrollRestoration = "manual";
             function scroll_to_center(id) {
-                var e = document.getElementById(id);
+                //var e = document.getElementById(id);
+                var e = document.querySelector('[mudid="' + id + '"]');
                 if(e) {
                     var er = e.getBoundingClientRect();
                     var et = er.top + window.pageYOffset;
@@ -100,9 +101,8 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 updateRefreshTime();
                 backgroundTimer = setInterval(randomizeBackground, 1000 * 60 * 5);
                 on_scroll(); // Call once, in case the page cannot scroll
-                $('.mud-anchor').css('display', 'block');
                 if(window.location.hash) {
-                    //console.log("HASH: " + window.location.hash);
+                    console.log("HASH: " + window.location.hash);
                     var hash_id = window.location.hash.substr(1);
                     if(hash_id) {
                         scroll_to_center(hash_id);
@@ -376,9 +376,8 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                         }
                     }
                     ?>
-                    <td class="content-<?php echo $side; ?>-login" style="<?php echo $opacity; ?>">
+                    <td mudid="<?php echo rawurlencode($mud["name"]);?>" class="content-<?php echo $side; ?>-login" style="<?php echo $opacity; ?>">
                         <div class="gallery-item">
-                            <a id="<?php echo rawurlencode($mud["name"]);?>" class="mud-anchor"></a>
                             <a href="<?php echo $fileurl; ?>" data-lightbox>
                                 <img border="0" width="192" height="120" src="<?php echo $fileurl; ?>" />
                             </a>
