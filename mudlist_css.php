@@ -162,3 +162,7 @@ header("Content-type: text/css");
     font-size: <?php echo $TINY_FONT_SIZE; ?>;
     color: #3f3f3f;
 }
+
+.mud-anchor {
+    display: none;
+}

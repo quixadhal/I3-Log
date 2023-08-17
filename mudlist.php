@@ -45,6 +45,17 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
             var timeSpent;
             var backgroundTimer;
 
+            history.scrollRestoration = "manual";
+            function scroll_to_center(id) {
+                var e = document.getElementById(id);
+                if(e) {
+                    var er = e.getBoundingClientRect();
+                    var et = er.top + window.pageYOffset;
+                    var y = et - (window.innerHeight / 2);
+
+                    window.scrollTo(0,y);
+                }
+            }
             function on_scroll() {
                 var body = document.body;
                 var html = document.documentElement;
@@ -89,6 +100,14 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 updateRefreshTime();
                 backgroundTimer = setInterval(randomizeBackground, 1000 * 60 * 5);
                 on_scroll(); // Call once, in case the page cannot scroll
+                $('.mud-anchor').css('display', 'block');
+                if(window.location.hash) {
+                    //console.log("HASH: " + window.location.hash);
+                    var hash_id = window.location.hash.substr(1);
+                    if(hash_id) {
+                        scroll_to_center(hash_id);
+                    }
+                }
                 $(window).on("scroll", function() {
                     on_scroll();
                 });
@@ -359,6 +378,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                     ?>
                     <td class="content-<?php echo $side; ?>-login" style="<?php echo $opacity; ?>">
                         <div class="gallery-item">
+                            <a id="<?php echo rawurlencode($mud["name"]);?>" class="mud-anchor"></a>
                             <a href="<?php echo $fileurl; ?>" data-lightbox>
                                 <img border="0" width="192" height="120" src="<?php echo $fileurl; ?>" />
                             </a>
