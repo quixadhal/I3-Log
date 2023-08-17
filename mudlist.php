@@ -95,7 +95,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 //console.log( "OLD: " + e.oldURL );
                 //console.log( "NEW: " + e.newURL );
                 //console.log("HASH: " + window.location.hash);
-                var hash_id = window.location.hash.substr(1);
+                var hash_id = window.location.hash.substr(1).toLowerCase()
                 if(hash_id) {
                     scroll_to_center(hash_id);
                 }
@@ -112,7 +112,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 on_scroll(); // Call once, in case the page cannot scroll
                 if(window.location.hash) {
                     //console.log("HASH: " + window.location.hash);
-                    var hash_id = window.location.hash.substr(1);
+                    var hash_id = window.location.hash.substr(1).toLowerCase();
                     if(hash_id) {
                         scroll_to_center(hash_id);
                     }
@@ -386,7 +386,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                         }
                     }
                     ?>
-                    <td mudid="<?php echo rawurlencode($mud["name"]);?>" class="content-<?php echo $side; ?>-login" style="<?php echo $opacity; ?>">
+                    <td mudid="<?php echo rawurlencode(strtolower($mud["name"]));?>" class="content-<?php echo $side; ?>-login" style="<?php echo $opacity; ?>">
                         <div class="gallery-item">
                             <a href="<?php echo $fileurl; ?>" data-lightbox>
                                 <img border="0" width="192" height="120" src="<?php echo $fileurl; ?>" />
