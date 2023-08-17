@@ -92,9 +92,9 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 }
             }
             function changedHash(e) {
-                console.log( "OLD: " + e.oldURL );
-                console.log( "NEW: " + e.newURL );
-                console.log("HASH: " + window.location.hash);
+                //console.log( "OLD: " + e.oldURL );
+                //console.log( "NEW: " + e.newURL );
+                //console.log("HASH: " + window.location.hash);
                 var hash_id = window.location.hash.substr(1);
                 if(hash_id) {
                     scroll_to_center(hash_id);
@@ -111,7 +111,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 backgroundTimer = setInterval(randomizeBackground, 1000 * 60 * 5);
                 on_scroll(); // Call once, in case the page cannot scroll
                 if(window.location.hash) {
-                    console.log("HASH: " + window.location.hash);
+                    //console.log("HASH: " + window.location.hash);
                     var hash_id = window.location.hash.substr(1);
                     if(hash_id) {
                         scroll_to_center(hash_id);
