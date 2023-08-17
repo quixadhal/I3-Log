@@ -91,6 +91,15 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                     brighten(bt);
                 }
             }
+            function changedHash(e) {
+                console.log( "OLD: " + e.oldURL );
+                console.log( "NEW: " + e.newURL );
+                console.log("HASH: " + window.location.hash);
+                var hash_id = window.location.hash.substr(1);
+                if(hash_id) {
+                    scroll_to_center(hash_id);
+                }
+            }
             $(document).ready(function() {
                 hideDiv('page-source');
                 $('#page-load-time').html(timeSpent);
@@ -108,6 +117,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                         scroll_to_center(hash_id);
                     }
                 }
+                window.onhashchange = changedHash;
                 $(window).on("scroll", function() {
                     on_scroll();
                 });
