@@ -1,1 +1,1 @@
-{"geoip":{"latitude":52.3824,"longitude":4.8995,"city":"","country_name":"Netherlands","country_code":"NL","region_name":"","ip":"37.72.100.21"},"ipaddress":"37.72.100.21","login":0,"name":"Midden-aarde"}
+{"ipaddress":"37.72.100.21","login":0,"name":"Midden-aarde","geoip":{"city":"","ip":"37.72.100.21","longitude":4.8995,"latitude":52.3824,"country_code":"NL","region_name":"","country_name":"Netherlands"}}

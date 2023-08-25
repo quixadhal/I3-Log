@@ -1,1 +1,1 @@
-{"login":0,"name":"Fester","geoip":{"city":"Albany","longitude":-84.1578,"latitude":31.5647,"ip":"173.16.213.121","country_code":"US","country_name":"United States","region_name":"GA"},"ipaddress":"173.16.213.121"}
+{"geoip":{"latitude":31.5647,"region_name":"GA","country_code":"US","country_name":"United States","longitude":-84.1578,"ip":"173.16.213.121","city":"Albany"},"name":"Fester","ipaddress":"173.16.213.121","login":0}

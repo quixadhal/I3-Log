@@ -1,1 +1,1 @@
-{"name":"CoffeeMud","login":1,"geoip":{"latitude":30.5089,"city":"Round Rock","longitude":-97.6796,"ip":"104.14.28.106","country_code":"US","country_name":"United States","region_name":"TX"},"ipaddress":"104.14.28.106"}
+{"name":"CoffeeMud","ipaddress":"104.14.28.106","login":1,"geoip":{"city":"Round Rock","region_name":"TX","ip":"104.14.28.106","latitude":30.5089,"country_code":"US","country_name":"United States","longitude":-97.6796}}

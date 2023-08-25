@@ -1,1 +1,1 @@
-{"geoip":{"latitude":37.5625,"longitude":-122.0004,"city":"Fremont","region_name":"CA","country_name":"United States","country_code":"US","ip":"45.33.39.245"},"ipaddress":"45.33.39.245","login":1,"name":"Castle Rock"}
+{"name":"Castle Rock","ipaddress":"45.33.39.245","login":1,"geoip":{"city":"Fremont","country_code":"US","region_name":"CA","ip":"45.33.39.245","latitude":37.5625,"country_name":"United States","longitude":-122.0004}}

@@ -1,1 +1,1 @@
-{"login":1,"name":"Astaria","ipaddress":"13.66.189.79","geoip":{"longitude":-122.3414,"city":"","latitude":47.6034,"region_name":"WA","country_code":"US","country_name":"United States","ip":"13.66.189.79"}}
+{"geoip":{"city":"","country_code":"US","latitude":47.6034,"ip":"13.66.189.79","region_name":"WA","country_name":"United States","longitude":-122.3414},"ipaddress":"13.66.189.79","login":1,"name":"Astaria"}

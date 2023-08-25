@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-95.8517,"ip":"104.154.76.197","country_name":"United States","city":"Council Bluffs","latitude":41.2591,"region_name":"IA","country_code":"US"},"ipaddress":"104.154.76.197","name":"TimMUD"}
+{"name":"TimMUD","ipaddress":"104.154.76.197","login":1,"geoip":{"country_name":"United States","latitude":41.2591,"ip":"104.154.76.197","region_name":"IA","country_code":"US","city":"Council Bluffs","longitude":-95.8517}}

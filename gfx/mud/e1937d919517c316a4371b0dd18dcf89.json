@@ -1,1 +1,1 @@
-{"login":1,"name":"RedZone MUD","ipaddress":"104.237.153.221","geoip":{"ip":"104.237.153.221","region_name":"CA","country_code":"US","country_name":"United States","city":"Fremont","longitude":-122.0004,"latitude":37.5625}}
+{"name":"RedZone MUD","ipaddress":"104.237.153.221","login":1,"geoip":{"longitude":-122.0004,"country_code":"US","ip":"104.237.153.221","region_name":"CA","latitude":37.5625,"city":"Fremont","country_name":"United States"}}

@@ -1,1 +1,1 @@
-{"name":"WWC","login":0,"geoip":{"ip":"5.182.32.64","region_name":"NC","country_code":"US","country_name":"United States","latitude":35.2316,"city":"Charlotte","longitude":-80.8428},"ipaddress":"5.182.32.64"}
+{"name":"WWC","login":0,"ipaddress":"5.182.32.64","geoip":{"longitude":-80.8428,"country_name":"United States","city":"Charlotte","ip":"5.182.32.64","region_name":"NC","latitude":35.2316,"country_code":"US"}}

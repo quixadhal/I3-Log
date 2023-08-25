@@ -1,1 +1,1 @@
-{"name":"cttt","login":0,"geoip":{"city":"","longitude":103.8547,"latitude":1.2929,"ip":"124.246.112.28","region_name":"","country_name":"Singapore","country_code":"SG"},"ipaddress":"124.246.112.28"}
+{"geoip":{"country_name":"Singapore","latitude":1.2929,"region_name":"","country_code":"SG","city":"","ip":"124.246.112.28","longitude":103.8547},"ipaddress":"124.246.112.28","login":0,"name":"cttt"}

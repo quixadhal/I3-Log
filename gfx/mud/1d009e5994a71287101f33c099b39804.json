@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-1.1259,"city":"Arvert","latitude":45.7426,"region_name":"NAQ","country_code":"FR","country_name":"France","ip":"82.125.79.81"},"ipaddress":"82.125.79.81","login":0,"name":"Discworld_Test"}
+{"login":0,"ipaddress":"82.125.79.81","name":"Discworld_Test","geoip":{"city":"Arvert","ip":"82.125.79.81","longitude":-1.1259,"region_name":"NAQ","country_code":"FR","latitude":45.7426,"country_name":"France"}}

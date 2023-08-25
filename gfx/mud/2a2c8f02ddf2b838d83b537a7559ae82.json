@@ -1,1 +1,1 @@
-{"name":"MotM","login":1,"ipaddress":"174.163.10.69","geoip":{"latitude":33.7574,"longitude":-84.4236,"city":"Atlanta","region_name":"GA","country_name":"United States","country_code":"US","ip":"174.163.10.69"}}
+{"geoip":{"country_name":"United States","city":"Atlanta","ip":"174.163.10.69","region_name":"GA","latitude":33.7574,"country_code":"US","longitude":-84.4236},"ipaddress":"174.163.10.69","login":1,"name":"MotM"}

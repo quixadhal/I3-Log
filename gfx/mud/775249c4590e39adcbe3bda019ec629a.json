@@ -1,1 +1,1 @@
-{"geoip":{"city":"West Chicago","longitude":-88.1995,"latitude":41.8879,"ip":"73.45.118.72","region_name":"IL","country_code":"US","country_name":"United States"},"ipaddress":"73.45.118.72","login":1,"name":"KitsuMUCK"}
+{"login":1,"ipaddress":"73.45.118.72","geoip":{"country_name":"United States","country_code":"US","region_name":"IL","latitude":41.8879,"ip":"73.45.118.72","city":"West Chicago","longitude":-88.1995},"name":"KitsuMUCK"}

@@ -1,1 +1,1 @@
-{"login":1,"name":"Dungeonia","geoip":{"ip":"104.236.212.17","region_name":"NJ","country_name":"United States","country_code":"US","city":"Clifton","longitude":-74.1403,"latitude":40.8364},"ipaddress":"104.236.212.17"}
+{"ipaddress":"104.236.212.17","login":1,"geoip":{"longitude":-74.1403,"country_name":"United States","ip":"104.236.212.17","latitude":40.8364,"region_name":"NJ","country_code":"US","city":"Clifton"},"name":"Dungeonia"}

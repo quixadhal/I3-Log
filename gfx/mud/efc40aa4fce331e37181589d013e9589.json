@@ -1,1 +1,1 @@
-{"login":0,"name":"Mathers Realms","ipaddress":"199.66.69.122","geoip":{"ip":"199.66.69.122","country_code":"US","country_name":"United States","region_name":"IL","city":"Plainfield","longitude":-88.2203,"latitude":41.6558}}
+{"name":"Mathers Realms","login":0,"ipaddress":"199.66.69.122","geoip":{"city":"Plainfield","ip":"199.66.69.122","longitude":-88.2203,"country_code":"US","region_name":"IL","latitude":41.6558,"country_name":"United States"}}
