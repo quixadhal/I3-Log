@@ -15,3 +15,5 @@ the repository and graft it onto this one, so if you want
 to see the evolution, go look at my WileyMUD github archive
 and paw through the public_html/log area.
 
+If you were looking for WileyMUD, you want [THIS url](https://github.com/quixadhal/wileymud).
+
