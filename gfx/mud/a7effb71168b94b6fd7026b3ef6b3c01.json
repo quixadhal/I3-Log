@@ -1,1 +1,1 @@
-{"name":"Final Realms","login":1,"ipaddress":"178.164.15.6","geoip":{"longitude":12.3233,"city":"Grong","country_code":"NO","ip":"178.164.15.6","latitude":64.4547,"region_name":"50","country_name":"Norway"}}
+{"geoip":{"longitude":12.3233,"country_code":"NO","country_name":"Norway","city":"Grong","ip":"178.164.15.6","region_name":"50","latitude":64.4547},"ipaddress":"178.164.15.6","login":1,"name":"Final Realms"}

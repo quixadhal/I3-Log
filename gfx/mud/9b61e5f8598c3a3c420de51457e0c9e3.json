@@ -1,1 +1,1 @@
-{"name":"The Last Outpost","geoip":{"country_name":"United States","city":"Belleville","ip":"70.226.30.1","region_name":"MI","latitude":42.1955,"country_code":"US","longitude":-83.4894},"login":1,"ipaddress":"70.226.30.1"}
+{"name":"The Last Outpost","login":1,"geoip":{"ip":"70.226.30.1","region_name":"MI","latitude":42.1955,"longitude":-83.4894,"city":"Belleville","country_code":"US","country_name":"United States"},"ipaddress":"70.226.30.1"}

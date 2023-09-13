@@ -1,1 +1,1 @@
-{"name":"Blood of Dragons","login":1,"ipaddress":"184.172.26.162","geoip":{"country_name":"United States","country_code":"US","region_name":"TX","latitude":32.7797,"ip":"184.172.26.162","city":"Dallas","longitude":-96.8022}}
+{"login":1,"geoip":{"region_name":"TX","ip":"184.172.26.162","latitude":32.7797,"longitude":-96.8022,"country_name":"United States","country_code":"US","city":"Dallas"},"ipaddress":"184.172.26.162","name":"Blood of Dragons"}

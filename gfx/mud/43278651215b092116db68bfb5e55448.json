@@ -1,1 +1,1 @@
-{"ipaddress":"52.2.244.77","login":1,"geoip":{"country_name":"United States","ip":"52.2.244.77","region_name":"VA","latitude":39.0469,"country_code":"US","city":"Ashburn","longitude":-77.4903},"name":"Star Wars: Omens MUSH"}
+{"geoip":{"latitude":39.0469,"ip":"52.2.244.77","region_name":"VA","city":"Ashburn","country_name":"United States","country_code":"US","longitude":-77.4903},"ipaddress":"52.2.244.77","login":1,"name":"Star Wars: Omens MUSH"}

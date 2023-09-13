@@ -1,1 +1,1 @@
-{"ipaddress":"146.115.24.76","login":0,"geoip":{"longitude":-71.4296,"country_name":"United States","city":"Framingham","latitude":42.2832,"region_name":"MA","ip":"146.115.24.76","country_code":"US"},"name":"MiMUD"}
+{"name":"MiMUD","ipaddress":"146.115.24.76","geoip":{"city":"Framingham","country_code":"US","country_name":"United States","longitude":-71.4296,"latitude":42.2832,"region_name":"MA","ip":"146.115.24.76"},"login":0}

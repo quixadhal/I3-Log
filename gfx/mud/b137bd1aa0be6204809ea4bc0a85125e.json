@@ -1,1 +1,1 @@
-{"ipaddress":"71.229.177.26","login":1,"geoip":{"country_name":"United States","country_code":"US","region_name":"CO","ip":"71.229.177.26","latitude":39.7388,"city":"Denver","longitude":-104.9868},"name":"6Dragons"}
+{"name":"6Dragons","login":1,"geoip":{"longitude":-104.9868,"city":"Denver","country_name":"United States","country_code":"US","region_name":"CO","ip":"71.229.177.26","latitude":39.7388},"ipaddress":"71.229.177.26"}

@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-82.9987,"country_name":"United States","latitude":39.9587,"ip":"18.218.123.244","region_name":"OH","country_code":"US","city":"Columbus"},"login":1,"ipaddress":"18.218.123.244","name":"LPM"}
+{"geoip":{"region_name":"OH","ip":"18.218.123.244","latitude":39.9587,"longitude":-82.9987,"city":"Columbus","country_name":"United States","country_code":"US"},"ipaddress":"18.218.123.244","login":1,"name":"LPM"}

@@ -4,29 +4,29 @@ header("Content-Type: application/json; charset=UTF-8");
 ?>
 // 0 -> 23
 var hour_map = [
+    '#555555', // 0000
     '#555555',
     '#555555',
     '#555555',
-    '#555555',
+    '#bb0000', // 0400
     '#bb0000',
-    '#bb0000',
+    '#bbbb00', // 0600
     '#bbbb00',
-    '#bbbb00',
+    '#ffff55', // 0800
     '#ffff55',
-    '#ffff55',
+    '#00bb00', // 1000
     '#00bb00',
-    '#00bb00',
+    '#55ff55', // 1200
     '#55ff55',
-    '#55ff55',
+    '#bbbbbb', // 1400
     '#bbbbbb',
-    '#bbbbbb',
+    '#55ffff', // 1600
     '#55ffff',
-    '#55ffff',
+    '#00bbbb', // 1800
     '#00bbbb',
-    '#00bbbb',
+    '#5555ff', // 2000
     '#5555ff',
-    '#5555ff',
-    '#0000bb',
+    '#0000bb', // 2200
     '#0000bb'
 ];
 function toggleDiv(divID) {

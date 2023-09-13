@@ -1,1 +1,1 @@
-{"name":"Insomnia","login":1,"ipaddress":"3.10.11.230","geoip":{"longitude":-0.093,"ip":"3.10.11.230","region_name":"ENG","latitude":51.5088,"country_code":"GB","city":"London","country_name":"United Kingdom"}}
+{"geoip":{"longitude":-0.093,"city":"London","country_code":"GB","country_name":"United Kingdom","ip":"3.10.11.230","region_name":"ENG","latitude":51.5088},"ipaddress":"3.10.11.230","login":1,"name":"Insomnia"}

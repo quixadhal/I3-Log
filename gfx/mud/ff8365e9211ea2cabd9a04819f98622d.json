@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-80.6781,"city":"Steubenville","country_code":"US","region_name":"OH","latitude":40.3524,"ip":"73.154.159.103","country_name":"United States"},"ipaddress":"73.154.159.103","login":1,"name":"The BREED"}
+{"login":1,"geoip":{"latitude":40.3524,"region_name":"OH","country_name":"United States","country_code":"US","city":"Steubenville","longitude":-80.6781,"ip":"73.154.159.103"},"name":"The BREED","ipaddress":"73.154.159.103"}

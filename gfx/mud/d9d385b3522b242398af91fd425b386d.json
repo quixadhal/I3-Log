@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"144.217.205.176","geoip":{"longitude":-73.8736,"city":"Beauharnois","ip":"144.217.205.176","region_name":"QC","latitude":45.3161,"country_code":"CA","country_name":"Canada"},"name":"Asteria"}
+{"name":"Asteria","login":1,"geoip":{"city":"Beauharnois","country_name":"Canada","country_code":"CA","longitude":-73.8736,"latitude":45.3161,"ip":"144.217.205.176","region_name":"QC"},"ipaddress":"144.217.205.176"}

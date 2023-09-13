@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-77.4903,"city":"Ashburn","latitude":39.0469,"ip":"52.206.44.215","region_name":"VA","country_code":"US","country_name":"United States"},"login":1,"ipaddress":"52.206.44.215","name":"Parlor City"}
+{"name":"Parlor City","login":1,"geoip":{"latitude":39.0469,"ip":"52.206.44.215","region_name":"VA","country_code":"US","country_name":"United States","city":"Ashburn","longitude":-77.4903},"ipaddress":"52.206.44.215"}

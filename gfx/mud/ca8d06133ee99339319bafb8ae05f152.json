@@ -1,1 +1,1 @@
-{"name":"AgeOfHeroes","geoip":{"country_name":"Denmark","country_code":"DK","ip":"128.76.165.163","region_name":"83","latitude":55.5563,"city":"Fredericia","longitude":9.717},"login":1,"ipaddress":"128.76.165.163"}
+{"name":"AgeOfHeroes","ipaddress":"128.76.165.163","geoip":{"latitude":55.5563,"ip":"128.76.165.163","region_name":"83","city":"Fredericia","country_code":"DK","country_name":"Denmark","longitude":9.717},"login":1}

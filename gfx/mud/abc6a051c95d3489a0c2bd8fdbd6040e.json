@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-74.4592,"city":"Cedar Knolls","country_code":"US","ip":"69.164.219.71","region_name":"NJ","latitude":40.8229,"country_name":"United States"},"ipaddress":"69.164.219.71","login":0,"name":"Legends of the Jedi"}
+{"name":"Legends of the Jedi","login":0,"ipaddress":"69.164.219.71","geoip":{"city":"Cedar Knolls","country_code":"US","country_name":"United States","longitude":-74.4592,"latitude":40.8229,"ip":"69.164.219.71","region_name":"NJ"}}

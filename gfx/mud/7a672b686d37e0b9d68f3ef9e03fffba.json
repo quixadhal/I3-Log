@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","city":"Sioux Falls","country_code":"US","latitude":43.55,"ip":"184.83.221.65","region_name":"SD","longitude":-96.6904},"login":0,"ipaddress":"184.83.221.65","name":"Corey`s Cup of Coffee"}
+{"name":"Corey`s Cup of Coffee","ipaddress":"184.83.221.65","geoip":{"latitude":43.55,"region_name":"SD","country_name":"United States","country_code":"US","city":"Sioux Falls","longitude":-96.6904,"ip":"184.83.221.65"},"login":0}
