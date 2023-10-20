@@ -1,1 +1,55 @@
-/share/leninbackup/speedtest.json
+{
+    "type": "result",
+    "timestamp": "2023-04-13T12:05:19Z",
+    "ping": {
+        "jitter": 0.098,
+        "latency": 1.455,
+        "low": 1.294,
+        "high": 1.508
+    },
+    "download": {
+        "bandwidth": 84643018,
+        "bytes": 307621088,
+        "elapsed": 3627,
+        "latency": {
+            "iqm": 5.549,
+            "low": 1.380,
+            "high": 7.112,
+            "jitter": 0.788
+        }
+    },
+    "upload": {
+        "bandwidth": 58545643,
+        "bytes": 251242199,
+        "elapsed": 4303,
+        "latency": {
+            "iqm": 6.884,
+            "low": 5.745,
+            "high": 10.043,
+            "jitter": 0.700
+        }
+    },
+    "packetLoss": 0,
+    "isp": "Condointernet.net",
+    "interface": {
+        "internalIp": "2604:4080:1018:8080:4ecc:6aff:fe4d:8803",
+        "name": "",
+        "macAddr": "4C:CC:6A:4D:88:03",
+        "isVpn": false,
+        "externalIp": "2604:4080:1018:8080:4ecc:6aff:fe4d:8803"
+    },
+    "server": {
+        "id": 35180,
+        "host": "speedtest1-sttlwawb.as20055.net",
+        "port": 8080,
+        "name": "Ziply Fiber",
+        "location": "Seattle, WA",
+        "country": "United States",
+        "ip": "2605:21c0:1000:16::2"
+    },
+    "result": {
+        "id": "9d6ec75c-2eb2-4f2d-88c2-ae4832c5ee07",
+        "url": "https://www.speedtest.net/result/c/9d6ec75c-2eb2-4f2d-88c2-ae4832c5ee07",
+        "persisted": true
+    }
+}

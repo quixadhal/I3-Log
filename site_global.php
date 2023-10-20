@@ -10,9 +10,22 @@ function is_local_ip() {
         return 1;
     return 0;
 }
+
 function https() {
     return isset($_SERVER['HTTPS']) ? 'https' : 'http';
 }
+
+function address() {
+    $server_addr = $_SERVER['SERVER_ADDR'];
+    if($server_addr == '192.168.0.16') {
+        # production
+        return 'wileymud.themud.org';
+    } else {
+        # random test site
+        return $server_addr;
+    }
+}
+
 function pcmd($command) {
     $data = "";
     $fp = popen("$command", "r");
@@ -28,7 +41,7 @@ if(is_local_ip()) {
     $isLocal = true;
 }
 
-$URL_HOME                   = https() . "://wileymud.themud.org/log";
+$URL_HOME                   = https() . "://" . address() . "/log";
 $FILE_HOME                  = "/home/www/log";
 
 $JQ                         = "$URL_HOME/inc/jquery-3.5.0.min.js";
@@ -88,8 +101,8 @@ $WILEY_BANNER_ICON          = "$URL_HOME/gfx/wileymud3.png";
 $WILEY_BANNER_WIDTH         = 334;
 $WILEY_BANNER_HEIGHT        = sprintf("%dpx", (int)($ICON_BASE * $SCALE));
 //$WILEY_BANNER_HEIGHT      = 48;
-$WILEY_URL                  = "telnet://wileymud.themud.org:3000";
-$WILEY_IP                   = "wileymud.themud.org";
+$WILEY_URL                  = "telnet://" . address() . ":3000";
+$WILEY_IP                   = address();
 $WILEY_PORT                 = 3000;
 
 $NOT_AVAILABLE_ICON         = "$URL_HOME/gfx/NA.png";

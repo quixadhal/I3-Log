@@ -1,1 +1,54 @@
-/share/leninbackup/speedtest_wifi.json
+{
+    "type": "result",
+    "timestamp": "2023-10-19T23:10:14Z",
+    "ping": {
+        "jitter": 0.093,
+        "latency": 2.155,
+        "low": 2.041,
+        "high": 2.251
+    },
+    "download": {
+        "bandwidth": 83336957,
+        "bytes": 325603992,
+        "elapsed": 3911,
+        "latency": {
+            "iqm": 6.075,
+            "low": 2.013,
+            "high": 7.602,
+            "jitter": 0.607
+        }
+    },
+    "upload": {
+        "bandwidth": 81950359,
+        "bytes": 472600861,
+        "elapsed": 5807,
+        "latency": {
+            "iqm": 6.772,
+            "low": 3.305,
+            "high": 9.381,
+            "jitter": 0.718
+        }
+    },
+    "isp": "Condointernet.net",
+    "interface": {
+        "internalIp": "2604:4080:1018:8080:be5f:f4ff:fe5a:4457",
+        "name": "enp2s0",
+        "macAddr": "BC:5F:F4:5A:44:57",
+        "isVpn": false,
+        "externalIp": "2604:4080:1018:8080:be5f:f4ff:fe5a:4457"
+    },
+    "server": {
+        "id": 1782,
+        "host": "stosat-rvlt-01.sys.comcast.net",
+        "port": 8080,
+        "name": "Comcast",
+        "location": "Seattle, WA",
+        "country": "United States",
+        "ip": "2001:558:fe34:22::2"
+    },
+    "result": {
+        "id": "9b658fa2-f73a-401a-b843-fd411a90085c",
+        "url": "https://www.speedtest.net/result/c/9b658fa2-f73a-401a-b843-fd411a90085c",
+        "persisted": true
+    }
+}
