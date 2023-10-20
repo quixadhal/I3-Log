@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"CA","ip":"45.33.51.51","latitude":37.5625,"longitude":-122.0004,"country_code":"US","country_name":"United States","city":"Fremont"},"ipaddress":"45.33.51.51","login":1,"name":"Portals Inbetween"}
+{"geoip":{"longitude":-122.0004,"city":"Fremont","country_code":"US","latitude":37.5625,"country_name":"United States","ip":"45.33.51.51","region_name":"CA"},"login":1,"ipaddress":"45.33.51.51","name":"Portals Inbetween"}

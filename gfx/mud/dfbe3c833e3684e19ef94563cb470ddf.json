@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"region_name":"TN","ip":"99.117.88.230","latitude":35.5625,"longitude":-89.6502,"city":"Covington","country_name":"United States","country_code":"US"},"ipaddress":"99.117.88.230","name":"The Illusion of Living"}
+{"geoip":{"city":"Covington","longitude":-89.6502,"country_code":"US","latitude":35.5625,"country_name":"United States","ip":"99.117.88.230","region_name":"TN"},"login":1,"name":"The Illusion of Living","ipaddress":"99.117.88.230"}

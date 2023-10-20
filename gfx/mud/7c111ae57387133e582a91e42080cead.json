@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"latitude":29.4227,"ip":"67.10.176.91","region_name":"TX","country_name":"United States","country_code":"US","city":"San Antonio","longitude":-98.4927},"ipaddress":"67.10.176.91","name":"TMI-2 Win32"}
+{"login":0,"ipaddress":"67.10.176.91","geoip":{"country_name":"United States","ip":"67.10.176.91","latitude":29.4227,"longitude":-98.4927,"region_name":"TX","city":"San Antonio","country_code":"US"},"name":"TMI-2 Win32"}

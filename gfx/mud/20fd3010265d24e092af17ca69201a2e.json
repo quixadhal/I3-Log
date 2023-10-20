@@ -1,1 +1,1 @@
-{"name":"LIMA","ipaddress":"20.223.238.107","geoip":{"ip":"20.223.238.107","region_name":"L","latitude":53.3379,"longitude":-6.2591,"country_name":"Ireland","country_code":"IE","city":"Dublin"},"login":1}
+{"name":"LIMA","ipaddress":"20.223.238.107","geoip":{"ip":"20.223.238.107","country_name":"Ireland","region_name":"L","country_code":"IE","city":"Dublin","longitude":-6.2591,"latitude":53.3379},"login":1}

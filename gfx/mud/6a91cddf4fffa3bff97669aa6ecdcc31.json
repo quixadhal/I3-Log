@@ -1,1 +1,1 @@
-{"ipaddress":"139.162.249.62","geoip":{"ip":"139.162.249.62","region_name":"ENG","latitude":51.5088,"longitude":-0.093,"country_code":"GB","country_name":"United Kingdom","city":"London"},"login":0,"name":"ProgressMUD"}
+{"login":1,"geoip":{"country_name":"United Kingdom","ip":"139.162.249.62","region_name":"ENG","city":"London","longitude":-0.093,"country_code":"GB","latitude":51.5088},"name":"ProgressMUD","ipaddress":"139.162.249.62"}

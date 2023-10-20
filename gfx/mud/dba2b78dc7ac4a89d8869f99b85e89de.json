@@ -1,1 +1,1 @@
-{"name":"Valorian","ipaddress":"67.235.175.191","geoip":{"latitude":29.0107,"region_name":"FL","ip":"67.235.175.191","city":"Summerfield","country_code":"US","country_name":"United States","longitude":-82.0355},"login":1}
+{"ipaddress":"67.235.175.191","name":"Valorian","login":0,"geoip":{"city":"Summerfield","longitude":-82.0355,"country_code":"US","latitude":29.0107,"country_name":"United States","ip":"67.235.175.191","region_name":"FL"}}

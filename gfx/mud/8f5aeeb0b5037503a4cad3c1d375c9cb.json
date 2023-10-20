@@ -1,1 +1,1 @@
-{"geoip":{"city":"Fremont","country_name":"United States","country_code":"US","longitude":-122.0004,"latitude":37.5625,"region_name":"CA","ip":"173.255.214.48"},"ipaddress":"173.255.214.48","login":1,"name":"Breath of Fire: World"}
+{"login":1,"geoip":{"region_name":"CA","ip":"173.255.214.48","country_name":"United States","latitude":37.5625,"country_code":"US","longitude":-122.0004,"city":"Fremont"},"ipaddress":"173.255.214.48","name":"Breath of Fire: World"}

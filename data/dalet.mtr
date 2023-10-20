@@ -1,21 +1,21 @@
-Start: 2023-08-12T06:09:01-0700
+Start: 2023-10-20T10:09:01-0700
 HOST: lenin                                               Loss%   Snt   Last   Avg  Best  Wrst StDev
-  1.|-- _gateway                                             0.0%    10    0.4   0.4   0.4   0.5   0.0
-  2.|-- br1-venn-v100.bb.as54858.net                         0.0%    10    1.7   1.4   1.1   1.8   0.2
-  3.|-- 172.16.101.125                                       0.0%    10    2.0   2.0   1.9   2.1   0.1
-  4.|-- agg2-sea-b-t9-4.bb.spectrumnet.us                    0.0%    10    1.7   1.8   1.6   1.9   0.1
-  5.|-- be12.cr3-sea-b.bb.as11404.net                        0.0%    10    2.0   1.9   1.8   2.0   0.1
-  6.|-- be10.cr3-sea-a.bb.as11404.net                        0.0%    10    2.0   1.9   1.8   2.1   0.1
-  7.|-- be55.cr2-sea-a.bb.as11404.net                        0.0%    10    1.8   1.8   1.6   2.2   0.2
-  8.|-- sea-b1-link.ip.twelve99.net                         70.0%    10    1.9   1.8   1.8   1.9   0.0
-  9.|-- akamai-ic-340715.ip.twelve99-cust.net                0.0%    10    1.9   1.9   1.9   2.1   0.1
- 10.|-- ae12.r02.sea01.icn.netarch.akamai.com                0.0%    10    1.6   1.6   1.6   1.7   0.1
+  1.|-- _gateway                                             0.0%    10    0.4   0.4   0.3   0.5   0.1
+  2.|-- br1-venn-v100.bb.as54858.net                         0.0%    10    1.2   3.0   1.1  13.4   4.0
+  3.|-- 172.16.101.125                                       0.0%    10    2.0   2.0   1.8   2.1   0.1
+  4.|-- agg2-sea-b-t9-4.bb.spectrumnet.us                   10.0%    10    1.7   1.7   1.6   1.8   0.1
+  5.|-- be12.cr3-sea-b.bb.as11404.net                        0.0%    10    1.9   1.9   1.8   2.0   0.1
+  6.|-- be10.cr3-sea-a.bb.as11404.net                        0.0%    10    1.9   2.3   1.8   5.0   1.0
+  7.|-- be55.cr2-sea-a.bb.as11404.net                        0.0%    10    1.9   2.0   1.7   2.1   0.2
+  8.|-- sea-b1-link.ip.twelve99.net                          0.0%    10    1.8   1.9   1.8   2.1   0.1
+  9.|-- akamai-ic-340715.ip.twelve99-cust.net                0.0%    10    2.0   1.9   1.9   2.0   0.1
+ 10.|-- ae12.r02.sea01.icn.netarch.akamai.com                0.0%    10    1.7   1.7   1.6   1.8   0.1
  11.|-- ae0.r01.sea01.icn.netarch.akamai.com                 0.0%    10    2.0   2.0   1.9   2.1   0.1
- 12.|-- ae9.r02.ord01.icn.netarch.akamai.com                 0.0%    10   47.9  48.1  47.9  48.2   0.1
- 13.|-- ae6.r02.ewr01.icn.netarch.akamai.com                 0.0%    10   60.5  60.5  60.4  60.5   0.0
- 14.|-- ae2.r01.ewr01.ien.netarch.akamai.com                 0.0%    10   60.8  60.7  60.7  60.8   0.1
- 15.|-- a23-203-154-23.deploy.static.akamaitechnologies.com  0.0%    10   61.7  62.4  61.7  67.7   1.9
+ 12.|-- ae9.r02.ord01.icn.netarch.akamai.com                 0.0%    10   47.0  47.0  46.9  47.1   0.1
+ 13.|-- ae6.r02.ewr01.icn.netarch.akamai.com                 0.0%    10   69.5  69.6  69.5  69.7   0.1
+ 14.|-- ae2.r02.ewr01.ien.netarch.akamai.com                 0.0%    10   62.5  62.6  62.5  62.8   0.1
+ 15.|-- a23-203-154-43.deploy.static.akamaitechnologies.com  0.0%    10   63.5  67.6  63.5  97.0  10.5
  16.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
  17.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
  18.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
- 19.|-- dalet.themud.org                                     0.0%    10   61.4  61.4  61.3  61.4   0.0
+ 19.|-- dalet.themud.org                                     0.0%    10   63.9  63.9  63.8  64.1   0.1

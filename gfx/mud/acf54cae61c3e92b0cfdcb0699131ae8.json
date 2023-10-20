@@ -1,1 +1,1 @@
-{"geoip":{"latitude":44.5342,"metro_code":0,"zip_code":"B0V","longitude":-65.7783,"country_name":"Canada","time_zone":"America/Halifax","ip":"71.7.194.59","region_code":"NS","city":"Digby","region_name":"Nova Scotia","country_code":"CA"},"ipaddress":"71.7.194.59","name":"Testfish"}
+{"name":"Testfish","ipaddress":"24.222.138.85","login":0,"geoip":{"latitude":44.6219,"country_code":"CA","longitude":-65.7586,"city":"Digby","region_name":"NS","ip":"24.222.138.85","country_name":"Canada"}}

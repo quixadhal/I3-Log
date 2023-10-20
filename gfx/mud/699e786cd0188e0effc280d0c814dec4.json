@@ -1,1 +1,1 @@
-{"name":"Aeronautica","ipaddress":"216.226.128.180","geoip":{"ip":"216.226.128.180","region_name":"OH","latitude":39.9587,"longitude":-82.9987,"country_name":"United States","country_code":"US","city":"Columbus"},"login":1}
+{"name":"Aeronautica","ipaddress":"216.226.128.180","login":1,"geoip":{"latitude":39.9587,"country_code":"US","city":"Columbus","longitude":-82.9987,"region_name":"OH","ip":"216.226.128.180","country_name":"United States"}}

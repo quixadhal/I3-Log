@@ -1,1 +1,1 @@
-{"name":"Haunted","login":0,"ipaddress":"66.244.106.124","geoip":{"region_name":"IN","ip":"66.244.106.124","latitude":39.1215,"longitude":-86.5784,"country_code":"US","country_name":"United States","city":"Bloomington"}}
+{"ipaddress":"66.244.106.124","login":0,"name":"Haunted","geoip":{"city":"Bloomington","country_code":"US","region_name":"IN","country_name":"United States","ip":"66.244.106.124","latitude":39.1215,"longitude":-86.5784}}

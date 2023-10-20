@@ -1,5 +1,5 @@
 #COUNT
-Count   3257
+Count   3268
 End
 
 #SPEAKER
@@ -4533,6 +4533,16 @@ Color   %^WHITE%^%^B_RED%^
 End
 
 #SPEAKER
+Name    eight
+Color   %^MAGENTA%^
+End
+
+#SPEAKER
+Name    eight (apotheosis in gv)
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    ejibke
 Color   %^CYAN%^%^BOLD%^
 End
@@ -5413,6 +5423,11 @@ Color   %^CYAN%^
 End
 
 #SPEAKER
+Name    folly
+Color   %^ORANGE%^
+End
+
+#SPEAKER
 Name    foo
 Color   %^BLACK%^%^B_WHITE%^
 End
@@ -5840,6 +5855,11 @@ End
 #SPEAKER
 Name    ghost of quixadhal
 Color   %^RED%^
+End
+
+#SPEAKER
+Name    ghosts
+Color   %^CYAN%^
 End
 
 #SPEAKER
@@ -7250,6 +7270,11 @@ End
 #SPEAKER
 Name    jester
 Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    jester (grapevine in gv)
+Color   %^WHITE%^%^B_RED%^
 End
 
 #SPEAKER
@@ -9888,6 +9913,11 @@ Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
+Name    moustafa (grapevine in gv)
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    moyer
 Color   %^BLACK%^%^B_MAGENTA%^
 End
@@ -10803,6 +10833,16 @@ Color   %^GREEN%^%^BOLD%^
 End
 
 #SPEAKER
+Name    p-butter
+Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    p-butter (grapevine in gv)
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    paddy
 Color   %^CYAN%^
 End
@@ -10979,6 +11019,16 @@ End
 
 #SPEAKER
 Name    percussor
+Color   %^WHITE%^%^B_BLUE%^
+End
+
+#SPEAKER
+Name    perfidious
+Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    perfidious (grapevine in gv)
 Color   %^WHITE%^%^B_BLUE%^
 End
 
@@ -14175,6 +14225,11 @@ End
 #SPEAKER
 Name    the bobcat
 Color   %^RED%^
+End
+
+#SPEAKER
+Name    the butcher
+Color   %^YELLOW%^
 End
 
 #SPEAKER

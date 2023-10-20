@@ -1,1 +1,1 @@
-{"name":"Sanity's Edge","ipaddress":"35.171.219.224","geoip":{"longitude":-77.4903,"city":"Ashburn","country_code":"US","country_name":"United States","region_name":"VA","ip":"35.171.219.224","latitude":39.0469},"login":1}
+{"geoip":{"country_name":"United States","ip":"35.171.219.224","region_name":"VA","longitude":-77.4903,"city":"Ashburn","country_code":"US","latitude":39.0469},"login":1,"ipaddress":"35.171.219.224","name":"Sanity's Edge"}

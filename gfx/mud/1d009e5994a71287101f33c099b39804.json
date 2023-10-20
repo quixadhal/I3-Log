@@ -1,1 +1,1 @@
-{"name":"Discworld_Test","login":0,"ipaddress":"82.38.155.209","geoip":{"country_name":"United Kingdom","country_code":"GB","city":"Redditch","longitude":-1.8952,"latitude":52.323,"region_name":"ENG","ip":"82.38.155.209"}}
+{"login":1,"ipaddress":"82.38.155.209","geoip":{"longitude":-1.8952,"latitude":52.323,"ip":"82.38.155.209","country_name":"United Kingdom","region_name":"ENG","country_code":"GB","city":"Redditch"},"name":"Discworld_Test"}

@@ -1,1 +1,1 @@
-{"name":"Exile","login":1,"geoip":{"city":"Richardson","country_name":"United States","country_code":"US","longitude":-96.7028,"latitude":32.9473,"region_name":"TX","ip":"198.58.123.126"},"ipaddress":"198.58.123.126"}
+{"geoip":{"latitude":32.9473,"country_code":"US","longitude":-96.7028,"city":"Richardson","region_name":"TX","ip":"198.58.123.126","country_name":"United States"},"login":1,"name":"Exile","ipaddress":"198.58.123.126"}

@@ -1,1 +1,1 @@
-{"ipaddress":"45.79.103.248","geoip":{"latitude":37.5625,"region_name":"CA","ip":"45.79.103.248","city":"Fremont","country_code":"US","country_name":"United States","longitude":-122.0004},"login":1,"name":"Adventurers Way"}
+{"login":1,"geoip":{"ip":"45.79.103.248","country_name":"United States","region_name":"CA","country_code":"US","longitude":-122.0004,"city":"Fremont","latitude":37.5625},"name":"Adventurers Way","ipaddress":"45.79.103.248"}

@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"Germany","country_code":"DE","city":"Berlin","longitude":13.4425,"latitude":52.5201,"ip":"85.214.91.234","region_name":"BE"},"ipaddress":"85.214.91.234","login":1,"name":"MultiMUD"}
+{"geoip":{"longitude":13.4425,"latitude":52.5201,"ip":"85.214.91.234","country_name":"Germany","region_name":"BE","country_code":"DE","city":"Berlin"},"name":"MultiMUD","login":1,"ipaddress":"85.214.91.234"}

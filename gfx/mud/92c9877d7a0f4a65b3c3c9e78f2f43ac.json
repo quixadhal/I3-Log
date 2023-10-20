@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"192.81.133.87","geoip":{"latitude":37.5625,"region_name":"CA","ip":"192.81.133.87","city":"Fremont","country_code":"US","country_name":"United States","longitude":-122.0004},"name":"Rainy Daze - Fantasy MUD"}
+{"ipaddress":"192.81.133.87","name":"Rainy Daze - Fantasy MUD","login":1,"geoip":{"country_name":"United States","ip":"192.81.133.87","region_name":"CA","longitude":-122.0004,"city":"Fremont","country_code":"US","latitude":37.5625}}

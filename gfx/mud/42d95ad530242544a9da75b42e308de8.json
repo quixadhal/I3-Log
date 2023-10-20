@@ -1,1 +1,1 @@
-{"name":"Cypress Knee MUSH","login":1,"ipaddress":"66.228.58.232","geoip":{"city":"Atlanta","country_name":"United States","country_code":"US","longitude":-84.3871,"latitude":33.7485,"region_name":"GA","ip":"66.228.58.232"}}
+{"login":1,"geoip":{"region_name":"GA","ip":"66.228.58.232","country_name":"United States","latitude":33.7485,"country_code":"US","longitude":-84.3871,"city":"Atlanta"},"name":"Cypress Knee MUSH","ipaddress":"66.228.58.232"}

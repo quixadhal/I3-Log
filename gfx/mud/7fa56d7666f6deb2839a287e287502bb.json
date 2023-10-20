@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"longitude":-122.2053,"country_code":"US","country_name":"United States","city":"Bellevue","ip":"104.156.100.167","region_name":"WA","latitude":47.6131},"ipaddress":"104.156.100.167","name":"RustBucket"}
+{"ipaddress":"104.156.100.167","login":0,"name":"RustBucket","geoip":{"city":"Bellevue","country_code":"US","ip":"104.156.100.167","country_name":"United States","longitude":-122.2053,"latitude":47.6131,"region_name":"WA"}}

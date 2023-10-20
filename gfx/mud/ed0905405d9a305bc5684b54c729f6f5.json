@@ -1,1 +1,1 @@
-{"geoip":{"latitude":40.1104,"region_name":"OH","ip":"216.186.244.93","city":"Dublin","country_code":"US","country_name":"United States","longitude":-83.1131},"ipaddress":"216.186.244.93","login":0,"name":"Test MUD"}
+{"login":0,"ipaddress":"216.186.244.93","geoip":{"longitude":-83.1131,"latitude":40.1104,"ip":"216.186.244.93","country_name":"United States","region_name":"OH","country_code":"US","city":"Dublin"},"name":"Test MUD"}
