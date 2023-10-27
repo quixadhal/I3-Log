@@ -1,1 +1,1 @@
-{"name":"Adaka","ipaddress":"85.2.100.174","geoip":{"latitude":47.283,"city":"Moutier","longitude":7.3699,"country_code":"CH","region_name":"BE","country_name":"Switzerland","ip":"85.2.100.174"},"login":0}
+{"geoip":{"longitude":7.3699,"ip":"85.2.100.174","city":"Moutier","country_code":"CH","region_name":"BE","country_name":"Switzerland","latitude":47.283},"login":0,"name":"Adaka","ipaddress":"85.2.100.174"}

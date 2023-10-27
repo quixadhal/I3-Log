@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-74.1403,"city":"Clifton","country_code":"US","latitude":40.8364,"country_name":"United States","ip":"45.55.52.229","region_name":"NJ"},"login":1,"ipaddress":"45.55.52.229","name":"SWmud"}
+{"ipaddress":"45.55.52.229","name":"SWmud","login":1,"geoip":{"latitude":40.8364,"country_name":"United States","region_name":"NJ","country_code":"US","longitude":-74.1403,"city":"Clifton","ip":"45.55.52.229"}}

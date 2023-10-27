@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"ip":"74.109.234.32","country_name":"United States","region_name":"PA","country_code":"US","longitude":-79.9856,"city":"Pittsburgh","latitude":40.4064},"ipaddress":"74.109.234.32","name":"Discworld Win32"}
+{"name":"Discworld Win32","geoip":{"longitude":-79.9856,"country_code":"US","city":"Pittsburgh","region_name":"PA","latitude":40.4064,"country_name":"United States","ip":"74.109.234.32"},"ipaddress":"74.109.234.32","login":0}

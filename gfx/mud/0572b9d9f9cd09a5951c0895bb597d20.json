@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"latitude":44.9399,"longitude":-93.2548,"city":"Minneapolis","country_code":"US","region_name":"MN","country_name":"United States","ip":"140.225.44.204"},"ipaddress":"140.225.44.204","name":"Rebirth"}
+{"geoip":{"country_name":"United States","latitude":44.9399,"ip":"140.225.44.204","city":"Minneapolis","longitude":-93.2548,"country_code":"US","region_name":"MN"},"ipaddress":"140.225.44.204","name":"Rebirth","login":0}

@@ -1,1 +1,1 @@
-{"ipaddress":"172.105.105.30","name":"StickMUD","geoip":{"country_name":"Canada","ip":"172.105.105.30","region_name":"ON","longitude":-79.3623,"city":"Toronto","country_code":"CA","latitude":43.6547},"login":0}
+{"geoip":{"city":"Toronto","ip":"172.105.105.30","longitude":-79.3623,"country_code":"CA","region_name":"ON","country_name":"Canada","latitude":43.6547},"name":"StickMUD","login":0,"ipaddress":"172.105.105.30"}

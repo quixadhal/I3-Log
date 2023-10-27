@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"region_name":"WA","ip":"50.22.147.227","country_name":"United States","latitude":47.6034,"country_code":"US","longitude":-122.3414,"city":"Seattle"},"ipaddress":"50.22.147.227","name":"Merentha"}
+{"geoip":{"ip":"50.22.147.227","city":"Seattle","longitude":-122.3414,"country_code":"US","region_name":"WA","country_name":"United States","latitude":47.6034},"login":1,"name":"Merentha","ipaddress":"50.22.147.227"}

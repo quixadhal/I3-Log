@@ -1,1 +1,1 @@
-{"name":"EotL","ipaddress":"38.86.32.239","geoip":{"latitude":37.751,"country_code":"US","longitude":-97.822,"city":"","region_name":"","ip":"38.86.32.239","country_name":"United States"},"login":1}
+{"geoip":{"latitude":37.751,"country_name":"United States","region_name":"","country_code":"US","city":"","ip":"38.86.32.239","longitude":-97.822},"ipaddress":"38.86.32.239","login":1,"name":"EotL"}

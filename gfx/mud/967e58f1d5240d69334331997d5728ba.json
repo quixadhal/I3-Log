@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"MD","ip":"173.13.240.73","country_name":"United States","latitude":39.2514,"country_code":"US","longitude":-76.7979,"city":"Ellicott City"},"login":0,"ipaddress":"173.13.240.73","name":"RoDDev"}
+{"ipaddress":"173.13.240.73","login":0,"name":"RoDDev","geoip":{"country_name":"United States","latitude":39.2514,"longitude":-76.7979,"ip":"173.13.240.73","city":"Ellicott City","country_code":"US","region_name":"MD"}}

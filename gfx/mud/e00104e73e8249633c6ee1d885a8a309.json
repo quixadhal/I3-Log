@@ -1,1 +1,1 @@
-{"ipaddress":"167.114.137.18","name":"The Forest's Edge","geoip":{"region_name":"QC","ip":"167.114.137.18","country_name":"Canada","latitude":45.5063,"country_code":"CA","longitude":-73.5794,"city":"Montreal"},"login":1}
+{"geoip":{"country_name":"Canada","latitude":45.5063,"longitude":-73.5794,"city":"Montreal","ip":"167.114.137.18","country_code":"CA","region_name":"QC"},"ipaddress":"167.114.137.18","login":1,"name":"The Forest's Edge"}

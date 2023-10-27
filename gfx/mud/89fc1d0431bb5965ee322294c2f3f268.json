@@ -1,1 +1,1 @@
-{"geoip":{"latitude":50.4833,"longitude":-104.6091,"city":"Regina","country_code":"CA","region_name":"SK","country_name":"Canada","ip":"24.89.99.143"},"login":0,"name":"Dead_Souls_montroze","ipaddress":"24.89.99.143"}
+{"login":0,"ipaddress":"24.89.99.143","name":"Dead_Souls_montroze","geoip":{"country_name":"Canada","latitude":50.4833,"ip":"24.89.99.143","region_name":"SK","country_code":"CA","city":"Regina","longitude":-104.6091}}

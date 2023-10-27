@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","longitude":-95.1186,"city":"Deer Park","latitude":29.6856,"ip":"99.113.73.1","country_name":"United States","region_name":"TX"},"login":1,"name":"Arkon","ipaddress":"99.113.73.1"}
+{"ipaddress":"99.113.73.1","login":1,"name":"Arkon","geoip":{"country_code":"US","region_name":"TX","longitude":-95.1186,"ip":"99.113.73.1","city":"Deer Park","latitude":29.6856,"country_name":"United States"}}

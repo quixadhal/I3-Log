@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"ip":"107.191.126.18","country_name":"United States","region_name":"","country_code":"US","longitude":-97.822,"city":"","latitude":37.751},"name":"FieryMUD","ipaddress":"107.191.126.18"}
+{"geoip":{"longitude":-97.822,"city":"","ip":"107.191.126.18","country_code":"US","region_name":"","country_name":"United States","latitude":37.751},"login":1,"name":"FieryMUD","ipaddress":"107.191.126.18"}

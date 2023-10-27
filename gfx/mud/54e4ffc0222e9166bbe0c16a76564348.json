@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","longitude":-122.3838,"city":"San Francisco","latitude":37.7308,"ip":"192.241.204.156","country_name":"United States","region_name":"CA"},"login":1,"ipaddress":"192.241.204.156","name":"Star Wars: Age of Alliances"}
+{"ipaddress":"192.241.204.156","login":1,"name":"Star Wars: Age of Alliances","geoip":{"country_name":"United States","latitude":37.7308,"longitude":-122.3838,"ip":"192.241.204.156","city":"San Francisco","country_code":"US","region_name":"CA"}}

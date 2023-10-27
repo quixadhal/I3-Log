@@ -1,1 +1,1 @@
-{"name":"tbaMUD","ipaddress":"176.9.151.147","login":1,"geoip":{"country_code":"DE","longitude":9.491,"city":"","latitude":51.2993,"ip":"176.9.151.147","country_name":"Germany","region_name":""}}
+{"geoip":{"region_name":"","country_code":"DE","ip":"176.9.151.147","city":"","longitude":9.491,"latitude":51.2993,"country_name":"Germany"},"login":1,"name":"tbaMUD","ipaddress":"176.9.151.147"}

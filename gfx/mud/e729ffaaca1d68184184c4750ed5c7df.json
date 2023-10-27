@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"country_code":"CA","longitude":-63.6002,"city":"Halifax","latitude":44.6643,"ip":"142.166.94.12","country_name":"Canada","region_name":"NS"},"ipaddress":"142.166.94.12","name":"MUDgaard"}
+{"ipaddress":"142.166.94.12","login":0,"name":"MUDgaard","geoip":{"longitude":-63.6002,"ip":"142.166.94.12","city":"Halifax","country_code":"CA","region_name":"NS","country_name":"Canada","latitude":44.6643}}

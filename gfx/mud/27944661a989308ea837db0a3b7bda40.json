@@ -1,1 +1,1 @@
-{"ipaddress":"68.115.32.52","name":"The Rift","geoip":{"country_name":"United States","ip":"68.115.32.52","region_name":"WI","city":"Madison","longitude":-89.4512,"country_code":"US","latitude":43.0334},"login":0}
+{"geoip":{"longitude":-89.4512,"city":"Madison","ip":"68.115.32.52","country_code":"US","region_name":"WI","country_name":"United States","latitude":43.0334},"name":"The Rift","login":0,"ipaddress":"68.115.32.52"}

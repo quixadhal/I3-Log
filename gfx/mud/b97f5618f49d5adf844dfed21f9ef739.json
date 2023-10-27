@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"country_code":"CA","longitude":-79.3716,"city":"","latitude":43.6319,"ip":"204.209.44.3","country_name":"Canada","region_name":""},"name":"Frontiers","ipaddress":"204.209.44.3"}
+{"geoip":{"latitude":43.6319,"country_name":"Canada","region_name":"","country_code":"CA","longitude":-79.3716,"ip":"204.209.44.3","city":""},"login":1,"name":"Frontiers","ipaddress":"204.209.44.3"}

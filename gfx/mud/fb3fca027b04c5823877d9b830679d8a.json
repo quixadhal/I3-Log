@@ -1,1 +1,1 @@
-{"geoip":{"longitude":10.859,"city":"Oslo","country_code":"NO","latitude":59.955,"country_name":"Norway","ip":"178.232.215.126","region_name":"03"},"login":0,"name":"BliksLands","ipaddress":"178.232.215.126"}
+{"geoip":{"ip":"178.232.215.126","country_name":"Norway","latitude":59.955,"region_name":"03","city":"Oslo","country_code":"NO","longitude":10.859},"name":"BliksLands","ipaddress":"178.232.215.126","login":0}

@@ -1,1 +1,1 @@
-{"ipaddress":"134.209.143.125","name":"Tsunami","login":1,"geoip":{"country_code":"US","city":"Santa Clara","longitude":-121.9753,"latitude":37.3417,"ip":"134.209.143.125","country_name":"United States","region_name":"CA"}}
+{"geoip":{"latitude":37.3417,"country_name":"United States","region_name":"CA","country_code":"US","longitude":-121.9753,"city":"Santa Clara","ip":"134.209.143.125"},"ipaddress":"134.209.143.125","name":"Tsunami","login":1}

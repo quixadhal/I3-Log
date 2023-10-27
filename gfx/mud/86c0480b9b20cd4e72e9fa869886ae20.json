@@ -1,1 +1,1 @@
-{"name":"Nostalgia MUD","ipaddress":"45.33.66.238","login":1,"geoip":{"region_name":"NJ","country_name":"United States","ip":"45.33.66.238","latitude":40.8229,"city":"Cedar Knolls","longitude":-74.4592,"country_code":"US"}}
+{"geoip":{"latitude":40.8229,"country_name":"United States","country_code":"US","region_name":"NJ","city":"Cedar Knolls","ip":"45.33.66.238","longitude":-74.4592},"ipaddress":"45.33.66.238","login":1,"name":"Nostalgia MUD"}

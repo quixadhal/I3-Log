@@ -1,1 +1,1 @@
-{"name":"Champions MUSH","ipaddress":"216.136.9.5","login":1,"geoip":{"latitude":35.2227,"city":"Charlotte","longitude":-80.7938,"country_code":"US","region_name":"NC","country_name":"United States","ip":"216.136.9.5"}}
+{"geoip":{"country_name":"United States","latitude":35.2227,"ip":"216.136.9.5","city":"Charlotte","longitude":-80.7938,"region_name":"NC","country_code":"US"},"ipaddress":"216.136.9.5","name":"Champions MUSH","login":1}

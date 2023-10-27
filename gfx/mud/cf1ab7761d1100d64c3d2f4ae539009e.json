@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"region_name":"ME","ip":"67.249.66.112","country_name":"United States","latitude":44.5133,"country_code":"US","city":"Oakland","longitude":-69.7403},"name":"testMud","ipaddress":"67.249.66.112"}
+{"geoip":{"country_name":"France","latitude":47.7452,"ip":"37.66.22.18","city":"Mulhouse","longitude":7.3379,"region_name":"GES","country_code":"FR"},"login":0,"name":"testMud","ipaddress":"37.66.22.18"}

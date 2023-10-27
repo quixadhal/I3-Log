@@ -1,1 +1,1 @@
-{"name":"Testfish","ipaddress":"24.222.138.85","login":0,"geoip":{"latitude":44.6219,"country_code":"CA","longitude":-65.7586,"city":"Digby","region_name":"NS","ip":"24.222.138.85","country_name":"Canada"}}
+{"name":"Testfish","geoip":{"country_name":"Canada","latitude":44.6219,"ip":"24.222.138.85","region_name":"NS","longitude":-65.7586,"country_code":"CA","city":"Digby"},"ipaddress":"24.222.138.85","login":0}

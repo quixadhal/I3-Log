@@ -1,1 +1,1 @@
-{"geoip":{"latitude":53.3379,"city":"Dublin","longitude":-6.2591,"country_code":"IE","region_name":"L","country_name":"Ireland","ip":"52.19.37.158"},"login":1,"name":"Ages of Despair","ipaddress":"52.19.37.158"}
+{"login":1,"name":"Ages of Despair","ipaddress":"52.19.37.158","geoip":{"region_name":"L","country_code":"IE","longitude":-6.2591,"city":"Dublin","ip":"52.19.37.158","latitude":53.3379,"country_name":"Ireland"}}

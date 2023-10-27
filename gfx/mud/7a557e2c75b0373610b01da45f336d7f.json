@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"ip":"98.168.134.105","country_name":"United States","region_name":"OK","country_code":"US","city":"Oklahoma City","longitude":-97.5255,"latitude":35.5689},"name":"Rattlevale","ipaddress":"98.168.134.105"}
+{"geoip":{"longitude":-97.5255,"country_code":"US","city":"Oklahoma City","region_name":"OK","country_name":"United States","latitude":35.5689,"ip":"98.168.134.105"},"name":"Rattlevale","ipaddress":"98.168.134.105","login":0}

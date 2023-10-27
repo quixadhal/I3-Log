@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"latitude":38.8025,"longitude":-90.3448,"city":"Florissant","country_code":"US","region_name":"MO","country_name":"United States","ip":"75.50.248.16"},"ipaddress":"75.50.248.16","name":"KallistiMUD"}
+{"name":"KallistiMUD","login":1,"ipaddress":"75.50.248.16","geoip":{"latitude":38.8025,"country_name":"United States","country_code":"US","region_name":"MO","city":"Florissant","ip":"75.50.248.16","longitude":-90.3448}}
