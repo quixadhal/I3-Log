@@ -17,7 +17,7 @@ function https() {
 
 function address() {
     $server_addr = $_SERVER['SERVER_ADDR'];
-    if($server_addr == '192.168.0.16') {
+    if($server_addr == '192.168.0.12') {
         # production
         return 'wileymud.themud.org';
     } else {

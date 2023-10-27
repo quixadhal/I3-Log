@@ -129,10 +129,12 @@ function randomizeBackground() {
                 var bg_choice = Math.floor(SpecialImageList.length * Random.random());
                 var new_bg = "<?php echo "$SPECIAL_DIR_URL/"; ?>" + SpecialImageList[bg_choice];
                 $("#background-img").attr("src", new_bg);
+                console.log("Today NSFW Picked " + new_bg);
             } else {
                 var bg_choice = Math.floor(SafeSpecialImageList.length * Random.random());
                 var new_bg = "<?php echo "$SPECIAL_DIR_URL/"; ?>" + SafeSpecialImageList[bg_choice];
                 $("#background-img").attr("src", new_bg);
+                console.log("Today Picked " + new_bg);
             }
         } else {
             if(NSFW) {
@@ -140,11 +142,13 @@ function randomizeBackground() {
                 var bg_choice = Math.floor(BackgroundImageList.length * Random.random());
                 var new_bg = "<?php echo "$BACKGROUND_DIR_URL/"; ?>" + BackgroundImageList[bg_choice];
                 $("#background-img").attr("src", new_bg);
+                console.log("NSFW Picked " + new_bg);
             } else {
                 // This lets us be SFW, unless Today overrides it.
                 var bg_choice = Math.floor(BoringImageList.length * Random.random());
                 var new_bg = "<?php echo "$BORING_DIR_URL/"; ?>" + BoringImageList[bg_choice];
                 $("#background-img").attr("src", new_bg);
+                console.log("Picked " + new_bg);
             }
         }
     }

@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","latitude":37.3417,"ip":"104.248.178.112","city":"Santa Clara","longitude":-121.9753,"country_code":"US","region_name":"CA"},"login":1,"name":"Among The Stars TrekMUSH","ipaddress":"104.248.178.112"}
+{"name":"Among The Stars TrekMUSH","login":1,"ipaddress":"104.248.178.112","geoip":{"country_name":"United States","city":"Santa Clara","ip":"104.248.178.112","country_code":"US","region_name":"CA","latitude":37.3417,"longitude":-121.9753}}

@@ -1,1 +1,1 @@
-{"ipaddress":"73.37.24.100","login":0,"name":"The Multiverse","geoip":{"latitude":45.3642,"country_name":"United States","region_name":"OR","country_code":"US","city":"West Linn","ip":"73.37.24.100","longitude":-122.6443}}
+{"geoip":{"city":"West Linn","ip":"73.37.24.100","country_code":"US","country_name":"United States","longitude":-122.6443,"region_name":"OR","latitude":45.3642},"name":"The Multiverse","login":0,"ipaddress":"73.37.24.100"}

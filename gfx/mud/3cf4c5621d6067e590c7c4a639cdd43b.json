@@ -1,1 +1,1 @@
-{"geoip":{"latitude":45.7126,"country_name":"United States","region_name":"WA","country_code":"US","longitude":-122.6239,"ip":"73.180.55.233","city":"Vancouver"},"ipaddress":"73.180.55.233","name":"Shards of Empire","login":0}
+{"ipaddress":"73.180.55.233","login":0,"name":"Shards of Empire","geoip":{"longitude":-122.6239,"latitude":45.7126,"region_name":"WA","ip":"73.180.55.233","country_code":"US","city":"Vancouver","country_name":"United States"}}

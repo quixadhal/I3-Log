@@ -1,1 +1,1 @@
-{"geoip":{"latitude":43.6547,"country_name":"Canada","region_name":"ON","country_code":"CA","city":"Toronto","ip":"138.197.134.82","longitude":-79.3623},"ipaddress":"138.197.134.82","name":"Dune","login":1}
+{"ipaddress":"138.197.134.82","login":1,"name":"Dune","geoip":{"country_name":"Canada","city":"Toronto","country_code":"CA","ip":"138.197.134.82","region_name":"ON","latitude":43.6547,"longitude":-79.3623}}

@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-74.0068,"city":"New York","ip":"146.70.202.131","country_code":"US","region_name":"NY","country_name":"United States","latitude":40.7123},"ipaddress":"146.70.202.131","login":0,"name":"Happy Fun Dayz2"}
+{"login":0,"name":"Happy Fun Dayz2","ipaddress":"146.70.202.131","geoip":{"longitude":-74.0068,"region_name":"NY","latitude":40.7123,"city":"New York","ip":"146.70.202.131","country_code":"US","country_name":"United States"}}

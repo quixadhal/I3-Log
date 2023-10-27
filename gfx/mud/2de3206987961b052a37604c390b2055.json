@@ -1,1 +1,1 @@
-{"login":1,"name":"Penultimate Destination","ipaddress":"45.79.146.119","geoip":{"latitude":40.8229,"country_name":"United States","country_code":"US","region_name":"NJ","ip":"45.79.146.119","city":"Cedar Knolls","longitude":-74.4592}}
+{"geoip":{"latitude":40.8229,"region_name":"NJ","longitude":-74.4592,"country_name":"United States","country_code":"US","ip":"45.79.146.119","city":"Cedar Knolls"},"ipaddress":"45.79.146.119","login":1,"name":"Penultimate Destination"}

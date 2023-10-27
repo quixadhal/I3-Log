@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-82.7888,"city":"Emmett","ip":"50.105.109.224","country_code":"US","region_name":"MI","country_name":"United States","latitude":42.9936},"ipaddress":"50.105.109.224","login":0,"name":"Realm of Cernunnos"}
+{"login":0,"name":"Realm of Cernunnos","ipaddress":"50.105.109.224","geoip":{"latitude":42.9936,"region_name":"MI","longitude":-82.7888,"country_name":"United States","country_code":"US","ip":"50.105.109.224","city":"Emmett"}}

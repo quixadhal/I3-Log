@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","latitude":44.0185,"city":"Bend","ip":"155.254.17.154","longitude":-121.2984,"country_code":"US","region_name":"OR"},"login":1,"name":"Darkness and Despair","ipaddress":"155.254.17.154"}
+{"ipaddress":"155.254.17.154","login":1,"name":"Darkness and Despair","geoip":{"city":"Bend","ip":"155.254.17.154","country_code":"US","country_name":"United States","longitude":-121.2984,"region_name":"OR","latitude":44.0185}}

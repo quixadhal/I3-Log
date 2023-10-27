@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","region_name":"PA","longitude":-79.9856,"city":"Pittsburgh","ip":"74.109.234.32","latitude":40.4064,"country_name":"United States"},"ipaddress":"74.109.234.32","login":0,"name":"Farlands"}
+{"geoip":{"country_name":"United States","ip":"74.109.234.32","country_code":"US","city":"Pittsburgh","latitude":40.4064,"region_name":"PA","longitude":-79.9856},"name":"Farlands","login":0,"ipaddress":"74.109.234.32"}

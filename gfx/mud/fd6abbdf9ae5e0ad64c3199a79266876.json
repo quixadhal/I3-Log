@@ -1,1 +1,1 @@
-{"ipaddress":"199.188.204.136","name":"LegendMUD","login":1,"geoip":{"country_code":"US","region_name":"","longitude":-97.822,"ip":"199.188.204.136","city":"","latitude":37.751,"country_name":"United States"}}
+{"geoip":{"country_name":"United States","ip":"199.188.204.136","country_code":"US","city":"","latitude":37.751,"region_name":"","longitude":-97.822},"ipaddress":"199.188.204.136","login":1,"name":"LegendMUD"}

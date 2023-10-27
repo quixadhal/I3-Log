@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","latitude":44.5133,"city":"Oakland","ip":"67.249.66.112","longitude":-69.7403,"country_code":"US","region_name":"ME"},"name":"My World","login":0,"ipaddress":"67.249.66.112"}
+{"ipaddress":"67.249.66.112","login":0,"name":"My World","geoip":{"city":"Oakland","country_code":"US","ip":"67.249.66.112","country_name":"United States","longitude":-69.7403,"region_name":"ME","latitude":44.5133}}

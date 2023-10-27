@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United Kingdom","latitude":52.1929,"longitude":0.1256,"ip":"93.93.128.88","city":"Cambridge","country_code":"GB","region_name":"ENG"},"login":0,"name":"God Wars II","ipaddress":"93.93.128.88"}
+{"login":0,"ipaddress":"93.93.128.88","name":"God Wars II","geoip":{"latitude":52.1929,"region_name":"ENG","longitude":0.1256,"country_name":"United Kingdom","country_code":"GB","ip":"93.93.128.88","city":"Cambridge"}}

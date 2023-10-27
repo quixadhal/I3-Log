@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"Finland","latitude":60.1719,"longitude":24.9347,"city":"Helsinki","ip":"135.181.26.55","region_name":"18","country_code":"FI"},"ipaddress":"135.181.26.55","login":1,"name":"Epitaph Black Ops"}
+{"ipaddress":"135.181.26.55","login":1,"name":"Epitaph Black Ops","geoip":{"country_name":"Finland","ip":"135.181.26.55","country_code":"FI","city":"Helsinki","latitude":60.1719,"region_name":"18","longitude":24.9347}}

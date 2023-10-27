@@ -1,1 +1,1 @@
-{"ipaddress":"67.249.66.112","login":0,"name":"My First World","geoip":{"latitude":44.5133,"country_name":"United States","region_name":"ME","country_code":"US","ip":"67.249.66.112","city":"Oakland","longitude":-69.7403}}
+{"geoip":{"country_name":"United States","ip":"67.249.66.112","country_code":"US","city":"Oakland","latitude":44.5133,"region_name":"ME","longitude":-69.7403},"ipaddress":"67.249.66.112","login":0,"name":"My First World"}

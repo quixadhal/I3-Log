@@ -1,1 +1,1 @@
-{"ipaddress":"192.99.10.40","name":"Cheeseworld","login":1,"geoip":{"country_name":"Canada","latitude":45.5839,"longitude":-73.3312,"city":"Sainte-Julie","ip":"192.99.10.40","region_name":"QC","country_code":"CA"}}
+{"login":1,"name":"Cheeseworld","ipaddress":"192.99.10.40","geoip":{"region_name":"QC","latitude":45.5839,"longitude":-73.3312,"country_name":"Canada","city":"Sainte-Julie","ip":"192.99.10.40","country_code":"CA"}}

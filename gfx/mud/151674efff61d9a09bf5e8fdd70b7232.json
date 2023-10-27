@@ -1,1 +1,1 @@
-{"geoip":{"longitude":120.1612,"ip":"115.227.204.177","city":"Hangzhou","country_code":"CN","region_name":"ZJ","country_name":"China","latitude":30.2994},"ipaddress":"115.227.204.177","login":0,"name":"mmorpg"}
+{"login":0,"name":"mmorpg","ipaddress":"115.227.204.177","geoip":{"country_name":"China","city":"Hangzhou","country_code":"CN","ip":"115.227.204.177","region_name":"ZJ","latitude":30.2994,"longitude":120.1612}}

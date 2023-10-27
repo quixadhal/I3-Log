@@ -1,1 +1,1 @@
-{"login":1,"name":"Iberia","ipaddress":"81.84.26.115","geoip":{"longitude":-8.535,"city":"Anobra","ip":"81.84.26.115","country_code":"PT","region_name":"06","country_name":"Portugal","latitude":40.1483}}
+{"geoip":{"country_name":"Portugal","city":"Anobra","country_code":"PT","ip":"81.84.26.115","region_name":"06","latitude":40.1483,"longitude":-8.535},"login":1,"name":"Iberia","ipaddress":"81.84.26.115"}

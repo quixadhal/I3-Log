@@ -1,1 +1,1 @@
-{"login":1,"name":"Secret of Life","ipaddress":"45.56.88.19","geoip":{"country_code":"US","region_name":"CA","city":"Fremont","ip":"45.56.88.19","longitude":-122.0004,"latitude":37.5625,"country_name":"United States"}}
+{"geoip":{"country_code":"US","ip":"45.56.88.19","city":"Fremont","country_name":"United States","longitude":-122.0004,"latitude":37.5625,"region_name":"CA"},"login":1,"name":"Secret of Life","ipaddress":"45.56.88.19"}

@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"CA","region_name":"","city":"","ip":"192.99.187.232","longitude":-79.3716,"latitude":43.6319,"country_name":"Canada"},"ipaddress":"192.99.187.232","name":"Dragon Swords MUD","login":1}
+{"login":1,"ipaddress":"192.99.187.232","name":"Dragon Swords MUD","geoip":{"country_name":"Canada","city":"","ip":"192.99.187.232","country_code":"CA","region_name":"","latitude":43.6319,"longitude":-79.3716}}

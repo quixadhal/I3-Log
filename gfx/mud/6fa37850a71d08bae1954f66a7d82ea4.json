@@ -1,1 +1,1 @@
-{"login":1,"name":"Furryfaire","ipaddress":"50.214.28.50","geoip":{"latitude":39.7427,"country_name":"United States","country_code":"US","region_name":"CO","ip":"50.214.28.50","city":"Aurora","longitude":-104.8129}}
+{"geoip":{"latitude":39.7427,"region_name":"CO","longitude":-104.8129,"country_name":"United States","ip":"50.214.28.50","country_code":"US","city":"Aurora"},"login":1,"ipaddress":"50.214.28.50","name":"Furryfaire"}

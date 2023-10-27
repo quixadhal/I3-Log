@@ -1,1 +1,1 @@
-{"ipaddress":"173.255.210.234","login":1,"name":"The Savage Soul","geoip":{"longitude":-122.0004,"ip":"173.255.210.234","city":"Fremont","region_name":"CA","country_code":"US","country_name":"United States","latitude":37.5625}}
+{"geoip":{"longitude":-122.0004,"latitude":37.5625,"region_name":"CA","ip":"173.255.210.234","country_code":"US","city":"Fremont","country_name":"United States"},"login":1,"name":"The Savage Soul","ipaddress":"173.255.210.234"}

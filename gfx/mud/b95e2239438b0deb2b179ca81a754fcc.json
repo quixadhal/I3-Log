@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","latitude":33.9779,"ip":"64.62.231.178","city":"Marina del Rey","longitude":-118.4525,"region_name":"CA","country_code":"US"},"login":0,"name":"4Dimensions","ipaddress":"64.62.231.178"}
+{"login":0,"name":"4Dimensions","ipaddress":"64.62.231.178","geoip":{"country_name":"United States","city":"Marina del Rey","country_code":"US","ip":"64.62.231.178","region_name":"CA","latitude":33.9779,"longitude":-118.4525}}
