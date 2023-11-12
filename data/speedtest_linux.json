@@ -1,41 +1,41 @@
 {
     "type": "result",
-    "timestamp": "2023-10-19T23:10:14Z",
+    "timestamp": "2023-11-12T12:03:18Z",
     "ping": {
-        "jitter": 0.093,
-        "latency": 2.155,
-        "low": 2.041,
-        "high": 2.251
+        "jitter": 0.025,
+        "latency": 2.058,
+        "low": 2.022,
+        "high": 2.097
     },
     "download": {
-        "bandwidth": 83336957,
-        "bytes": 325603992,
-        "elapsed": 3911,
+        "bandwidth": 113484466,
+        "bytes": 691039176,
+        "elapsed": 6107,
         "latency": {
-            "iqm": 6.075,
-            "low": 2.013,
-            "high": 7.602,
-            "jitter": 0.607
+            "iqm": 3.011,
+            "low": 2.320,
+            "high": 5.235,
+            "jitter": 0.430
         }
     },
     "upload": {
-        "bandwidth": 81950359,
-        "bytes": 472600861,
-        "elapsed": 5807,
+        "bandwidth": 115921260,
+        "bytes": 463626919,
+        "elapsed": 4005,
         "latency": {
-            "iqm": 6.772,
-            "low": 3.305,
-            "high": 9.381,
-            "jitter": 0.718
+            "iqm": 9.026,
+            "low": 3.160,
+            "high": 252.333,
+            "jitter": 17.853
         }
     },
     "isp": "Condointernet.net",
     "interface": {
-        "internalIp": "2604:4080:1018:8080:be5f:f4ff:fe5a:4457",
-        "name": "enp2s0",
-        "macAddr": "BC:5F:F4:5A:44:57",
+        "internalIp": "192.168.0.12",
+        "name": "enp0s3",
+        "macAddr": "08:00:27:C1:6F:D8",
         "isVpn": false,
-        "externalIp": "2604:4080:1018:8080:be5f:f4ff:fe5a:4457"
+        "externalIp": "104.156.100.167"
     },
     "server": {
         "id": 1782,
@@ -44,11 +44,11 @@
         "name": "Comcast",
         "location": "Seattle, WA",
         "country": "United States",
-        "ip": "2001:558:fe34:22::2"
+        "ip": "69.241.104.42"
     },
     "result": {
-        "id": "9b658fa2-f73a-401a-b843-fd411a90085c",
-        "url": "https://www.speedtest.net/result/c/9b658fa2-f73a-401a-b843-fd411a90085c",
+        "id": "d4ff9158-7cdf-43db-bd4e-0d3ffd12568f",
+        "url": "https://www.speedtest.net/result/c/d4ff9158-7cdf-43db-bd4e-0d3ffd12568f",
         "persisted": true
     }
 }

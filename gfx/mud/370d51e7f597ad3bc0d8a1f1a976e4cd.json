@@ -1,1 +1,1 @@
-{"ipaddress":"74.219.230.98","login":0,"name":"JediMUD","geoip":{"country_name":"United States","city":"Cincinnati","country_code":"US","ip":"74.219.230.98","region_name":"OH","latitude":39.2607,"longitude":-84.4111}}
+{"name":"JediMUD","geoip":{"latitude":39.2607,"city":"Cincinnati","longitude":-84.4111,"region_name":"OH","ip":"74.219.230.98","country_code":"US","country_name":"United States"},"login":0,"ipaddress":"74.219.230.98"}

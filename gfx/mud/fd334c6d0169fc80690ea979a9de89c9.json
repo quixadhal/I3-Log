@@ -1,1 +1,1 @@
-{"geoip":{"city":"Fremont","ip":"45.33.45.63","country_code":"US","country_name":"United States","longitude":-122.0004,"region_name":"CA","latitude":37.5625},"login":1,"name":"Legion of Darkness","ipaddress":"45.33.45.63"}
+{"geoip":{"latitude":37.5625,"city":"Fremont","longitude":-122.0004,"region_name":"CA","country_code":"US","ip":"45.33.45.63","country_name":"United States"},"name":"Legion of Darkness","ipaddress":"45.33.45.63","login":1}

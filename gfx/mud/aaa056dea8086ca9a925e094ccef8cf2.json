@@ -1,1 +1,1 @@
-{"name":"Your Muds Name Here","geoip":{"ip":"204.111.74.52","country_name":"United States","latitude":39.3028,"longitude":-77.8528,"city":"Ranson","country_code":"US","region_name":"WV"},"ipaddress":"204.111.74.52","login":0}
+{"login":0,"ipaddress":"204.111.74.52","name":"Your Muds Name Here","geoip":{"country_name":"United States","ip":"204.111.74.52","country_code":"US","longitude":-77.8528,"region_name":"WV","city":"Ranson","latitude":39.3028}}

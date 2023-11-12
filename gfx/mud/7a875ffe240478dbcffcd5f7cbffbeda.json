@@ -1,1 +1,1 @@
-{"login":0,"name":"FOR_NOW","ipaddress":"24.18.14.120","geoip":{"country_name":"United States","city":"Auburn","ip":"24.18.14.120","country_code":"US","region_name":"WA","latitude":47.3066,"longitude":-122.2619}}
+{"geoip":{"city":"Auburn","longitude":-122.2619,"region_name":"WA","latitude":47.3066,"country_name":"United States","country_code":"US","ip":"24.18.14.120"},"name":"FOR_NOW","ipaddress":"24.18.14.120","login":0}

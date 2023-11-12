@@ -1,1 +1,1 @@
-{"geoip":{"city":"","country_code":"US","ip":"84.247.3.93","country_name":"United States","longitude":-97.822,"region_name":"","latitude":37.751},"login":1,"name":"Star Wars MUSH","ipaddress":"84.247.3.93"}
+{"login":1,"ipaddress":"84.247.3.93","name":"Star Wars MUSH","geoip":{"latitude":37.751,"city":"","region_name":"","longitude":-97.822,"ip":"84.247.3.93","country_code":"US","country_name":"United States"}}

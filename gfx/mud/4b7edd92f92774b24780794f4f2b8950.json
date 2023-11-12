@@ -1,1 +1,1 @@
-{"login":1,"name":"Dragon's Den","ipaddress":"74.109.126.27","geoip":{"longitude":-75.1181,"region_name":"PA","latitude":39.9943,"city":"Philadelphia","country_code":"US","ip":"74.109.126.27","country_name":"United States"}}
+{"geoip":{"ip":"74.109.126.27","country_code":"US","country_name":"United States","latitude":39.9943,"longitude":-75.1181,"region_name":"PA","city":"Philadelphia"},"name":"Dragon's Den","ipaddress":"74.109.126.27","login":1}

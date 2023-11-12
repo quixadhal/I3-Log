@@ -1,17 +1,17 @@
 {
     "version" : {
-        "build" : "2.301g",
-        "date" : "2023-08-14"
+        "build" : "2.302g",
+        "date" : "2023-10-27"
     },
-    "time" : "10:59 PDT",
-    "boot" : "2023-09-24 12:54:53.000 PDT",
-    "uptime" : "25 days, 22:04:39",
+    "time" : "04:06 PST",
+    "boot" : "2023-10-28 16:56:25.000 PDT",
+    "uptime" : "14 days, 12:10:26",
     "player_list" : [
         {
             "name" : "Quixadhal",
             "title" : "the God of Bugs",
             "pretitle" : "Dread",
-            "idle" : "51602",
+            "idle" : "105909",
             "level" : "60",
             "rank" : "God"
         }
@@ -72,26 +72,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Aadarian_Realms", 
-            "md5"       : "087b0b732d867d4b5fbef3ba6d77f207", 
-            "type"      : "DikuMUD", 
-            "mudlib"    : "ADR 4.66 (build: 84) 4.66 (build: 84) 4.66 (build: 84) 4.66 (build: 84)", 
-            "ipaddress" : "178.79.173.99", 
-            "port"      : 1114,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Abyssal Silenced Souls MUD", 
-            "md5"       : "c6c4ebeb5af3051c4f1d80ac29a8b9fd", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.9.12", 
-            "ipaddress" : "99.62.73.95", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Adaka", 
             "md5"       : "21886062a6e123d028e3f5c46ef13300", 
             "type"      : "CoffeeMud", 
@@ -99,6 +79,16 @@
             "ipaddress" : "85.2.100.174", 
             "port"      : 5555,
             "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Adam's Nightmare MUD", 
+            "md5"       : "a73b257b506f78172e1b3e5c10ea4717", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Nightmare 3.3.1", 
+            "ipaddress" : "159.250.22.166", 
+            "port"      : 2701,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -122,16 +112,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Alauda", 
-            "md5"       : "9ac8865d1e2eb55ea4c5fe43e50ecdbc", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "73.185.117.162", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Altera MUD", 
             "md5"       : "aca75e09e223ca7504c5e5ee2cb64ae9", 
             "type"      : "CoffeeMud", 
@@ -148,16 +128,6 @@
             "mudlib"    : "antikaria", 
             "ipaddress" : "128.16.10.197", 
             "port"      : 9000,
-            "online"    : 1,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Araleun", 
-            "md5"       : "2fe3e0987d331e626b779aedc9769f21", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "173.216.229.252", 
-            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -182,6 +152,26 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "Ascending Reality MUD", 
+            "md5"       : "3bf62f450e4908aae1fe1a5b90effe28", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
+            "ipaddress" : "45.79.155.148", 
+            "port"      : 5555,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Astaralia", 
+            "md5"       : "977212025ca68e88ba5134f443d1233b", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Dead Souls 3.9", 
+            "ipaddress" : "8.42.92.162", 
+            "port"      : 4080,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "Astaria", 
             "md5"       : "a820224280c0073541a11af9e0bf3a9c", 
             "type"      : "LP", 
@@ -198,7 +188,7 @@
             "mudlib"    : "Aurora v0.6.1b2 (DW)", 
             "ipaddress" : "130.61.249.129", 
             "port"      : 8000,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -212,12 +202,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "BliksLands", 
-            "md5"       : "fb3fca027b04c5823877d9b830679d8a", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "178.232.215.126", 
-            "port"      : 5555,
+            "name"      : "Blind Eternities", 
+            "md5"       : "8abc35aa573a9fcd71653b3a4708a6fd", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Nightmare IVr6", 
+            "ipaddress" : "159.250.22.166", 
+            "port"      : 2556,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -252,11 +242,11 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "C.o.M.", 
-            "md5"       : "d62022da183c46a5f49ccb69cf533e95", 
+            "name"      : "Cassmir Underground", 
+            "md5"       : "47f905992679514b054956a0e020e381", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "91.208.92.186", 
+            "ipaddress" : "99.241.107.184", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
@@ -272,23 +262,13 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "ChaosMud", 
-            "md5"       : "f769e7dd26aa437be82dcd2e377d1091", 
+            "name"      : "CoffeeBrau", 
+            "md5"       : "605578d7a2524a18c0522a26feaaf88f", 
             "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "24.2.116.43", 
+            "mudlib"    : "CoffeeMud v5.10.0", 
+            "ipaddress" : "71.63.206.183", 
             "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Classic 6 Dragons", 
-            "md5"       : "04f5631a6d173e8d4fd9d08a3b9a4126", 
-            "type"      : "Smaug", 
-            "mudlib"    : "6Dragons 4.4", 
-            "ipaddress" : "178.79.173.99", 
-            "port"      : 4100,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -332,12 +312,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "CUM", 
-            "md5"       : "c90b370e416c9cab2263416494a4ac7c", 
+            "name"      : "CrestFall", 
+            "md5"       : "c06419909f87c74c2f7e1de8a16d8ec0", 
             "type"      : "LPMud", 
-            "mudlib"    : "CUMLib v0.01a", 
-            "ipaddress" : "89.58.51.248", 
-            "port"      : 6669,
+            "mudlib"    : "Dead Souls 3.9", 
+            "ipaddress" : "144.202.4.16", 
+            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -346,7 +326,7 @@
             "md5"       : "8925ed5e180e34c4d2e57ab26bc29a54", 
             "type"      : "LPMud", 
             "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "185.222.243.75", 
+            "ipaddress" : "185.222.243.71", 
             "port"      : 6969,
             "online"    : 0,
             "from_mssp" : 0
@@ -358,7 +338,7 @@
             "mudlib"    : "Dark City", 
             "ipaddress" : "178.79.173.99", 
             "port"      : 3000,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -398,16 +378,16 @@
             "mudlib"    : "Nightmare+DnD", 
             "ipaddress" : "155.254.17.154", 
             "port"      : 4201,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
-            "name"      : "DDoD", 
-            "md5"       : "b2d8853e93a191389523e3d670736ed7", 
+            "name"      : "Data Haven", 
+            "md5"       : "bc4a72fb4e611bc5aac98aa230c94a33", 
             "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "45.80.27.110", 
-            "port"      : 6666,
+            "mudlib"    : "Nightmare 3.3.1", 
+            "ipaddress" : "159.250.22.166", 
+            "port"      : 2556,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -418,15 +398,15 @@
             "mudlib"    : "Dead Souls 3.9", 
             "ipaddress" : "97.107.133.86", 
             "port"      : 8000,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
-            "name"      : "Dead_Souls_akana", 
-            "md5"       : "7d014078ee67be1bc7da7ccf42a7fbb9", 
+            "name"      : "Dead_Souls_angus", 
+            "md5"       : "5b30382d5fd3b1f6b2f9b4d2653920ea", 
             "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "37.76.9.20", 
+            "mudlib"    : "Dead Souls 3.8.2", 
+            "ipaddress" : "201.177.145.138", 
             "port"      : 6666,
             "online"    : 0,
             "from_mssp" : 0
@@ -438,85 +418,15 @@
             "mudlib"    : "Dead Souls 3.9", 
             "ipaddress" : "216.128.145.218", 
             "port"      : 6666,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
-            "name"      : "Dead_Souls_chinook", 
-            "md5"       : "88b5ef1af4e210966d68bbe366a4dd67", 
+            "name"      : "Dead_Souls_god", 
+            "md5"       : "9efa9284179edd0dd17403e46d39f9b9", 
             "type"      : "LPMud", 
             "mudlib"    : "Dead Souls 3.8.2", 
-            "ipaddress" : "206.174.97.187", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_enigma", 
-            "md5"       : "023e504888f00500655232925bcd8f83", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "67.61.2.3", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_goemon", 
-            "md5"       : "463c070d0a94ee763deece3bb0b9bb7e", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "45.80.27.110", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_jahir", 
-            "md5"       : "f11e93cf736f9c1cb9f5f10f555edb0e", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "46.204.13.42", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_marelle", 
-            "md5"       : "0193a68b70b639ee2b624c3d2c2413ba", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "192.81.131.178", 
-            "port"      : 3636,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_montroze", 
-            "md5"       : "89fc1d0431bb5965ee322294c2f3f268", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.8.2", 
-            "ipaddress" : "24.89.99.143", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_mourningstar", 
-            "md5"       : "e87e7bbea945322b6491865b420e8003", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "72.167.40.222", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Dead_Souls_norm", 
-            "md5"       : "c4bf13acea0ceb455df0a9e5b9c2ef59", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "24.129.11.249", 
+            "ipaddress" : "109.173.225.183", 
             "port"      : 6666,
             "online"    : 0,
             "from_mssp" : 0
@@ -526,17 +436,17 @@
             "md5"       : "a080484c45d1df27c8e40b6a4977c246", 
             "type"      : "LPMud", 
             "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "74.109.234.32", 
+            "ipaddress" : "74.109.222.19", 
             "port"      : 6666,
             "online"    : 0,
             "from_mssp" : 0
         },
         {
-            "name"      : "Dead_Souls_rambunkle", 
-            "md5"       : "9c37d802524fbf851203cc417ce93a9a", 
+            "name"      : "Dead_Souls_ptar", 
+            "md5"       : "ffa106ba2df90af9a3786bea80cad4e0", 
             "type"      : "LPMud", 
             "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "67.249.66.112", 
+            "ipaddress" : "184.152.167.105", 
             "port"      : 6666,
             "online"    : 0,
             "from_mssp" : 0
@@ -548,16 +458,16 @@
             "mudlib"    : "Dead Souls 3.9", 
             "ipaddress" : "23.125.8.31", 
             "port"      : 6666,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
-            "name"      : "Desolation", 
-            "md5"       : "2a27428ecedca797c55501d29060c9c2", 
-            "type"      : "LP", 
-            "mudlib"    : "Lima 1.0a8", 
-            "ipaddress" : "155.254.17.151", 
-            "port"      : 8787,
+            "name"      : "DeadSouls-FluffOS2019", 
+            "md5"       : "c1a3cbd8d43d9abb3dd5e1646d781078", 
+            "type"      : "n/a", 
+            "mudlib"    : "Tim's LPC IMC2 client 30-Jan-05 / Dead Souls integrated", 
+            "ipaddress" : "96.88.109.174", 
+            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -576,7 +486,7 @@
             "md5"       : "05e970ec370c1910e828607938c32b63", 
             "type"      : "LPMud", 
             "mudlib"    : "Discworld 17.0a", 
-            "ipaddress" : "74.109.234.32", 
+            "ipaddress" : "201.177.145.138", 
             "port"      : 6677,
             "online"    : 0,
             "from_mssp" : 0
@@ -608,7 +518,7 @@
             "mudlib"    : "CoffeeMud v5.9.12", 
             "ipaddress" : "104.236.212.17", 
             "port"      : 5555,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -622,16 +532,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "EotL", 
-            "md5"       : "79eb1051bc5d99f4266196c39454f946", 
-            "type"      : "LPMud", 
-            "mudlib"    : "LPMud EotL 98", 
-            "ipaddress" : "38.86.32.239", 
-            "port"      : 2010,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Epitaph Black Ops", 
             "md5"       : "29d5a05ba309ffb32f22b45134ea62c7", 
             "type"      : "LPMud", 
@@ -642,12 +542,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Etiria", 
-            "md5"       : "2f89eb43f9b431b61eeacd1c9d80b064", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "162.212.157.190", 
-            "port"      : 5555,
+            "name"      : "Eyegor's Nightmare", 
+            "md5"       : "efed1da8ecf9a15e0b37818088cdda4b", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Nightmare IVr6", 
+            "ipaddress" : "159.250.22.166", 
+            "port"      : 2556,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -658,7 +558,7 @@
             "mudlib"    : "Tmi-2 1.5.1", 
             "ipaddress" : "170.187.162.171", 
             "port"      : 2222,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -668,7 +568,7 @@
             "mudlib"    : "Tmi-2 1.5.1", 
             "ipaddress" : "170.187.162.171", 
             "port"      : 2202,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -708,7 +608,7 @@
             "mudlib"    : "FRlib V", 
             "ipaddress" : "178.164.15.6", 
             "port"      : 4001,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -716,7 +616,7 @@
             "md5"       : "231a1e3fad77c001789561fee1573ae0", 
             "type"      : "LP", 
             "mudlib"    : "FRlib 3.5", 
-            "ipaddress" : "74.109.234.32", 
+            "ipaddress" : "109.173.225.183", 
             "port"      : 4001,
             "online"    : 0,
             "from_mssp" : 0
@@ -748,7 +648,7 @@
             "mudlib"    : "Dead Souls 3.8.6", 
             "ipaddress" : "54.172.123.224", 
             "port"      : 6690,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -762,16 +662,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Grande Mud", 
-            "md5"       : "2d3790dbed065457a4547d0c90d2cc5d", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "161.97.236.142", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "GTFO", 
             "md5"       : "018b1b75388a8a6b5522a81b8cd65d5d", 
             "type"      : "CoffeeMud", 
@@ -782,13 +672,23 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "Happy Fun Dayz2", 
+            "md5"       : "76ddc58d74ebf4969f403817a04e6993", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "146.70.202.131", 
+            "port"      : 5555,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "Haven", 
             "md5"       : "55643241eb61a88efa8a3e57626326f8", 
             "type"      : "LPMud", 
             "mudlib"    : "Haven 0.1", 
             "ipaddress" : "157.230.232.3", 
             "port"      : 5000,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -798,7 +698,7 @@
             "mudlib"    : "Haven 0.1", 
             "ipaddress" : "157.230.232.3", 
             "port"      : 0,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -818,7 +718,7 @@
             "mudlib"    : "CoffeeMud v5.10.2.2", 
             "ipaddress" : "45.33.76.241", 
             "port"      : 5555,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -832,22 +732,32 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Illian", 
-            "md5"       : "a7b44b09197f1958145925d97102639b", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "73.144.253.135", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Insomnia", 
             "md5"       : "866d815adb055e7d4ed23ac402b221f1", 
             "type"      : "LPMud", 
             "mudlib"    : "Insomnia 3.0a", 
             "ipaddress" : "3.10.11.230", 
             "port"      : 4000,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Ion Watchers", 
+            "md5"       : "432eaa77554d874f47b012d12ee87cc9", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "192.3.11.155", 
+            "port"      : 5555,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "KumoD", 
+            "md5"       : "dedbf056e8d4a00135592a473ed3bc88", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "192.3.11.155", 
+            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -868,7 +778,7 @@
             "mudlib"    : "Lima 1.1a1", 
             "ipaddress" : "20.223.238.107", 
             "port"      : 7878,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -876,8 +786,8 @@
             "md5"       : "853339575592a37560b9c22c811c2b9e", 
             "type"      : "LP", 
             "mudlib"    : "Lima 1.1a1", 
-            "ipaddress" : "142.126.204.155", 
-            "port"      : 5050,
+            "ipaddress" : "85.218.174.24", 
+            "port"      : 7878,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -888,7 +798,7 @@
             "mudlib"    : "lpcdb v1.0 alpha 2", 
             "ipaddress" : "136.144.155.250", 
             "port"      : 4000,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -908,6 +818,16 @@
             "mudlib"    : "Dead Souls 3.8.6", 
             "ipaddress" : "18.218.123.244", 
             "port"      : 6666,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "magic lands", 
+            "md5"       : "5fae2444c04e0f1fb3798b417205d92d", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.7.10", 
+            "ipaddress" : "58.105.46.246", 
+            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -932,12 +852,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "MgkMud", 
-            "md5"       : "d858892b4593a6fabecef3ac7373a341", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2.4", 
-            "ipaddress" : "45.77.166.124", 
-            "port"      : 5555,
+            "name"      : "Midden-aarde", 
+            "md5"       : "67355690f8811f1b2fed75cde4480130", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Dead Souls 3.6", 
+            "ipaddress" : "195.201.166.132", 
+            "port"      : 7000,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -946,9 +866,9 @@
             "md5"       : "151674efff61d9a09bf5e8fdd70b7232", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.10.2.4", 
-            "ipaddress" : "115.198.147.203", 
+            "ipaddress" : "183.157.240.169", 
             "port"      : 5555,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -965,7 +885,7 @@
             "name"      : "MoH", 
             "md5"       : "6b03a90d22c2bf7b00c8a7e0f7563ff7", 
             "type"      : "God Wars", 
-            "mudlib"    : "MoH 4.32 (build: 55)", 
+            "mudlib"    : "MoH 4.33 (build: 49)", 
             "ipaddress" : "178.79.173.99", 
             "port"      : 3500,
             "online"    : 1,
@@ -982,11 +902,11 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "MUDgaard", 
-            "md5"       : "e729ffaaca1d68184184c4750ed5c7df", 
+            "name"      : "muddy mud", 
+            "md5"       : "b306e0c8d38dc921cf23dcca490ba2d5", 
             "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.1", 
-            "ipaddress" : "142.166.94.12", 
+            "mudlib"    : "CoffeeMud v5.9.9", 
+            "ipaddress" : "58.105.46.246", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
@@ -998,35 +918,25 @@
             "mudlib"    : "Tmi-2 1.5.1", 
             "ipaddress" : "170.187.162.171", 
             "port"      : 9889,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
             "name"      : "Mundo Sangre", 
             "md5"       : "08451a1fd3d0e0dc196bc46230c3e675", 
             "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.9.12", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
             "ipaddress" : "104.237.157.165", 
             "port"      : 5555,
             "online"    : 1,
             "from_mssp" : 0
         },
         {
-            "name"      : "My First World", 
-            "md5"       : "8a78bb584d5ea6c5ffe6aa35985785b5", 
+            "name"      : "mymud", 
+            "md5"       : "ee717cf6c7728b5b0d21854a104d4218", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "67.249.66.112", 
-            "port"      : 5555,
-            "online"    : 1,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "My World", 
-            "md5"       : "77d11992fb965d26c2899808fe3ef958", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "67.249.66.112", 
+            "ipaddress" : "204.111.74.52", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
@@ -1042,13 +952,23 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "Mystic Shores MUD", 
+            "md5"       : "b345c62cf72877c54173a00d9252294b", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
+            "ipaddress" : "173.255.245.139", 
+            "port"      : 5555,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "Nanvaent", 
             "md5"       : "2378865ed5c632b3df4095159c0e5e64", 
             "type"      : "LP", 
             "mudlib"    : "Nanvaent V.4ish", 
             "ipaddress" : "207.162.200.121", 
             "port"      : 3000,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -1076,7 +996,7 @@
             "md5"       : "aff7e71450ef7933ca1871272a934151", 
             "type"      : "LPMud", 
             "mudlib"    : "Nightmare 3.3.1", 
-            "ipaddress" : "24.222.138.85", 
+            "ipaddress" : "159.250.22.166", 
             "port"      : 2701,
             "online"    : 0,
             "from_mssp" : 0
@@ -1092,32 +1012,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Oldwulf`s MUD", 
-            "md5"       : "a26da11a45ad10069f29d706e179feaf", 
+            "name"      : "Oblivion", 
+            "md5"       : "568e6e4874f003b9de573bdcb88734fe", 
             "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2.4", 
-            "ipaddress" : "24.51.146.252", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "74.109.222.19", 
             "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Oraia", 
-            "md5"       : "c51a864137bfd92ecf3741b6e79142f5", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "73.243.66.10", 
-            "port"      : 3838,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "OuterSpace", 
-            "md5"       : "372e7f7c23cc43efdfa7fff52321c106", 
-            "type"      : "lp", 
-            "mudlib"    : "CD.00.30.OS", 
-            "ipaddress" : "159.69.87.242", 
-            "port"      : 3333,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -1172,23 +1072,13 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Rattlevale", 
-            "md5"       : "7a557e2c75b0373610b01da45f336d7f", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "98.168.134.105", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Realm of Cernunnos", 
             "md5"       : "e400dc0785e695e715bc374a0217ab18", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.9.4", 
             "ipaddress" : "50.105.109.224", 
             "port"      : 5555,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1206,18 +1096,8 @@
             "md5"       : "0572b9d9f9cd09a5951c0895bb597d20", 
             "type"      : "LPMud", 
             "mudlib"    : "GurbaLib v0.50", 
-            "ipaddress" : "140.225.44.204", 
+            "ipaddress" : "204.8.181.135", 
             "port"      : 4000,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "RedSouls", 
-            "md5"       : "2ff825c4c80b85d82ed99bdf5f860ed7", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "109.181.86.37", 
-            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -1252,26 +1132,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "RoD", 
-            "md5"       : "88795fb6b9d269eeeeefc81821562ddc", 
-            "type"      : "LPMud", 
-            "mudlib"    : "RoD Lib", 
-            "ipaddress" : "173.13.240.73", 
-            "port"      : 3000,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "RoDDev", 
-            "md5"       : "967e58f1d5240d69334331997d5728ba", 
-            "type"      : "LPMud", 
-            "mudlib"    : "RoD Lib", 
-            "ipaddress" : "173.13.240.73", 
-            "port"      : 3000,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Rogue-Edition", 
             "md5"       : "c564417e82031c1c5d99e96ccd83c403", 
             "type"      : "God Wars", 
@@ -1282,16 +1142,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Schism: +ål+¦yron Undone", 
-            "md5"       : "6c6a5a34affd7de8fe4b1095146146e0", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.9.12", 
-            "ipaddress" : "47.204.198.131", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Secret of Life", 
             "md5"       : "7dc2dcb3c042129ab2a713e7d7695255", 
             "type"      : "CoffeeMud", 
@@ -1299,16 +1149,6 @@
             "ipaddress" : "45.56.88.19", 
             "port"      : 5555,
             "online"    : 1,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "severable no", 
-            "md5"       : "9c33045563d142f5185575ce1cf65e5b", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "72.167.40.222", 
-            "port"      : 6666,
-            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1348,16 +1188,6 @@
             "mudlib"    : "CoffeeMud v5.9.12", 
             "ipaddress" : "73.180.55.233", 
             "port"      : 5555,
-            "online"    : 1,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Shedford Hollow Mud", 
-            "md5"       : "66cc86137da399b259bbed20781d2199", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "109.76.222.7", 
-            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -1378,7 +1208,17 @@
             "mudlib"    : "IMC2 Freedom CL-2.2 SW:TSW 1.0.5 Alpha", 
             "ipaddress" : "97.107.132.7", 
             "port"      : 2070,
-            "online"    : 1,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "SlackMUD", 
+            "md5"       : "a4398f9708d4594bcc97de86d560edd5", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
+            "ipaddress" : "206.121.37.170", 
+            "port"      : 5555,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1412,22 +1252,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Testfish", 
-            "md5"       : "acf54cae61c3e92b0cfdcb0699131ae8", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Discworld 17.0a", 
-            "ipaddress" : "24.222.138.85", 
-            "port"      : 6677,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "testMud", 
-            "md5"       : "cf1ab7761d1100d64c3d2f4ae539009e", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "67.249.66.112", 
-            "port"      : 6666,
+            "name"      : "testmud", 
+            "md5"       : "8a43921ef351780f1bf6bd34b3fae8c7", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
+            "ipaddress" : "37.66.22.18", 
+            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -1442,13 +1272,33 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "The Brass Ring", 
+            "md5"       : "36395aba3a1c2256e4804cb0fac2be85", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Dead Souls 3.9", 
+            "ipaddress" : "71.244.209.132", 
+            "port"      : 2150,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "The End of Infinity", 
+            "md5"       : "fc62779af6b1e970b33607c61d49d6ea", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "173.245.202.192", 
+            "port"      : 5555,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "The Illusion of Living", 
             "md5"       : "dfbe3c833e3684e19ef94563cb470ddf", 
             "type"      : "LPMud", 
             "mudlib"    : "Nightmare 3.3.1", 
             "ipaddress" : "99.117.88.230", 
             "port"      : 7800,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1462,11 +1312,11 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "The Rift", 
-            "md5"       : "27944661a989308ea837db0a3b7bda40", 
+            "name"      : "The Multiverse", 
+            "md5"       : "ab3ca7ab2110aa91822a6d7eb389b688", 
             "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2.4", 
-            "ipaddress" : "68.115.32.52", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "73.37.24.100", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
@@ -1492,23 +1342,13 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "The Shit House", 
-            "md5"       : "48544c293f47ec52e42d53522b1a9c83", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "72.167.40.222", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "The Zone", 
             "md5"       : "04839e2f8e54c562f33121fc654fda05", 
             "type"      : "LPMud", 
             "mudlib"    : "WOTFlib 0.90", 
             "ipaddress" : "136.144.155.250", 
             "port"      : 8888,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1518,7 +1358,7 @@
             "mudlib"    : "WOTFlib 0.90", 
             "ipaddress" : "136.144.155.250", 
             "port"      : 8888,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1548,7 +1388,7 @@
             "mudlib"    : "LandLib 0.5", 
             "ipaddress" : "213.95.32.156", 
             "port"      : 6666,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1578,16 +1418,6 @@
             "mudlib"    : "CoffeeMud v5.10.2.4", 
             "ipaddress" : "212.224.107.120", 
             "port"      : 5555,
-            "online"    : 1,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Unnamed_CoffeeMUD#1018932664", 
-            "md5"       : "d83266b4d86a701a23472ce635c18839", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "24.129.11.249", 
-            "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -1602,21 +1432,11 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Unnamed_CoffeeMUD#1162031314", 
-            "md5"       : "1998052aba2317b0bab0992821af99c4", 
+            "name"      : "Unnamed_CoffeeMUD#1273153605", 
+            "md5"       : "bb900f3f35f4d82f77ef2bd9b943e7bc", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "161.97.236.142", 
-            "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Unnamed_CoffeeMUD#1256181752", 
-            "md5"       : "afb42aac19214d1fd79b3954dca41018", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "74.193.177.184", 
+            "ipaddress" : "99.241.107.184", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
@@ -1625,18 +1445,48 @@
             "name"      : "Unnamed_CoffeeMUD#1412930804", 
             "md5"       : "2be1f9d577a2eb9d13c33bc7f551a598", 
             "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "37.66.22.204", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
+            "ipaddress" : "37.66.22.18", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
         },
         {
-            "name"      : "Unnamed_CoffeeMUD#1658762965", 
-            "md5"       : "142656da4d0b4d28db90ec2d8dc4b515", 
+            "name"      : "Unnamed_CoffeeMUD#1553241264", 
+            "md5"       : "db442b0e26997fc263969f3d56633e13", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "109.76.222.7", 
+            "ipaddress" : "78.175.226.175", 
+            "port"      : 5555,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Unnamed_CoffeeMUD#1620892824", 
+            "md5"       : "456b5d6b5b802e58f1c63c40bf53642d", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "73.37.24.100", 
+            "port"      : 5555,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Unnamed_CoffeeMUD#2073270787", 
+            "md5"       : "4a81ab1dc01a45149c62234f9601c28b", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "99.243.200.109", 
+            "port"      : 5555,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Unnamed_CoffeeMUD#27377874", 
+            "md5"       : "4bcc09af52fbedfe5aef6a2f7c6c326b", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "188.220.227.202", 
             "port"      : 5555,
             "online"    : 0,
             "from_mssp" : 0
@@ -1652,22 +1502,12 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "Unnamed_CoffeeMUD#441615946", 
-            "md5"       : "f1d60a6408f065e108a806a03bb730ce", 
+            "name"      : "Unnamed_CoffeeMUD#795692225", 
+            "md5"       : "ac57f12e888b6d8d8a765006874e3647", 
             "type"      : "CoffeeMud", 
             "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "2.211.188.76", 
+            "ipaddress" : "74.109.222.19", 
             "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Valorian", 
-            "md5"       : "dba2b78dc7ac4a89d8869f99b85e89de", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.8.2", 
-            "ipaddress" : "67.235.175.191", 
-            "port"      : 6666,
             "online"    : 0,
             "from_mssp" : 0
         },
@@ -1682,33 +1522,33 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "Wasteland", 
+            "md5"       : "b990574b212111be3e5f84c8e08b15f1", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "47.42.119.38", 
+            "port"      : 5555,
+            "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "Way of the Force", 
             "md5"       : "097df3fadd5b6171e2c8a0f8fb93bbf6", 
             "type"      : "LPMud", 
             "mudlib"    : "WOTFlib 0.90", 
             "ipaddress" : "136.144.155.250", 
             "port"      : 23,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Westphalia", 
-            "md5"       : "f80c7d935ce6da84da0b1d3d30fbd933", 
-            "type"      : "CoffeeMud", 
-            "mudlib"    : "CoffeeMud v5.10.2", 
-            "ipaddress" : "98.168.134.105", 
-            "port"      : 5555,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
             "name"      : "WileyMUD", 
             "md5"       : "a70ac21aab61cb0138b28ed70a0cd877", 
             "type"      : "DikuMUD", 
-            "mudlib"    : "WileyMUD III 2.301g", 
+            "mudlib"    : "WileyMUD III 2.302g", 
             "ipaddress" : "104.156.100.167", 
             "port"      : 3000,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1732,16 +1572,6 @@
             "from_mssp" : 0
         },
         {
-            "name"      : "XL ENT MUD", 
-            "md5"       : "6ca939a90dd05c990dce3720365f2cdc", 
-            "type"      : "LPMud", 
-            "mudlib"    : "Dead Souls 3.9", 
-            "ipaddress" : "69.142.117.210", 
-            "port"      : 6666,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
             "name"      : "Your MUD Name", 
             "md5"       : "218bd4dab4297e27455d18412ba3be57", 
             "type"      : "CoffeeMud", 
@@ -1758,16 +1588,6 @@
             "mudlib"    : "CoffeeMud v5.10.2", 
             "ipaddress" : "204.111.74.52", 
             "port"      : 5555,
-            "online"    : 0,
-            "from_mssp" : 0
-        },
-        {
-            "name"      : "Yourmudname", 
-            "md5"       : "032e71d14b8d6909db9eb7f20e1eb223", 
-            "type"      : "DikuMUD", 
-            "mudlib"    : "Chronicles1.2a", 
-            "ipaddress" : "104.139.52.138", 
-            "port"      : 4100,
             "online"    : 0,
             "from_mssp" : 0
         }

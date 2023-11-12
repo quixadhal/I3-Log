@@ -1,1 +1,1 @@
-{"login":1,"name":"Battle Fantasia","ipaddress":"51.161.59.12","geoip":{"country_name":"Canada","city":"Montreal","country_code":"CA","ip":"51.161.59.12","region_name":"QC","latitude":45.5242,"longitude":-73.593}}
+{"ipaddress":"51.161.59.12","login":1,"geoip":{"city":"Montreal","region_name":"QC","longitude":-73.593,"latitude":45.5242,"country_name":"Canada","country_code":"CA","ip":"51.161.59.12"},"name":"Battle Fantasia"}

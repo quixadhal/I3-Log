@@ -1,5 +1,5 @@
 #COUNT
-Count   3268
+Count   3271
 End
 
 #SPEAKER
@@ -6085,6 +6085,11 @@ End
 #SPEAKER
 Name    griffen
 Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    grimm
+Color   %^RED%^%^BOLD%^
 End
 
 #SPEAKER
@@ -14110,6 +14115,16 @@ End
 #SPEAKER
 Name    terra
 Color   %^WHITE%^%^B_MAGENTA%^
+End
+
+#SPEAKER
+Name    terrace
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    terrace (wop in gv)
+Color   %^BLACK%^%^B_RED%^
 End
 
 #SPEAKER

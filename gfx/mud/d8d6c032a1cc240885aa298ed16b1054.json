@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","city":"Council Bluffs","country_code":"US","ip":"104.154.76.197","region_name":"IA","latitude":41.2591,"longitude":-95.8517},"login":1,"name":"The Eternal Fantasy","ipaddress":"104.154.76.197"}
+{"ipaddress":"104.154.76.197","login":1,"geoip":{"ip":"104.154.76.197","country_code":"US","country_name":"United States","latitude":41.2591,"longitude":-95.8517,"region_name":"IA","city":"Council Bluffs"},"name":"The Eternal Fantasy"}

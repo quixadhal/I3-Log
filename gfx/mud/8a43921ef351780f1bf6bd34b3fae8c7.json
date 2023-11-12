@@ -1,1 +1,1 @@
-{"login":0,"ipaddress":"37.66.22.18","name":"testmud","geoip":{"country_name":"France","country_code":"FR","ip":"37.66.22.18","city":"Mulhouse","latitude":47.7452,"region_name":"GES","longitude":7.3379}}
+{"login":0,"ipaddress":"37.66.22.18","name":"testmud","geoip":{"ip":"37.66.22.18","country_code":"FR","country_name":"France","latitude":47.7452,"city":"Mulhouse","region_name":"GES","longitude":7.3379}}

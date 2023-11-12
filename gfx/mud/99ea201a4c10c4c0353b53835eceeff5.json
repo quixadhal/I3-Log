@@ -1,1 +1,1 @@
-{"ipaddress":"84.84.117.220","login":1,"name":"Lowlands","geoip":{"longitude":4.4544,"latitude":52.0604,"region_name":"ZH","country_code":"NL","ip":"84.84.117.220","city":"Zoetermeer","country_name":"Netherlands"}}
+{"geoip":{"country_name":"Netherlands","country_code":"NL","ip":"84.84.117.220","longitude":4.4544,"region_name":"ZH","city":"Zoetermeer","latitude":52.0604},"name":"Lowlands","ipaddress":"84.84.117.220","login":1}

@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-0.1567,"latitude":51.5245,"region_name":"ENG","ip":"82.68.167.68","country_code":"GB","city":"Camden","country_name":"United Kingdom"},"ipaddress":"82.68.167.68","login":1,"name":"DW_Clone"}
+{"login":0,"ipaddress":"82.68.167.68","name":"DW_Clone","geoip":{"city":"Camden","region_name":"ENG","longitude":-0.1567,"latitude":51.5245,"country_name":"United Kingdom","country_code":"GB","ip":"82.68.167.68"}}

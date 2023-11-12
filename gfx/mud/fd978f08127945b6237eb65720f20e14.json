@@ -1,1 +1,1 @@
-{"geoip":{"ip":"172.104.183.175","country_code":"SG","city":"","country_name":"Singapore","longitude":103.8547,"latitude":1.2929,"region_name":""},"login":1,"name":"Blinding Nights MUD","ipaddress":"172.104.183.175"}
+{"name":"Blinding Nights MUD","geoip":{"country_name":"Singapore","country_code":"SG","ip":"172.104.183.175","region_name":"","longitude":103.8547,"city":"","latitude":1.2929},"login":1,"ipaddress":"172.104.183.175"}

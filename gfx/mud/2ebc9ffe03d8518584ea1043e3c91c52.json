@@ -1,1 +1,1 @@
-{"geoip":{"latitude":50.1049,"region_name":"HE","longitude":8.6295,"country_name":"Germany","ip":"130.61.249.129","country_code":"DE","city":"Frankfurt am Main"},"ipaddress":"130.61.249.129","login":0,"name":"AuroraMUD"}
+{"login":0,"ipaddress":"130.61.249.129","name":"AuroraMUD","geoip":{"country_name":"Germany","ip":"130.61.249.129","country_code":"DE","city":"Frankfurt am Main","longitude":8.6295,"region_name":"HE","latitude":50.1049}}

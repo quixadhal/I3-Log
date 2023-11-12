@@ -8,8 +8,8 @@ require_once 'navbar.php';
 $SERVER_CASE            = "$URL_HOME/gfx/server_case.png";
 $SERVER_GUTS            = "$URL_HOME/gfx/server_guts.jpg";
 
-$SPEEDTEST_FILE         = "$FILE_HOME/data/speedtest.json";
-$SPEEDTEST_WIFI_FILE    = "$FILE_HOME/data/speedtest_wifi.json";
+$SPEEDTEST_WINDOWS_FILE = "$FILE_HOME/data/speedtest_windows.json";
+$SPEEDTEST_LINUX_FILE   = "$FILE_HOME/data/speedtest_linux.json";
 $SPEEDTEST_AVG_FILE     = "$FILE_HOME/data/speedtest_avg.json";
 
 $SPEEDTEST_HEIGHT_BASE  = 200;
@@ -53,7 +53,7 @@ function db_connect() {
     return $db;
 }
 
-$speedtest_text = file_get_contents($SPEEDTEST_FILE);
+$speedtest_text = file_get_contents($SPEEDTEST_WINDOWS_FILE);
 $speedtest = json_decode($speedtest_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
 if(!array_key_exists('result', $speedtest)) {
     $speedtest["unix_timestamp"] = time();
@@ -94,7 +94,7 @@ if(!array_key_exists('result', $speedtest)) {
     $speedtest["interface"]["name"] = "i219v";  // Windows doesn't report this, so hardcoded.
 }
 
-$speedtest_wifi_text = file_get_contents($SPEEDTEST_WIFI_FILE);
+$speedtest_wifi_text = file_get_contents($SPEEDTEST_LINUX_FILE);
 $speedtest_wifi = json_decode($speedtest_wifi_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
 if(!array_key_exists('result', $speedtest_wifi)) {
     $speedtest_wifi["unix_timestamp"] = time();
