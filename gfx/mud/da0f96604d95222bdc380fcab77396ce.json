@@ -1,1 +1,1 @@
-{"ipaddress":"50.116.29.204","login":1,"geoip":{"longitude":-96.7028,"region_name":"TX","city":"Richardson","latitude":32.9473,"country_name":"United States","country_code":"US","ip":"50.116.29.204"},"name":"Personal Use"}
+{"geoip":{"country_code":"US","city":"Richardson","country_name":"United States","ip":"50.116.29.204","latitude":32.9473,"longitude":-96.7028,"region_name":"TX"},"login":1,"name":"Personal Use","ipaddress":"50.116.29.204"}

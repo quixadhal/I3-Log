@@ -1,1 +1,1 @@
-{"ipaddress":"172.104.128.66","login":1,"geoip":{"latitude":50.1188,"city":"Frankfurt am Main","longitude":8.6843,"region_name":"HE","ip":"172.104.128.66","country_code":"DE","country_name":"Germany"},"name":"NeonMOO"}
+{"ipaddress":"172.104.128.66","name":"NeonMOO","login":1,"geoip":{"country_code":"DE","city":"Frankfurt am Main","country_name":"Germany","region_name":"HE","ip":"172.104.128.66","latitude":50.1188,"longitude":8.6843}}

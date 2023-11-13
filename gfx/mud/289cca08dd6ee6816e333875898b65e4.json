@@ -1,1 +1,1 @@
-{"name":"MUME - Multi-Users in Middle-earth","geoip":{"country_code":"CH","ip":"193.134.218.98","country_name":"Switzerland","latitude":46.5246,"city":"Chavannes","region_name":"VD","longitude":6.5697},"login":1,"ipaddress":"193.134.218.98"}
+{"name":"MUME - Multi-Users in Middle-earth","login":1,"geoip":{"country_code":"CH","city":"Chavannes","ip":"193.134.218.98","latitude":46.5246,"longitude":6.5697,"region_name":"VD","country_name":"Switzerland"},"ipaddress":"193.134.218.98"}

@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"69.245.210.115","name":"KitsuMUCK","geoip":{"city":"Elgin","longitude":-88.262,"region_name":"IL","latitude":42.0382,"country_name":"United States","country_code":"US","ip":"69.245.210.115"}}
+{"geoip":{"region_name":"IL","longitude":-88.262,"latitude":42.0382,"ip":"69.245.210.115","country_name":"United States","city":"Elgin","country_code":"US"},"login":1,"name":"KitsuMUCK","ipaddress":"69.245.210.115"}

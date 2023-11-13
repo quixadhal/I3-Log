@@ -1,18 +1,18 @@
-Start: 2023-11-12T04:07:01-0800
+Start: 2023-11-12T22:07:01-0800
 HOST: wileymud3                                                     Loss%   Snt   Last   Avg  Best  Wrst StDev
-  1.|-- _gateway                                                       0.0%    10    0.2   0.3   0.2   0.5   0.1
-  2.|-- br1-venn-v100.bb.as54858.net                                   0.0%    10    1.2   3.7   1.1  23.8   7.1
+  1.|-- _gateway                                                       0.0%    10    0.3   0.3   0.2   0.4   0.0
+  2.|-- br1-venn-v100.bb.as54858.net                                   0.0%    10    1.0   1.9   1.0   6.9   1.8
   3.|-- 172.16.101.125                                                 0.0%    10    1.9   2.0   1.9   2.2   0.1
-  4.|-- agg2-sea-b-t9-4.bb.spectrumnet.us                              0.0%    10    1.7   1.7   1.6   1.9   0.1
-  5.|-- be12.cr3-sea-b.bb.as11404.net                                  0.0%    10    1.8   1.8   1.7   1.9   0.0
-  6.|-- be17.cr3-stack.bb.as11404.net                                  0.0%    10    5.8   5.7   5.5   6.0   0.1
-  7.|-- be15.cr4-pdx.bb.as11404.net                                    0.0%    10    6.3   6.2   6.0   6.3   0.1
-  8.|-- be1.cr3-pdx.bb.as11404.net                                     0.0%    10    6.0   6.1   6.0   6.3   0.1
-  9.|-- be15.cr4-11greatoaks.bb.as11404.net                            0.0%    10   21.2  21.3  21.1  21.5   0.1
- 10.|-- cr1-9greatoaks-be4.bb.as11404.net                              0.0%    10   21.5  21.5  21.2  21.7   0.2
- 11.|-- 38195-sv1-ix.equinix.com                                       0.0%    10   21.7  21.7  21.4  22.7   0.4
- 12.|-- bundle-ether34-116.bdr02-ipt-639garde-syd.au.superloop.net.co  0.0%    10  170.1 170.0 170.0 170.1   0.0
- 13.|-- 103.200.13.64                                                  0.0%    10  170.2 170.3 170.0 172.5   0.8
- 14.|-- bundle-ether33.bdr01-ipt-4edenpar-syd.au.superloop.net.co      0.0%    10  170.1 170.3 170.0 171.7   0.5
- 15.|-- ns1rtrv-apx-ipt.binarylane.cloud                               0.0%    10  169.6 169.7 169.6 169.9   0.1
- 16.|-- kelly.themud.org                                               0.0%    10  169.9 169.8 169.7 170.1   0.1
+  4.|-- agg2-sea-b-t9-4.bb.spectrumnet.us                              0.0%    10    1.6   1.7   1.6   1.9   0.1
+  5.|-- be12.cr3-sea-b.bb.as11404.net                                  0.0%    10    1.7   1.8   1.7   2.0   0.1
+  6.|-- be17.cr3-stack.bb.as11404.net                                  0.0%    10    5.6   5.6   5.5   5.7   0.1
+  7.|-- be15.cr4-pdx.bb.as11404.net                                    0.0%    10    6.2   6.1   6.0   6.2   0.1
+  8.|-- be1.cr3-pdx.bb.as11404.net                                     0.0%    10    6.2   6.2   6.1   6.3   0.0
+  9.|-- be15.cr4-11greatoaks.bb.as11404.net                            0.0%    10   21.2  21.3  21.1  21.4   0.1
+ 10.|-- cr1-9greatoaks-be4.bb.as11404.net                              0.0%    10   21.4  21.5  21.2  21.8   0.2
+ 11.|-- 38195-sv1-ix.equinix.com                                       0.0%    10   21.7  21.6  21.4  22.0   0.2
+ 12.|-- bundle-ether34-116.bdr02-ipt-639garde-syd.au.superloop.net.co  0.0%    10  170.0 170.1 170.0 170.7   0.2
+ 13.|-- 103.200.13.64                                                  0.0%    10  170.0 170.0 170.0 170.1   0.0
+ 14.|-- bundle-ether33.bdr01-ipt-4edenpar-syd.au.superloop.net.co     10.0%    10  169.9 170.0 169.9 170.2   0.1
+ 15.|-- ns1rtrv-apx-ipt.binarylane.cloud                               0.0%    10  169.6 169.7 169.5 169.9   0.1
+ 16.|-- kelly.themud.org                                               0.0%    10  170.0 169.8 169.7 170.0   0.1

@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"54.200.79.95","name":"Materia Magica","geoip":{"country_code":"US","ip":"54.200.79.95","country_name":"United States","latitude":45.8234,"region_name":"OR","longitude":-119.7257,"city":"Boardman"}}
+{"geoip":{"country_name":"United States","ip":"54.200.79.95","longitude":-119.7257,"latitude":45.8234,"region_name":"OR","country_code":"US","city":"Boardman"},"name":"Materia Magica","login":1,"ipaddress":"54.200.79.95"}

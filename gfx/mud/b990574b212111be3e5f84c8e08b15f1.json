@@ -1,1 +1,1 @@
-{"login":0,"ipaddress":"47.42.119.38","name":"Wasteland","geoip":{"country_name":"United States","country_code":"US","ip":"47.42.119.38","region_name":"TX","longitude":-97.3351,"city":"Fort Worth","latitude":32.7052}}
+{"ipaddress":"47.42.119.38","geoip":{"city":"Fort Worth","country_code":"US","region_name":"TX","latitude":32.7052,"longitude":-97.3351,"ip":"47.42.119.38","country_name":"United States"},"name":"Wasteland","login":0}

@@ -3,15 +3,15 @@
         "build" : "2.302g",
         "date" : "2023-10-27"
     },
-    "time" : "04:06 PST",
+    "time" : "22:32 PST",
     "boot" : "2023-10-28 16:56:25.000 PDT",
-    "uptime" : "14 days, 12:10:26",
+    "uptime" : "15 days,  6:36:03",
     "player_list" : [
         {
             "name" : "Quixadhal",
             "title" : "the God of Bugs",
             "pretitle" : "Dread",
-            "idle" : "105909",
+            "idle" : "21195",
             "level" : "60",
             "rank" : "God"
         }
@@ -462,6 +462,16 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "Dead_Souls_weavor", 
+            "md5"       : "a9485905ee2c83ef5d574fa25f34656e", 
+            "type"      : "LPMud", 
+            "mudlib"    : "Dead Souls 3.9", 
+            "ipaddress" : "35.151.36.7", 
+            "port"      : 6666,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "DeadSouls-FluffOS2019", 
             "md5"       : "c1a3cbd8d43d9abb3dd5e1646d781078", 
             "type"      : "n/a", 
@@ -478,7 +488,7 @@
             "mudlib"    : "Discworld 18.0a", 
             "ipaddress" : "82.68.167.69", 
             "port"      : 23,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -508,7 +518,7 @@
             "mudlib"    : "DV-Nightmare RELENG_1_4", 
             "ipaddress" : "70.91.196.214", 
             "port"      : 9600,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -608,7 +618,7 @@
             "mudlib"    : "FRlib V", 
             "ipaddress" : "178.164.15.6", 
             "port"      : 4001,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -659,6 +669,16 @@
             "ipaddress" : "204.209.44.3", 
             "port"      : 8000,
             "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "FurryMUD", 
+            "md5"       : "2636299794efa00ecbc3d723da8358f6", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2.4", 
+            "ipaddress" : "115.189.82.120", 
+            "port"      : 5555,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -918,7 +938,7 @@
             "mudlib"    : "Tmi-2 1.5.1", 
             "ipaddress" : "170.187.162.171", 
             "port"      : 9889,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -1022,6 +1042,16 @@
             "from_mssp" : 0
         },
         {
+            "name"      : "OuterSpace", 
+            "md5"       : "372e7f7c23cc43efdfa7fff52321c106", 
+            "type"      : "lp", 
+            "mudlib"    : "CD.00.30.OS", 
+            "ipaddress" : "159.69.87.242", 
+            "port"      : 3333,
+            "online"    : 1,
+            "from_mssp" : 0
+        },
+        {
             "name"      : "Personal Use", 
             "md5"       : "da0f96604d95222bdc380fcab77396ce", 
             "type"      : "CoffeeMud", 
@@ -1098,7 +1128,7 @@
             "mudlib"    : "GurbaLib v0.50", 
             "ipaddress" : "204.8.181.135", 
             "port"      : 4000,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -1248,7 +1278,7 @@
             "mudlib"    : "GurbaLib v0.50", 
             "ipaddress" : "176.9.151.147", 
             "port"      : 3435,
-            "online"    : 0,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {
@@ -1288,7 +1318,7 @@
             "mudlib"    : "CoffeeMud v5.10.2", 
             "ipaddress" : "173.245.202.192", 
             "port"      : 5555,
-            "online"    : 1,
+            "online"    : 0,
             "from_mssp" : 0
         },
         {
@@ -1499,6 +1529,16 @@
             "ipaddress" : "74.109.234.32", 
             "port"      : 5555,
             "online"    : 0,
+            "from_mssp" : 0
+        },
+        {
+            "name"      : "Unnamed_CoffeeMUD#749184367", 
+            "md5"       : "f5e5c80c7377834857240806e69d4c80", 
+            "type"      : "CoffeeMud", 
+            "mudlib"    : "CoffeeMud v5.10.2", 
+            "ipaddress" : "24.183.160.253", 
+            "port"      : 5555,
+            "online"    : 1,
             "from_mssp" : 0
         },
         {

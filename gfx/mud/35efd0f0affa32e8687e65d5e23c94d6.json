@@ -1,1 +1,1 @@
-{"ipaddress":"76.182.23.242","login":0,"geoip":{"ip":"76.182.23.242","country_code":"US","country_name":"United States","latitude":35.5831,"region_name":"NC","longitude":-78.7881,"city":"Fuquay-Varina"},"name":"WWC"}
+{"name":"WWC","login":0,"geoip":{"country_code":"US","city":"Fuquay-Varina","country_name":"United States","region_name":"NC","ip":"76.182.23.242","latitude":35.5831,"longitude":-78.7881},"ipaddress":"76.182.23.242"}

@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"BY","longitude":11.5641,"city":"Munich","latitude":48.1332,"country_name":"Germany","country_code":"DE","ip":"85.10.205.77"},"name":"Avalon","ipaddress":"85.10.205.77","login":1}
+{"ipaddress":"85.10.205.77","geoip":{"region_name":"BY","ip":"85.10.205.77","latitude":48.1332,"longitude":11.5641,"country_name":"Germany","country_code":"DE","city":"Munich"},"login":1,"name":"Avalon"}

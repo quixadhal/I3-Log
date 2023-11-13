@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"3.21.145.51","name":"Rise of Praxis","geoip":{"latitude":39.9587,"region_name":"OH","longitude":-82.9987,"city":"Columbus","ip":"3.21.145.51","country_code":"US","country_name":"United States"}}
+{"geoip":{"city":"Columbus","country_code":"US","country_name":"United States","longitude":-82.9987,"latitude":39.9587,"ip":"3.21.145.51","region_name":"OH"},"login":1,"name":"Rise of Praxis","ipaddress":"3.21.145.51"}

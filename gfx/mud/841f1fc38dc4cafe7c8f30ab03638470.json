@@ -1,1 +1,1 @@
-{"ipaddress":"212.83.56.217","login":1,"geoip":{"country_name":"Germany","country_code":"DE","ip":"212.83.56.217","city":"Aalen","longitude":10.0691,"region_name":"BW","latitude":48.8187},"name":"Nightfall"}
+{"ipaddress":"212.83.56.217","login":1,"name":"Nightfall","geoip":{"longitude":10.0691,"latitude":48.8187,"ip":"212.83.56.217","region_name":"BW","country_name":"Germany","city":"Aalen","country_code":"DE"}}

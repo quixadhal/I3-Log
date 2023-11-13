@@ -1,1 +1,1 @@
-{"ipaddress":"204.8.181.135","login":0,"geoip":{"ip":"204.8.181.135","country_code":"US","country_name":"United States","latitude":42.1862,"longitude":-93.5885,"region_name":"IA","city":"Story City"},"name":"Rebirth"}
+{"geoip":{"country_name":"United States","longitude":-93.5885,"latitude":42.1862,"ip":"204.8.181.135","region_name":"IA","city":"Story City","country_code":"US"},"login":0,"name":"Rebirth","ipaddress":"204.8.181.135"}

@@ -1,32 +1,32 @@
 {
     "type": "result",
-    "timestamp": "2023-11-12T12:03:18Z",
+    "timestamp": "2023-11-13T00:10:22Z",
     "ping": {
-        "jitter": 0.025,
-        "latency": 2.058,
-        "low": 2.022,
-        "high": 2.097
+        "jitter": 0.076,
+        "latency": 1.993,
+        "low": 1.922,
+        "high": 2.050
     },
     "download": {
-        "bandwidth": 113484466,
-        "bytes": 691039176,
-        "elapsed": 6107,
+        "bandwidth": 107534694,
+        "bytes": 869764744,
+        "elapsed": 8113,
         "latency": {
-            "iqm": 3.011,
-            "low": 2.320,
-            "high": 5.235,
-            "jitter": 0.430
+            "iqm": 3.736,
+            "low": 2.472,
+            "high": 10.401,
+            "jitter": 0.839
         }
     },
     "upload": {
-        "bandwidth": 115921260,
-        "bytes": 463626919,
-        "elapsed": 4005,
+        "bandwidth": 113546685,
+        "bytes": 821851222,
+        "elapsed": 7302,
         "latency": {
-            "iqm": 9.026,
-            "low": 3.160,
-            "high": 252.333,
-            "jitter": 17.853
+            "iqm": 5.315,
+            "low": 2.289,
+            "high": 226.142,
+            "jitter": 18.089
         }
     },
     "isp": "Condointernet.net",
@@ -47,8 +47,8 @@
         "ip": "69.241.104.42"
     },
     "result": {
-        "id": "d4ff9158-7cdf-43db-bd4e-0d3ffd12568f",
-        "url": "https://www.speedtest.net/result/c/d4ff9158-7cdf-43db-bd4e-0d3ffd12568f",
+        "id": "beeed2af-e0dc-458a-8870-a271240681f5",
+        "url": "https://www.speedtest.net/result/c/beeed2af-e0dc-458a-8870-a271240681f5",
         "persisted": true
     }
 }

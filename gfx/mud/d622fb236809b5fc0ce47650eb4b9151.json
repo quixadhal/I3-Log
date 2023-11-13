@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","ip":"173.255.242.144","country_name":"United States","latitude":37.5625,"city":"Fremont","longitude":-122.0004,"region_name":"CA"},"name":"Covenant of Lords","ipaddress":"173.255.242.144","login":1}
+{"login":1,"name":"Covenant of Lords","geoip":{"ip":"173.255.242.144","latitude":37.5625,"longitude":-122.0004,"region_name":"CA","country_name":"United States","country_code":"US","city":"Fremont"},"ipaddress":"173.255.242.144"}

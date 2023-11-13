@@ -1,1 +1,1 @@
-{"ipaddress":"65.19.167.66","login":1,"geoip":{"country_code":"US","ip":"65.19.167.66","country_name":"United States","latitude":37.751,"city":"","longitude":-97.822,"region_name":""},"name":"The Library"}
+{"ipaddress":"65.19.167.66","geoip":{"region_name":"","longitude":-97.822,"latitude":37.751,"ip":"65.19.167.66","country_name":"United States","city":"","country_code":"US"},"name":"The Library","login":1}

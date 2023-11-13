@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"155.254.17.153","name":"Desolation","geoip":{"city":"Bend","region_name":"OR","longitude":-121.2984,"latitude":44.0185,"country_name":"United States","country_code":"US","ip":"155.254.17.153"}}
+{"login":1,"name":"Desolation","geoip":{"country_name":"United States","latitude":44.0185,"longitude":-121.2984,"ip":"155.254.17.153","region_name":"OR","city":"Bend","country_code":"US"},"ipaddress":"155.254.17.153"}
