@@ -38,6 +38,10 @@ $toggle_background = false;
 if(array_key_exists('togglebg', $_GET)) {
     $toggle_background = true;
 }
+$toggle_nsfw = false;
+if(array_key_exists('nsfw', $_GET)) {
+    $toggle_nsfw = true;
+}
 
 ?>
 <html lang="en">
@@ -87,6 +91,18 @@ if(array_key_exists('togglebg', $_GET)) {
                     Cookies.remove("nobackground");
                 } else {
                     Cookies.set("nobackground", true);
+                }
+                // force reload to pick this up.
+                window.location.href = '<?php echo "$LOG_URL"; ?>';
+            }
+        </script>
+        <script language="javascript">
+            var ToggleNSFW = <?php echo $toggle_nsfw ? "true" : "false"; ?>;
+            if(ToggleNSFW) {
+                if(Cookies.get('nsfw')) {
+                    Cookies.remove("nsfw");
+                } else {
+                    Cookies.set("nsfw", true);
                 }
                 // force reload to pick this up.
                 window.location.href = '<?php echo "$LOG_URL"; ?>';

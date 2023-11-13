@@ -30,7 +30,11 @@ function toggleBackground() {
         // Turn it on now.
         Cookies.remove("nobackground");
         NoBackground = false;
-        $("#navbar-button-background").attr("src", BG_ON);
+        if(NSFW) {
+            $("#navbar-button-background").attr("src", BG_CUTE);
+        } else {
+            $("#navbar-button-background").attr("src", BG_ON);
+        }
         $("#navbar-button-background").attr("title", "Make boring.");
     } else {
         Cookies.set("nobackground", true);
@@ -48,7 +52,11 @@ function syncBackgroundToggleIcon() {
         $("#navbar-button-background").attr("src", BG_OFF);
         $("#navbar-button-background").attr("title", "Make kawaii!");
     } else {
-        $("#navbar-button-background").attr("src", BG_ON);
+        if(NSFW) {
+            $("#navbar-button-background").attr("src", BG_CUTE);
+        } else {
+            $("#navbar-button-background").attr("src", BG_ON);
+        }
         $("#navbar-button-background").attr("title", "Make boring.");
     }
 }
