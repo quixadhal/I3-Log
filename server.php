@@ -719,7 +719,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
         </div>
 
 <?php
-        $hacklog = htmlentities(file_get_contents("/home/wiley/HACKLOG"));
+        $hacklog = htmlentities(file_get_contents("/home/www/log/data/HACKLOG.rev"));
         $hacklog = preg_replace(
             '/^([0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9])$/m',
             '<a name="hacklog_$1">$1</a>',
