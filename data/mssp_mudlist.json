@@ -82,16 +82,6 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "66.228.38.196",
-         "md5" : "989b15078a8a6cf6cb7a1c3ed0a2cb94",
-         "mudlib" : "AnsalonMUD - 1.5b4 (Originally Rom 2.3 A",
-         "name" : "Ansalon MUD",
-         "online" : 0,
-         "port" : 8679,
-         "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "178.79.173.99",
          "md5" : "bf96c137a4c8038f009d4fbb6605e9ae",
          "mudlib" : "GodWars: Deluxe",
@@ -144,7 +134,7 @@
          "from_mssp" : 1,
          "ipaddress" : "128.130.95.62",
          "md5" : "0678010beaf1a94121980ca51367aa95",
-         "mudlib" : "LDMud 3.6.6-7-g4b0317fd",
+         "mudlib" : "LDMud 3.6.7-2-gb5e8cac1",
          "name" : "Beutelland",
          "online" : 0,
          "port" : 5678,
@@ -284,7 +274,7 @@
          "from_mssp" : 1,
          "ipaddress" : "217.155.36.23",
          "md5" : "c13bf593842773affe0ed7e58a5432f2",
-         "mudlib" : "EoM 4.18.6",
+         "mudlib" : "EoM 4.18.7",
          "name" : "134 MUDs",
          "online" : 0,
          "port" : 8010,
@@ -774,7 +764,7 @@
          "from_mssp" : 1,
          "ipaddress" : "52.206.44.215",
          "md5" : "897161c068daf8e8216625c697147880",
-         "mudlib" : "PennMUSH 1.8.7p0",
+         "mudlib" : "PennMUSH 1.8.8p0",
          "name" : "Parlor City",
          "online" : 0,
          "port" : 4201,
@@ -932,6 +922,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "209.139.208.64",
+         "md5" : "44efe937411734f8ea2fb2c3964ff338",
+         "mudlib" : "DikuMUD gamma 0.0",
+         "name" : "SlothMUD",
+         "online" : 0,
+         "port" : 6101,
+         "type" : "DikuMud â\nâ"
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "84.247.3.93",
          "md5" : "dd64ed7a601df2815794d1f4ca907a12",
          "mudlib" : "PennMUSH 1.8.7p0",
@@ -1028,6 +1028,16 @@
          "name" : "Warlock",
          "online" : 0,
          "port" : 23,
+         "type" : "LPMud"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "170.187.162.171",
+         "md5" : "594714aba872c530d96a1790bd271e93",
+         "mudlib" : "TMI-2 1.5.1",
+         "name" : "EyeMUD",
+         "online" : 0,
+         "port" : "2222",
          "type" : "LPMud"
       },
       {

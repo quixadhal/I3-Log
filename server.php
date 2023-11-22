@@ -740,5 +740,9 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
         <script language="javascript">
             timeSpent = "<?php printf("Page Loaded in %7.3f seconds.",  $time_spent); ?>";
         </script>
+        <div class="gfm-embed sticky-corner"
+             data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
+        </div>
+        <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
     </body>
 </html>

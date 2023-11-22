@@ -93,3 +93,17 @@ a:active, a:focus {
 .spinning {
     animation: spinning 240s infinite linear;
 }
+.sticky-corner {
+    position: fixed;
+    background-color: black;
+    overflow: hidden;
+    bottom: -185;
+    right: 0;
+    z-index: 999;
+    height: 540;
+    min-height: 540;
+    max-height: 540;
+    width: 200;
+    max-width: 200;
+    flex: 1;
+}

@@ -1,5 +1,5 @@
 #COUNT
-Count   3271
+Count   3272
 End
 
 #SPEAKER
@@ -15730,6 +15730,11 @@ End
 #SPEAKER
 Name    world as myth
 Color   %^BLUE%^
+End
+
+#SPEAKER
+Name    worthless
+Color   %^BLACK%^%^B_MAGENTA%^
 End
 
 #SPEAKER
