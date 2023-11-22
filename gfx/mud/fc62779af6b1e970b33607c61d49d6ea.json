@@ -1,1 +1,1 @@
-{"geoip":{"city":"Chicago","country_code":"US","country_name":"United States","latitude":41.8486,"longitude":-87.6288,"ip":"173.245.202.192","region_name":"IL"},"name":"The End of Infinity","login":0,"ipaddress":"173.245.202.192"}
+{"login":0,"geoip":{"latitude":41.8486,"city":"Chicago","ip":"173.245.202.192","region_name":"IL","country_code":"US","country_name":"United States","longitude":-87.6288},"name":"The End of Infinity","ipaddress":"173.245.202.192"}

@@ -1,1 +1,1 @@
-{"ipaddress":"99.241.107.184","login":0,"name":"Cassmir Underground","geoip":{"country_code":"CA","city":"Toronto","country_name":"Canada","ip":"99.241.107.184","longitude":-79.4462,"latitude":43.7114,"region_name":"ON"}}
+{"ipaddress":"99.241.107.184","geoip":{"city":"Toronto","country_name":"Canada","latitude":43.7114,"longitude":-79.4462,"region_name":"ON","country_code":"CA","ip":"99.241.107.184"},"name":"Cassmir Underground","login":0}

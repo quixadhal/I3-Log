@@ -1,1 +1,1 @@
-{"ipaddress":"159.250.22.166","name":"Data Haven","login":0,"geoip":{"country_name":"United States","region_name":"NH","ip":"159.250.22.166","longitude":-71.5053,"latitude":43.6314,"country_code":"US","city":"Meredith"}}
+{"geoip":{"region_name":"NH","country_code":"US","longitude":-71.5053,"country_name":"United States","city":"Meredith","ip":"159.250.22.166","latitude":43.6314},"login":0,"name":"Data Haven","ipaddress":"159.250.22.166"}

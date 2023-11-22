@@ -1,1 +1,1 @@
-{"geoip":{"longitude":145.054,"country_code":"AU","zip_code":"3189","metro_code":0,"region_name":"Victoria","ip":"45.64.56.66","region_code":"VIC","time_zone":"Australia/Melbourne","country_name":"Australia","city":"Moorabbin","latitude":-37.9407},"ipaddress":"45.64.56.66","name":"I3-TheMud-ORG-PGSQL"}
+{"name":"I3-TheMud-ORG-PGSQL","login":0,"ipaddress":"112.213.38.109","geoip":{"latitude":-33.808,"longitude":151.1415,"city":"Sydney","country_name":"Australia","country_code":"AU","region_name":"NSW","ip":"112.213.38.109"}}

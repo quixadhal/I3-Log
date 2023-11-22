@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","city":"Catonsville","country_name":"United States","region_name":"MD","ip":"71.244.209.132","latitude":39.2812,"longitude":-76.7406},"name":"The Brass Ring","login":0,"ipaddress":"71.244.209.132"}
+{"ipaddress":"71.244.209.132","name":"The Brass Ring","geoip":{"city":"Catonsville","ip":"71.244.209.132","latitude":39.2812,"region_name":"MD","longitude":-76.7406,"country_name":"United States","country_code":"US"},"login":0}

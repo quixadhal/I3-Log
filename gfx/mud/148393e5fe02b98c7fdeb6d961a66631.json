@@ -1,1 +1,1 @@
-{"ipaddress":"216.226.128.180","geoip":{"region_name":"OH","latitude":39.9587,"longitude":-82.9987,"ip":"216.226.128.180","country_name":"United States","city":"Columbus","country_code":"US"},"name":"NoirHaven","login":1}
+{"name":"NoirHaven","login":1,"geoip":{"region_name":"OH","country_code":"US","ip":"216.226.128.180","country_name":"United States","city":"Columbus","longitude":-82.9987,"latitude":39.9587},"ipaddress":"216.226.128.180"}

@@ -1,1 +1,1 @@
-{"ipaddress":"195.123.245.173","geoip":{"country_name":"Czech Republic","longitude":14.4124,"latitude":50.0883,"ip":"195.123.245.173","region_name":"10","city":"Prague","country_code":"CZ"},"login":1,"name":"POTVORA"}
+{"ipaddress":"195.123.245.173","geoip":{"region_name":"10","country_code":"CZ","ip":"195.123.245.173","country_name":"Czech Republic","city":"Prague","latitude":50.0883,"longitude":14.4124},"name":"POTVORA","login":1}

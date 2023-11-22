@@ -1,1 +1,1 @@
-{"ipaddress":"85.2.100.174","geoip":{"region_name":"BE","longitude":7.3699,"latitude":47.283,"ip":"85.2.100.174","country_name":"Switzerland","city":"Moutier","country_code":"CH"},"login":0,"name":"Adaka"}
+{"login":0,"name":"Adaka","geoip":{"city":"Basel","country_name":"Switzerland","latitude":47.5403,"longitude":7.6084,"ip":"85.3.64.137","country_code":"CH","region_name":"BS"},"ipaddress":"85.3.64.137"}

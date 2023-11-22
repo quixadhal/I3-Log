@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","region_name":"","ip":"206.121.37.170","longitude":-97.822,"latitude":37.751,"country_code":"US","city":""},"login":0,"name":"SlackMUD","ipaddress":"206.121.37.170"}
+{"ipaddress":"206.121.37.170","geoip":{"region_name":"","ip":"206.121.37.170","latitude":37.751,"longitude":-97.822,"city":"","country_code":"US","country_name":"United States"},"login":0,"name":"SlackMUD"}

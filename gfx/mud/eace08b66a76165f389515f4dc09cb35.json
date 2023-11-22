@@ -1,1 +1,1 @@
-{"ipaddress":"164.92.210.128","name":"Dark Ruins II","login":1,"geoip":{"longitude":4.9392,"latitude":52.352,"ip":"164.92.210.128","region_name":"NH","country_name":"Netherlands","city":"Amsterdam","country_code":"NL"}}
+{"name":"Dark Ruins II","login":1,"geoip":{"region_name":"NH","country_code":"NL","ip":"164.92.210.128","city":"Amsterdam","country_name":"Netherlands","latitude":52.352,"longitude":4.9392},"ipaddress":"164.92.210.128"}

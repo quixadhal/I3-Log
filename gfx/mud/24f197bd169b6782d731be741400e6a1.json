@@ -1,1 +1,1 @@
-{"ipaddress":"13.59.47.153","name":"Star Wars:Rebirth","login":1,"geoip":{"latitude":39.9587,"longitude":-82.9987,"ip":"13.59.47.153","region_name":"OH","country_name":"United States","city":"Columbus","country_code":"US"}}
+{"ipaddress":"13.59.47.153","geoip":{"ip":"13.59.47.153","country_code":"US","region_name":"OH","longitude":-82.9987,"latitude":39.9587,"city":"Columbus","country_name":"United States"},"login":1,"name":"Star Wars:Rebirth"}

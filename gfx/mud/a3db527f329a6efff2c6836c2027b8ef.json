@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","region_name":"CA","ip":"45.79.224.33","latitude":37.5625,"longitude":-122.0004,"country_code":"US","city":"Fremont"},"login":1,"name":"Resident Evil Reborn","ipaddress":"45.79.224.33"}
+{"name":"Resident Evil Reborn","login":1,"geoip":{"ip":"45.79.224.33","country_code":"US","region_name":"CA","city":"Fremont","country_name":"United States","longitude":-122.0004,"latitude":37.5625},"ipaddress":"45.79.224.33"}

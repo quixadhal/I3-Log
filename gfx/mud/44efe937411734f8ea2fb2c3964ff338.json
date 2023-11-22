@@ -1,1 +1,1 @@
-{"ipaddress":"209.139.208.64","login":0,"name":"SlothMUD","geoip":{"region_name":"BC","city":"Squamish","country_name":"Canada","ip":"209.139.208.64","country_code":"CA","latitude":49.6979,"longitude":-123.1552}}
+{"geoip":{"latitude":49.6979,"longitude":-123.1552,"country_name":"Canada","city":"Squamish","ip":"209.139.208.64","region_name":"BC","country_code":"CA"},"ipaddress":"209.139.208.64","login":0,"name":"SlothMUD"}

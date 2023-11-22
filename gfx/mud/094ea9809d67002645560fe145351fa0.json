@@ -1,1 +1,1 @@
-{"login":1,"name":"SithWars","geoip":{"longitude":-74.4592,"latitude":40.8229,"ip":"97.107.132.7","region_name":"NJ","country_name":"United States","city":"Cedar Knolls","country_code":"US"},"ipaddress":"97.107.132.7"}
+{"ipaddress":"97.107.132.7","geoip":{"country_name":"United States","city":"Cedar Knolls","longitude":-74.4592,"latitude":40.8229,"region_name":"NJ","country_code":"US","ip":"97.107.132.7"},"login":1,"name":"SithWars"}

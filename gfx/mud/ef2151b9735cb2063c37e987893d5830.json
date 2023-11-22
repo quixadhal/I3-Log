@@ -1,1 +1,1 @@
-{"name":"Accursed-Lands","login":1,"geoip":{"country_name":"Canada","region_name":"QC","latitude":45.4783,"longitude":-75.7041,"ip":"174.89.240.217","city":"Gatineau","country_code":"CA"},"ipaddress":"174.89.240.217"}
+{"login":1,"name":"Accursed-Lands","geoip":{"ip":"174.89.240.217","country_code":"CA","region_name":"QC","country_name":"Canada","city":"Gatineau","longitude":-75.7041,"latitude":45.4783},"ipaddress":"174.89.240.217"}

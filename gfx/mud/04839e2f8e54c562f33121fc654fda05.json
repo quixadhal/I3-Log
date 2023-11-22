@@ -1,1 +1,1 @@
-{"ipaddress":"136.144.155.250","login":1,"name":"The Zone","geoip":{"ip":"136.144.155.250","latitude":51.7447,"longitude":5.6815,"region_name":"NB","country_name":"Netherlands","country_code":"NL","city":"Reek"}}
+{"login":1,"name":"The Zone","ipaddress":"136.144.155.250","geoip":{"country_code":"NL","region_name":"NB","ip":"136.144.155.250","city":"Reek","country_name":"Netherlands","longitude":5.6815,"latitude":51.7447}}
