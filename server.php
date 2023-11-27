@@ -53,12 +53,12 @@ function db_connect() {
     return $db;
 }
 
-$speedtest_text = file_get_contents($SPEEDTEST_WINDOWS_FILE);
-$speedtest = json_decode($speedtest_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
-if(!array_key_exists('result', $speedtest)) {
-    $speedtest["unix_timestamp"] = time();
-    $speedtest["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", time());
-    $speedtest["speedtest_current"] = $NOT_AVAILABLE_ICON;
+$speedtest_window_text = file_get_contents($SPEEDTEST_WINDOWS_FILE);
+$speedtest_windows = json_decode($speedtest_window_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
+if(!array_key_exists('result', $speedtest_windows)) {
+    $speedtest_windows["unix_timestamp"] = time();
+    $speedtest_windows["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", time());
+    $speedtest_windows["speedtest_current"] = $NOT_AVAILABLE_ICON;
     $sql = "
             SELECT  extract(epoch FROM local)::integer AS unix_timestamp,
                     result_url,
@@ -75,31 +75,31 @@ if(!array_key_exists('result', $speedtest)) {
     $sth->execute();
     $sth->setFetchMode(PDO::FETCH_ASSOC);
     while($row = $sth->fetch()) {
-        $speedtest["unix_timestamp"] = $row["unix_timestamp"];
-        $speedtest["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
-        $speedtest["speedtest_current"] = $row["result_url"] . ".png";
-        $speedtest["interface"]["internalIp"] = $row["internal_ip"];
-        $speedtest["interface"]["name"] = "i219v"; // Windows doesn't report this, so hardcoded.
-        $speedtest["server"]["name"] = $row["name"];
-        $speedtest["server"]["host"] = $row["host"];
-        $speedtest["ping"]["latency"] = $row["ping"];
-        $speedtest["download"]["bandwidth"] = ($row["download"] * 1000000.0) / 8.0;
-        $speedtest["upload"]["bandwidth"] = ($row["upload"] * 1000000.0) / 8.0;
+        $speedtest_windows["unix_timestamp"] = $row["unix_timestamp"];
+        $speedtest_windows["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest_windows["unix_timestamp"]);
+        $speedtest_windows["speedtest_current"] = $row["result_url"] . ".png";
+        $speedtest_windows["interface"]["internalIp"] = $row["internal_ip"];
+        $speedtest_windows["interface"]["name"] = "i219v"; // Windows doesn't report this, so hardcoded.
+        $speedtest_windows["server"]["name"] = $row["name"];
+        $speedtest_windows["server"]["host"] = $row["host"];
+        $speedtest_windows["ping"]["latency"] = $row["ping"];
+        $speedtest_windows["download"]["bandwidth"] = ($row["download"] * 1000000.0) / 8.0;
+        $speedtest_windows["upload"]["bandwidth"] = ($row["upload"] * 1000000.0) / 8.0;
     }
     $db = null;
 } else {
-    $speedtest["unix_timestamp"] = strtotime($speedtest["timestamp"]);
-    $speedtest["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
-    $speedtest["speedtest_current"] = $speedtest["result"]["url"] . ".png";
-    $speedtest["interface"]["name"] = "i219v";  // Windows doesn't report this, so hardcoded.
+    $speedtest_windows["unix_timestamp"] = strtotime($speedtest_windows["timestamp"]);
+    $speedtest_windows["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest_windows["unix_timestamp"]);
+    $speedtest_windows["speedtest_current"] = $speedtest_windows["result"]["url"] . ".png";
+    $speedtest_windows["interface"]["name"] = "i219v";  // Windows doesn't report this, so hardcoded.
 }
 
-$speedtest_wifi_text = file_get_contents($SPEEDTEST_LINUX_FILE);
-$speedtest_wifi = json_decode($speedtest_wifi_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
-if(!array_key_exists('result', $speedtest_wifi)) {
-    $speedtest_wifi["unix_timestamp"] = time();
-    $speedtest_wifi["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", time());
-    $speedtest_wifi["speedtest_current"] = $NOT_AVAILABLE_ICON;
+$speedtest_linux_text = file_get_contents($SPEEDTEST_LINUX_FILE);
+$speedtest_linux = json_decode($speedtest_linux_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
+if(!array_key_exists('result', $speedtest_linux)) {
+    $speedtest_linux["unix_timestamp"] = time();
+    $speedtest_linux["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", time());
+    $speedtest_linux["speedtest_current"] = $NOT_AVAILABLE_ICON;
     $sql = "
             SELECT  extract(epoch FROM local)::integer AS unix_timestamp,
                     result_url,
@@ -116,22 +116,22 @@ if(!array_key_exists('result', $speedtest_wifi)) {
     $sth->execute();
     $sth->setFetchMode(PDO::FETCH_ASSOC);
     while($row = $sth->fetch()) {
-        $speedtest_wifi["unix_timestamp"] = $row["unix_timestamp"];
-        $speedtest_wifi["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest["unix_timestamp"]);
-        $speedtest_wifi["speedtest_current"] = $row["result_url"] . ".png";
-        $speedtest_wifi["interface"]["internalIp"] = $row["internal_ip"];
-        $speedtest_wifi["interface"]["name"] = "wlp1s0"; // Hardcoded, as it wasn't picked up, bleh.
-        $speedtest_wifi["server"]["name"] = $row["name"];
-        $speedtest_wifi["server"]["host"] = $row["host"];
-        $speedtest_wifi["ping"]["latency"] = $row["ping"];
-        $speedtest_wifi["download"]["bandwidth"] = ($row["download"] * 1000000.0) / 8.0;
-        $speedtest_wifi["upload"]["bandwidth"] = ($row["upload"] * 1000000.0) / 8.0;
+        $speedtest_linux["unix_timestamp"] = $row["unix_timestamp"];
+        $speedtest_linux["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest_windows["unix_timestamp"]);
+        $speedtest_linux["speedtest_current"] = $row["result_url"] . ".png";
+        $speedtest_linux["interface"]["internalIp"] = $row["internal_ip"];
+        $speedtest_linux["interface"]["name"] = "wlp1s0"; // Hardcoded, as it wasn't picked up, bleh.
+        $speedtest_linux["server"]["name"] = $row["name"];
+        $speedtest_linux["server"]["host"] = $row["host"];
+        $speedtest_linux["ping"]["latency"] = $row["ping"];
+        $speedtest_linux["download"]["bandwidth"] = ($row["download"] * 1000000.0) / 8.0;
+        $speedtest_linux["upload"]["bandwidth"] = ($row["upload"] * 1000000.0) / 8.0;
     }
     $db = null;
 } else {
-    $speedtest_wifi["unix_timestamp"] = strtotime($speedtest_wifi["timestamp"]);
-    $speedtest_wifi["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest_wifi["unix_timestamp"]);
-    $speedtest_wifi["speedtest_current"] = $speedtest_wifi["result"]["url"] . ".png";
+    $speedtest_linux["unix_timestamp"] = strtotime($speedtest_linux["timestamp"]);
+    $speedtest_linux["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", $speedtest_linux["unix_timestamp"]);
+    $speedtest_linux["speedtest_current"] = $speedtest_linux["result"]["url"] . ".png";
 }
 
 $speedtest_avg_text = file_get_contents($SPEEDTEST_AVG_FILE);
@@ -552,9 +552,9 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
         </div>
         <table id="speedtest-table">
             <tr>
-                <!-- <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $speedtest['speedtest_current']; ?>" /> </td> -->
+                <!-- <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $speedtest_windows['speedtest_current']; ?>" /> </td> -->
                 <!-- <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $ONE_PIXEL_ICON; ?>" /> </td> -->
-                <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $speedtest_wifi['speedtest_current']; ?>" /> </td>
+                <td class="speedtest-left-column"> <img class="speedtest-img" src="<?php echo $speedtest_linux['speedtest_current']; ?>" /> </td>
                 <td class="speedtest-text-column" rowspan="0">
                 <pre>
                 <?php
@@ -572,7 +572,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                 ?>
                 </pre>
                 </td>
-                <!-- <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $speedtest_wifi['speedtest_current']; ?>" /> </td> -->
+                <!-- <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $speedtest_linux['speedtest_current']; ?>" /> </td> -->
                 <td class="speedtest-right-column"> <img class="speedtest-img" src="<?php echo $ONE_PIXEL_ICON; ?>" /> </td>
             </tr>
             <tr>
@@ -636,26 +636,26 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                             <pre>Wifi Connection in use: <?php pcmd("/sbin/iwconfig wlp1s0 | grep ESSID"); ?></pre>
 -->
                             <pre>External IPv4 address: <?php pcmd("/home/wiley/bin/mudinfo -I wileymud"); ?></pre>
-                            <pre><?php
-                                    printf("%s %s\n",         "Wired Speedtest performed on", $speedtest["the_time"]);
-                                    printf("%s %s:%s\n",      "                interface   ", $speedtest["interface"]["internalIp"], $speedtest["interface"]["name"]);
-                                    printf("%s %s (%s)\n",    "                target node ", $speedtest["server"]["name"], $speedtest["server"]["host"]);
-                                    printf("%s %-.3f ms\n",   "                ping        ", $speedtest["ping"]["latency"]);
-                                    printf("%s %-.2f Mbps\n", "                download    ", ($speedtest["download"]["bandwidth"] * 8.0 / 1000000.0));
-                                    printf("%s %-.2f Mbps\n", "                upload      ", ($speedtest["upload"]["bandwidth"] * 8.0 / 1000000.0));
-                                 ?>
-                            </pre>
 <!--
                             <pre><?php
-                                    printf("%s %s\n",         "Wi-fi Speedtest performed on", $speedtest_wifi["the_time"]);
-                                    printf("%s %s:%s\n",      "                interface   ", $speedtest_wifi["interface"]["internalIp"], $speedtest_wifi["interface"]["name"]);
-                                    printf("%s %s (%s)\n",    "                target node ", $speedtest_wifi["server"]["name"], $speedtest_wifi["server"]["host"]);
-                                    printf("%s %-.3f ms\n",   "                ping        ", $speedtest_wifi["ping"]["latency"]);
-                                    printf("%s %-.2f Mbps\n", "                download    ", ($speedtest_wifi["download"]["bandwidth"] * 8.0 / 1000000.0));
-                                    printf("%s %-.2f Mbps\n", "                upload      ", ($speedtest_wifi["upload"]["bandwidth"] * 8.0 / 1000000.0));
+                                    printf("%s %s\n",         "Windows Speedtest performed on", $speedtest_windows["the_time"]);
+                                    printf("%s %s:%s\n",      "                  interface   ", $speedtest_windows["interface"]["internalIp"], $speedtest_windows["interface"]["name"]);
+                                    printf("%s %s (%s)\n",    "                  target node ", $speedtest_windows["server"]["name"], $speedtest_windows["server"]["host"]);
+                                    printf("%s %-.3f ms\n",   "                  ping        ", $speedtest_windows["ping"]["latency"]);
+                                    printf("%s %-.2f Mbps\n", "                  download    ", ($speedtest_windows["download"]["bandwidth"] * 8.0 / 1000000.0));
+                                    printf("%s %-.2f Mbps\n", "                  upload      ", ($speedtest_windows["upload"]["bandwidth"] * 8.0 / 1000000.0));
                                  ?>
                             </pre>
 -->
+                            <pre><?php
+                                    printf("%s %s\n",         "Linux Speedtest   performed on", $speedtest_linux["the_time"]);
+                                    printf("%s %s:%s\n",      "                  interface   ", $speedtest_linux["interface"]["internalIp"], $speedtest_linux["interface"]["name"]);
+                                    printf("%s %s (%s)\n",    "                  target node ", $speedtest_linux["server"]["name"], $speedtest_linux["server"]["host"]);
+                                    printf("%s %-.3f ms\n",   "                  ping        ", $speedtest_linux["ping"]["latency"]);
+                                    printf("%s %-.2f Mbps\n", "                  download    ", ($speedtest_linux["download"]["bandwidth"] * 8.0 / 1000000.0));
+                                    printf("%s %-.2f Mbps\n", "                  upload      ", ($speedtest_linux["upload"]["bandwidth"] * 8.0 / 1000000.0));
+                                 ?>
+                            </pre>
                             <pre><?php echo htmlentities(file_get_contents($KELLY_MTR)); ?></pre>
                             <pre><?php echo htmlentities(file_get_contents($DALET_MTR)); ?></pre>
                             <hr class="hr-100" />
