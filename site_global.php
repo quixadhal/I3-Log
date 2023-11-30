@@ -72,7 +72,7 @@ if(is_local_ip()) {
 $URL_HOME                   = https() . "://" . address() . "/log";
 $FILE_HOME                  = "/home/www/log";
 
-$JQ                         = "$URL_HOME/inc/jquery-3.5.0.min.js";
+$JQ                         = "$URL_HOME/inc/jquery-3.7.1.min.js";
 $JQUI_CSS                   = "$URL_HOME/inc/jquery-ui-1.12.1.custom/jquery-ui.min.css";
 $JQUI_THEME                 = "$URL_HOME/inc/jquery-ui-1.12.1.custom/jquery-ui.theme.min.css";
 $JQUI                       = "$URL_HOME/inc/jquery-ui-1.12.1.custom/jquery-ui.min.js";
