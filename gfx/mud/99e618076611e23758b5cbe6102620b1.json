@@ -1,1 +1,1 @@
-{"name":"RMud","login":0,"geoip":{"longitude":-82.403,"latitude":27.9929,"country_name":"United States","city":"Tampa","ip":"24.129.165.120","country_code":"US","region_name":"FL"},"ipaddress":"24.129.165.120"}
+{"geoip":{"country_code":"US","latitude":27.9929,"ip":"24.129.165.120","region_name":"FL","city":"Tampa","country_name":"United States","longitude":-82.403},"ipaddress":"24.129.165.120","name":"RMud","login":0}

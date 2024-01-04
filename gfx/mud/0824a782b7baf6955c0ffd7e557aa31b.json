@@ -1,1 +1,1 @@
-{"login":1,"name":"EmpireMUD","ipaddress":"63.142.253.253","geoip":{"country_name":"United States","city":"Dallas","longitude":-96.8704,"latitude":32.8137,"ip":"63.142.253.253","country_code":"US","region_name":"TX"}}
+{"login":1,"geoip":{"latitude":32.8137,"longitude":-96.8704,"country_code":"US","country_name":"United States","region_name":"TX","ip":"63.142.253.253","city":"Dallas"},"ipaddress":"63.142.253.253","name":"EmpireMUD"}

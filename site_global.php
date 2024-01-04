@@ -144,4 +144,6 @@ $VISITOR_IP                 = $_SERVER['REMOTE_ADDR'];
 
 $DOWNLOAD_URL               = "$URL_HOME/data/i3log.sql.xz";
 
+$NOBODY_CARES               = true;
+
 ?>

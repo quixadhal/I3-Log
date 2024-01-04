@@ -1,1 +1,1 @@
-{"geoip":{"city":"Forest Grove","country_name":"United States","latitude":45.5981,"longitude":-123.1818,"country_code":"US","region_name":"OR","ip":"71.63.206.183"},"ipaddress":"71.63.206.183","login":1,"name":"CoffeeBrau"}
+{"ipaddress":"71.63.206.183","geoip":{"longitude":-123.1818,"latitude":45.5981,"country_code":"US","country_name":"United States","region_name":"OR","city":"Forest Grove","ip":"71.63.206.183"},"name":"CoffeeBrau","login":1}

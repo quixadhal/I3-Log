@@ -1,1 +1,1 @@
-{"name":"Shadow Wind MUD","login":1,"ipaddress":"45.56.95.114","geoip":{"region_name":"CA","country_code":"US","ip":"45.56.95.114","city":"Fremont","country_name":"United States","latitude":37.5625,"longitude":-122.0004}}
+{"geoip":{"latitude":37.5625,"longitude":-122.0004,"ip":"45.56.95.114","city":"Fremont","region_name":"CA","country_code":"US","country_name":"United States"},"name":"Shadow Wind MUD","ipaddress":"45.56.95.114","login":1}

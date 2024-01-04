@@ -1,1 +1,1 @@
-{"ipaddress":"157.230.139.143","geoip":{"ip":"157.230.139.143","region_name":"CA","country_code":"US","longitude":-121.9753,"latitude":37.3417,"country_name":"United States","city":"Santa Clara"},"name":"Darkwind","login":1}
+{"login":1,"geoip":{"latitude":37.3417,"longitude":-121.9753,"city":"Santa Clara","ip":"157.230.139.143","region_name":"CA","country_code":"US","country_name":"United States"},"name":"Darkwind","ipaddress":"157.230.139.143"}

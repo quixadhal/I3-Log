@@ -1,1 +1,1 @@
-{"name":"Clessidra","login":1,"geoip":{"ip":"195.231.85.45","country_code":"IT","region_name":"25","latitude":45.7059,"longitude":9.5872,"city":"Ponte San Pietro","country_name":"Italy"},"ipaddress":"195.231.85.45"}
+{"name":"Clessidra","geoip":{"longitude":9.5872,"latitude":45.7059,"region_name":"25","city":"Ponte San Pietro","ip":"195.231.85.45","country_name":"Italy","country_code":"IT"},"ipaddress":"195.231.85.45","login":1}

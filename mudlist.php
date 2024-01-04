@@ -468,9 +468,11 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
             const btn = document.querySelector('.trigger-lightbox');
             btn.addEventListener('click', () => new lightbox('#modal'));
         </script>
+<?php if($NOBODY_CARES == false) { ?>
         <div class="gfm-embed sticky-corner"
              data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
         </div>
         <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<?php } ?>
     </body>
 </html>

@@ -1,1 +1,1 @@
-{"login":1,"name":"CoreMUD","ipaddress":"192.99.10.40","geoip":{"ip":"192.99.10.40","region_name":"QC","country_code":"CA","latitude":45.5839,"longitude":-73.3312,"city":"Sainte-Julie","country_name":"Canada"}}
+{"login":1,"ipaddress":"192.99.10.40","geoip":{"country_name":"Canada","country_code":"CA","city":"Sainte-Julie","ip":"192.99.10.40","region_name":"QC","latitude":45.5839,"longitude":-73.3312},"name":"CoreMUD"}

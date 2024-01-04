@@ -685,9 +685,11 @@ $pie_data               = json_decode($pie_text, true, 512, JSON_INVALID_UTF8_SU
                 Clever all-chan &#x300C;quote&#x300D; goes here.
             </div>
         </div>
+<?php if($NOBODY_CARES == false) { ?>
         <div class="gfm-embed sticky-corner"
              data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
         </div>
         <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<?php } ?>
     </body>
 </html>

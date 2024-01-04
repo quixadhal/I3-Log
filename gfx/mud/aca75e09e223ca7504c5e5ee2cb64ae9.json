@@ -1,1 +1,1 @@
-{"ipaddress":"45.33.50.107","name":"Altera MUD","geoip":{"region_name":"CA","country_name":"United States","longitude":-122.0004,"country_code":"US","city":"Fremont","ip":"45.33.50.107","latitude":37.5625},"login":1}
+{"login":1,"name":"Altera MUD","geoip":{"country_name":"United States","country_code":"US","city":"Fremont","ip":"45.33.50.107","region_name":"CA","latitude":37.5625,"longitude":-122.0004},"ipaddress":"45.33.50.107"}

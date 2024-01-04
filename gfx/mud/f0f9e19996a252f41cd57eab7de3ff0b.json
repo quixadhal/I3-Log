@@ -1,1 +1,1 @@
-{"ipaddress":"88.97.75.68","geoip":{"region_name":"ENG","country_code":"GB","ip":"88.97.75.68","latitude":51.509,"longitude":-0.1882,"country_name":"United Kingdom","city":"Paddington"},"name":"Archipelago","login":1}
+{"geoip":{"latitude":51.509,"longitude":-0.1882,"country_name":"United Kingdom","country_code":"GB","ip":"88.97.75.68","city":"Paddington","region_name":"ENG"},"name":"Archipelago","ipaddress":"88.97.75.68","login":1}

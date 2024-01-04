@@ -1,1 +1,1 @@
-{"login":0,"name":"Dead_Souls_rhino","ipaddress":"23.125.8.31","geoip":{"country_code":"US","region_name":"MI","ip":"23.125.8.31","longitude":-85.6682,"latitude":42.8704,"country_name":"United States","city":"Grand Rapids"}}
+{"geoip":{"region_name":"MI","ip":"23.125.8.31","city":"Grand Rapids","country_code":"US","country_name":"United States","latitude":42.8704,"longitude":-85.6682},"name":"Dead_Souls_rhino","ipaddress":"23.125.8.31","login":0}

@@ -1,1 +1,1 @@
-{"name":"Way of the Force","login":1,"geoip":{"city":"Reek","country_name":"Netherlands","latitude":51.7447,"longitude":5.6815,"ip":"136.144.155.250","region_name":"NB","country_code":"NL"},"ipaddress":"136.144.155.250"}
+{"geoip":{"country_name":"Netherlands","country_code":"NL","region_name":"NB","ip":"136.144.155.250","city":"Reek","longitude":5.6815,"latitude":51.7447},"ipaddress":"136.144.155.250","name":"Way of the Force","login":1}

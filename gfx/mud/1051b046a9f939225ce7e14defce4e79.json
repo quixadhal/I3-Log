@@ -1,1 +1,1 @@
-{"geoip":{"region_code":"ON","ip":"172.105.29.62","metro_code":0,"country_name":"Canada","zip_code":"M5A","longitude":-79.3623,"time_zone":"America/Toronto","region_name":"Ontario","latitude":43.6547,"country_code":"CA","city":"Toronto"},"ipaddress":"172.105.29.62","name":"ReidMud"}
+{"name":"ReidMud","login":0,"ipaddress":"172.105.29.62","geoip":{"country_name":"Canada","ip":"172.105.29.62","country_code":"CA","latitude":43.6547,"longitude":-79.3623,"city":"Toronto","region_name":"ON"}}

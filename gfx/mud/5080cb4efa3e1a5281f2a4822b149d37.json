@@ -1,1 +1,1 @@
-{"geoip":{"latitude":50.1188,"longitude":8.6843,"country_name":"Germany","city":"Frankfurt am Main","region_name":"HE","country_code":"DE","ip":"172.105.72.100"},"ipaddress":"172.105.72.100","login":1,"name":"Metaplay MUD"}
+{"name":"Metaplay MUD","geoip":{"country_name":"Germany","country_code":"DE","ip":"172.105.72.100","city":"Frankfurt am Main","region_name":"HE","longitude":8.6843,"latitude":50.1188},"ipaddress":"172.105.72.100","login":1}

@@ -1,1 +1,1 @@
-{"ipaddress":"44.230.15.218","geoip":{"region_name":"Oregon","ip":"44.230.15.218","region_code":"OR","metro_code":810,"country_name":"United States","latitude":45.8491,"zip_code":"97818","country_code":"US","city":"Boardman","longitude":-119.7143,"time_zone":"America/Los_Angeles"},"name":"PD-Builders"}
+{"name":"PD-Builders","geoip":{"region_name":"OR","latitude":45.8234,"country_code":"US","country_name":"United States","city":"Boardman","ip":"44.230.15.218","longitude":-119.7257},"login":0,"ipaddress":"44.230.15.218"}
