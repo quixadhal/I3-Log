@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"region_name":"VA","ip":"15.204.249.105","city":"Reston","country_code":"US","country_name":"United States","latitude":38.9609,"longitude":-77.3429},"name":"AraleunMUD","ipaddress":"15.204.249.105"}
+{"geoip":{"region_name":"VA","latitude":38.9609,"longitude":-77.3429,"ip":"15.204.249.105","city":"Reston","country_code":"US","country_name":"United States"},"name":"AraleunMUD","ipaddress":"15.204.249.105","login":1}

@@ -1,1 +1,1 @@
-{"login":0,"ipaddress":"81.204.138.139","geoip":{"latitude":51.9166,"longitude":4.2651,"region_name":"ZH","city":"Maassluis","ip":"81.204.138.139","country_name":"Netherlands","country_code":"NL"},"name":"lpcdb-dev"}
+{"login":0,"geoip":{"latitude":51.9166,"country_code":"NL","country_name":"Netherlands","region_name":"ZH","longitude":4.2651,"ip":"81.204.138.139","city":"Maassluis"},"ipaddress":"81.204.138.139","name":"lpcdb-dev"}

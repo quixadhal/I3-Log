@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"ip":"112.213.38.109","city":"Sydney","region_name":"NSW","country_name":"Australia","country_code":"AU","longitude":151.1415,"latitude":-33.808},"name":"I3-TheMud-ORG-PGSQL","ipaddress":"112.213.38.109"}
+{"geoip":{"region_name":"NSW","ip":"112.213.38.109","longitude":151.1415,"city":"Sydney","latitude":-33.808,"country_code":"AU","country_name":"Australia"},"ipaddress":"112.213.38.109","name":"I3-TheMud-ORG-PGSQL","login":0}

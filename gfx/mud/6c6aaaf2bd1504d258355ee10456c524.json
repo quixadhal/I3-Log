@@ -1,1 +1,1 @@
-{"ipaddress":"159.89.94.121","login":0,"geoip":{"ip":"159.89.94.121","longitude":-74.0247,"country_name":"United States","country_code":"US","region_name":"NJ","latitude":40.793,"city":"North Bergen"},"name":"Realm of Shadows"}
+{"geoip":{"city":"North Bergen","longitude":-74.0247,"ip":"159.89.94.121","region_name":"NJ","latitude":40.793,"country_code":"US","country_name":"United States"},"ipaddress":"159.89.94.121","name":"Realm of Shadows","login":0}

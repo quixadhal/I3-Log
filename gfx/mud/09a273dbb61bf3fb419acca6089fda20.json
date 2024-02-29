@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-84.3871,"latitude":33.7485,"region_name":"GA","ip":"170.187.149.131","city":"Atlanta","country_code":"US","country_name":"United States"},"name":"Fallen Earth MUD","ipaddress":"170.187.149.131","login":1}
+{"login":1,"name":"Fallen Earth MUD","ipaddress":"170.187.149.131","geoip":{"country_name":"United States","country_code":"US","longitude":-84.3871,"city":"Atlanta","ip":"170.187.149.131","latitude":33.7485,"region_name":"GA"}}

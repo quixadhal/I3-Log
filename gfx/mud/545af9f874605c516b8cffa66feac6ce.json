@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-74.0247,"latitude":40.793,"city":"North Bergen","ip":"159.223.173.196","region_name":"NJ","country_code":"US","country_name":"United States"},"ipaddress":"159.223.173.196","name":"The Eternal Crusade","login":1}
+{"login":1,"name":"The Eternal Crusade","ipaddress":"159.223.173.196","geoip":{"region_name":"NJ","city":"North Bergen","longitude":-74.0247,"ip":"159.223.173.196","latitude":40.793,"country_code":"US","country_name":"United States"}}

@@ -1,1 +1,1 @@
-{"login":1,"name":"Ravenmire","geoip":{"latitude":45.5397,"longitude":-122.9638,"region_name":"OR","ip":"15.204.44.119","city":"Hillsboro","country_code":"US","country_name":"United States"},"ipaddress":"15.204.44.119"}
+{"name":"Ravenmire","geoip":{"latitude":45.5397,"country_name":"United States","region_name":"OR","country_code":"US","ip":"15.204.44.119","city":"Hillsboro","longitude":-122.9638},"ipaddress":"15.204.44.119","login":0}

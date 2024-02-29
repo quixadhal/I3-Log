@@ -1,1 +1,1 @@
-{"login":0,"geoip":{"country_name":"United States","country_code":"US","ip":"74.109.222.19","city":"Pittsburgh","region_name":"PA","longitude":-79.9825,"latitude":40.4236},"ipaddress":"74.109.222.19","name":"Dead_Souls_pgt"}
+{"geoip":{"longitude":-79.9825,"country_name":"United States","latitude":40.4236,"country_code":"US","region_name":"PA","ip":"74.109.222.19","city":"Pittsburgh"},"name":"Dead_Souls_pgt","login":0,"ipaddress":"74.109.222.19"}

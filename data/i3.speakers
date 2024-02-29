@@ -1,5 +1,5 @@
 #COUNT
-Count   3272
+Count   3294
 End
 
 #SPEAKER
@@ -15,6 +15,16 @@ End
 #SPEAKER
 Name    8=====d↝↝ ↝
 Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    ?
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    ? (mongoose in gv)
+Color   %^CYAN%^
 End
 
 #SPEAKER
@@ -2208,6 +2218,11 @@ Color   %^MAGENTA%^
 End
 
 #SPEAKER
+Name    boco
+Color   %^BLUE%^
+End
+
+#SPEAKER
 Name    bodea
 Color   %^CYAN%^
 End
@@ -2590,6 +2605,16 @@ End
 #SPEAKER
 Name    carmine
 Color   %^WHITE%^%^B_MAGENTA%^
+End
+
+#SPEAKER
+Name    carnage
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    carnage (neonmoo in gv)
+Color   %^BLACK%^%^B_YELLOW%^
 End
 
 #SPEAKER
@@ -4393,6 +4418,11 @@ Color   %^WHITE%^%^B_MAGENTA%^
 End
 
 #SPEAKER
+Name    duzchip
+Color   %^RED%^
+End
+
+#SPEAKER
 Name    dvinn
 Color   %^BLACK%^%^B_RED%^
 End
@@ -5898,6 +5928,11 @@ Color   %^BLACK%^%^B_WHITE%^
 End
 
 #SPEAKER
+Name    ginkeo
+Color   %^YELLOW%^
+End
+
+#SPEAKER
 Name    giric
 Color   %^BLACK%^%^B_CYAN%^
 End
@@ -5975,6 +6010,16 @@ End
 #SPEAKER
 Name    goober
 Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    goop
+Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    goop (elvindir in gv)
+Color   %^BLUE%^%^BOLD%^
 End
 
 #SPEAKER
@@ -6098,6 +6143,11 @@ Color   %^BLACK%^%^B_GREEN%^
 End
 
 #SPEAKER
+Name    grinch
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
 Name    grisheen
 Color   %^ORANGE%^
 End
@@ -6215,6 +6265,11 @@ End
 #SPEAKER
 Name    gyre
 Color   %^BLACK%^%^B_WHITE%^
+End
+
+#SPEAKER
+Name    haar
+Color   %^MAGENTA%^
 End
 
 #SPEAKER
@@ -9293,6 +9348,11 @@ Color   %^BLACK%^%^B_RED%^
 End
 
 #SPEAKER
+Name    mateo
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
 Name    matillo
 Color   %^BLACK%^%^B_YELLOW%^
 End
@@ -9983,6 +10043,16 @@ Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
+Name    muffled
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    muffled (apotheosis in gv)
+Color   %^GREEN%^
+End
+
+#SPEAKER
 Name    muirrum
 Color   %^GREEN%^
 End
@@ -10020,6 +10090,11 @@ End
 #SPEAKER
 Name    muskard
 Color   %^BLACK%^%^B_WHITE%^
+End
+
+#SPEAKER
+Name    mxdnxss
+Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
@@ -13898,6 +13973,16 @@ Color   %^MAGENTA%^%^BOLD%^
 End
 
 #SPEAKER
+Name    talon ?
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    talon ? (mongoose in gv)
+Color   %^WHITE%^
+End
+
+#SPEAKER
 Name    talsin
 Color   %^BLACK%^%^B_GREEN%^
 End
@@ -14263,6 +14348,11 @@ Color   %^BLACK%^%^B_GREEN%^
 End
 
 #SPEAKER
+Name    the mad scripter
+Color   %^WHITE%^%^B_MAGENTA%^
+End
+
+#SPEAKER
 Name    the owl
 Color   %^BLACK%^%^BOLD%^
 End
@@ -14300,6 +14390,11 @@ End
 #SPEAKER
 Name    theis
 Color   %^WHITE%^%^B_GREEN%^
+End
+
+#SPEAKER
+Name    themadscripter
+Color   %^CYAN%^
 End
 
 #SPEAKER
@@ -16168,6 +16263,16 @@ Color   %^WHITE%^%^B_RED%^
 End
 
 #SPEAKER
+Name    zemmi
+Color   %^ORANGE%^
+End
+
+#SPEAKER
+Name    zemmi (mongoose in gv)
+Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
 Name    zendakath
 Color   %^GREEN%^
 End
@@ -16360,6 +16465,11 @@ End
 #SPEAKER
 Name    キクサダルの幽霊
 Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
+Name    外国人
+Color   %^RED%^%^BOLD%^
 End
 
 #END

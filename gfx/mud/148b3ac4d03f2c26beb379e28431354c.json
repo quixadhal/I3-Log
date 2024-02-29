@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"latitude":40.8364,"longitude":-74.1403,"region_name":"NJ","ip":"165.227.110.55","city":"Clifton","country_name":"United States","country_code":"US"},"ipaddress":"165.227.110.55","name":"NaughtyMuffin MUSH"}
+{"login":1,"name":"NaughtyMuffin MUSH","ipaddress":"165.227.110.55","geoip":{"country_name":"United States","country_code":"US","latitude":40.8364,"longitude":-74.1403,"ip":"165.227.110.55","city":"Clifton","region_name":"NJ"}}

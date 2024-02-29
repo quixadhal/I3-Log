@@ -1,3 +1,18 @@
+2024-01-02
+    apt install ncal
+
+    -- might not apply to us?
+    libssl3 (3.1.4-2) unstable; urgency=medium
+
+      TLSv1.0, TLSv1.1 and DTLS 1.0 work only at security level 0 (it was
+      previously allowed at security level 0). If you are still using them, you
+      need lower security level (via CipherString = DEFAULT:@SECLEVEL=0)
+      additionally to the MinProtocol setting.
+2023-11-30
+    Pro-tip:  Upgrading the video drivers on the host causes VirtualBox
+    to crash, likely because it keeps hooks to the .DLLs of the driver
+    for the host/guest integration.  So, make sure you suspend or shutdown
+    any VMs first.
 2023-11-21
     So, since someone asked, I figured I'd look at making a test copy of
     the WileyMUD VM so I could fiddle with it and make it bring things up
@@ -40,6 +55,10 @@
 
     That way, I can let people screw around with it as they like, and only
     take over when I'm at the point where I'm forced to fully give it up.
+
+    Last entry of the day, created a reversed version of this HACKLOG
+    for the web interface, since anyone browsing it probably wants to see
+    recent things, not what I did in 2017 3 virtual machines ago...
 2023-11-18
     cpan
         install HTML::BBReverse
@@ -2303,3 +2322,4 @@
             cpan > install Lingua::EN::Numbers::Ordinate
             cpan > install Rose::DB::Object
     2012    cpan > install CGI
+

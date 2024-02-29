@@ -2,6 +2,16 @@
    "mudlist" : [
       {
          "from_mssp" : 1,
+         "ipaddress" : "170.187.150.187",
+         "md5" : "e2074c8a79c50b868f3ce6a09eaaa36c",
+         "mudlib" : "Merc 2.2",
+         "name" : "ChaosMUD",
+         "online" : 0,
+         "port" : 1111,
+         "type" : ""
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "64.62.231.178",
          "md5" : "b95e2239438b0deb2b179ca81a754fcc",
          "mudlib" : "CircleMUD",
@@ -9,6 +19,16 @@
          "online" : 0,
          "port" : 6000,
          "type" : "DikuMUD"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "51.161.59.8",
+         "md5" : "c45abc245057e963669c42a6e79cb6d6",
+         "mudlib" : "Diku Merc Rom Rot",
+         "name" : "Indeterminate Destiny",
+         "online" : 0,
+         "port" : 2000,
+         "type" : "Custom"
       },
       {
          "from_mssp" : 1,
@@ -72,6 +92,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "138.197.15.166",
+         "md5" : "a94c6d28e33049ad445ba56fe3861d8c",
+         "mudlib" : "",
+         "name" : "Ancient Empires MUD",
+         "online" : 0,
+         "port" : 5011,
+         "type" : "LPMud"
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "216.136.9.5",
          "md5" : "4b4aa953fd65a2f0e74c2f77c00ebe56",
          "mudlib" : "PennMUSH 1.8.5p1",
@@ -82,22 +112,22 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "66.228.38.196",
+         "md5" : "989b15078a8a6cf6cb7a1c3ed0a2cb94",
+         "mudlib" : "AnsalonMUD - 1.6b1 (Originally Rom 2.3 A",
+         "name" : "Ansalon MUD",
+         "online" : 0,
+         "port" : 8679,
+         "type" : "DikuMUD"
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "178.79.173.99",
          "md5" : "bf96c137a4c8038f009d4fbb6605e9ae",
          "mudlib" : "GodWars: Deluxe",
          "name" : "GodWars: Apocalypse",
          "online" : 0,
          "port" : "6660",
-         "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "206.72.195.251",
-         "md5" : "e37b441dbae18e7c940f4732dad8eb9f",
-         "mudlib" : "DikuMUD",
-         "name" : "Armageddon MUD",
-         "online" : 0,
-         "port" : 4050,
          "type" : "DikuMUD"
       },
       {
@@ -202,6 +232,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "99.88.247.49",
+         "md5" : "c13bf593842773affe0ed7e58a5432f2",
+         "mudlib" : "CoffeeMUD v5.10.3",
+         "name" : "134 MUDs",
+         "online" : 0,
+         "port" : "2329",
+         "type" : "CoffeeMUD"
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "66.207.168.118",
          "md5" : "1803e2d856bb17cb3ae84b97a6b61cfd",
          "mudlib" : "ProtoMUCK",
@@ -212,6 +252,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "195.123.245.173",
+         "md5" : "1425da6a194bb358cf38d0df8d3a9649",
+         "mudlib" : "Anatolia",
+         "name" : "Crusify: The Chosen",
+         "online" : 0,
+         "port" : 5000,
+         "type" : "DikuMUD"
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "157.230.139.143",
          "md5" : "a232892f08048f893ce80bbbf379ed6f",
          "mudlib" : "LDMud 3.3.495",
@@ -219,16 +269,6 @@
          "online" : 0,
          "port" : 3000,
          "type" : "LPMud"
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "155.254.17.153",
-         "md5" : "2a27428ecedca797c55501d29060c9c2",
-         "mudlib" : "",
-         "name" : "Desolation",
-         "online" : 0,
-         "port" : 7878,
-         "type" : ""
       },
       {
          "from_mssp" : 1,
@@ -274,7 +314,7 @@
          "from_mssp" : 1,
          "ipaddress" : "217.155.36.23",
          "md5" : "c13bf593842773affe0ed7e58a5432f2",
-         "mudlib" : "EoM 4.18.7",
+         "mudlib" : "EoM 4.18.8",
          "name" : "134 MUDs",
          "online" : 0,
          "port" : 8010,
@@ -304,7 +344,7 @@
          "from_mssp" : 1,
          "ipaddress" : "63.142.253.253",
          "md5" : "0824a782b7baf6955c0ffd7e557aa31b",
-         "mudlib" : "EmpireMUD 2.0 beta 5",
+         "mudlib" : "EmpireMUD 2.0 beta 5.174",
          "name" : "EmpireMUD",
          "online" : 0,
          "port" : 4000,
@@ -382,16 +422,6 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "13.59.47.153",
-         "md5" : "24f197bd169b6782d731be741400e6a1",
-         "mudlib" : "PennMUSH 1.8.6p1",
-         "name" : "Star Wars:Rebirth",
-         "online" : 0,
-         "port" : 9999,
-         "type" : "TinyMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "195.22.75.126",
          "md5" : "411f3239ffbefd44ebd08ac9eaec6489",
          "mudlib" : "CD.06.06",
@@ -409,16 +439,6 @@
          "online" : 0,
          "port" : "2250",
          "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "93.93.128.88",
-         "md5" : "9b4051e0f368e16f0ad51018a3ad9999",
-         "mudlib" : "Custom",
-         "name" : "God Wars II",
-         "online" : 0,
-         "port" : 3000,
-         "type" : "Custom"
       },
       {
          "from_mssp" : 1,
@@ -462,6 +482,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "64.224.71.222",
+         "md5" : "164cf42fb95aaf61bb6954aae0294cdc",
+         "mudlib" : "CUSTOM",
+         "name" : "CRIMSON STAINED LANDS",
+         "online" : 0,
+         "port" : 4000,
+         "type" : ""
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "69.245.210.115",
          "md5" : "775249c4590e39adcbe3bda019ec629a",
          "mudlib" : "ProtoMUCK",
@@ -474,7 +504,7 @@
          "from_mssp" : 1,
          "ipaddress" : "70.226.30.1",
          "md5" : "9b61e5f8598c3a3c420de51457e0c9e3",
-         "mudlib" : "LastOutpost 4.23",
+         "mudlib" : "LastOutpost 4.25",
          "name" : "The Last Outpost",
          "online" : 0,
          "port" : 4000,
@@ -492,16 +522,6 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "84.84.117.220",
-         "md5" : "99ea201a4c10c4c0353b53835eceeff5",
-         "mudlib" : "Lowlands 1.5",
-         "name" : "Lowlands",
-         "online" : 0,
-         "port" : 6969,
-         "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "18.213.226.69",
          "md5" : "c6c2370012421b522dedcd0f0979eace",
          "mudlib" : "",
@@ -509,6 +529,16 @@
          "online" : 0,
          "port" : 5555,
          "type" : "FluffOS"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "198.71.53.124",
+         "md5" : "d4d973f7635fc56069264fcbe4685f67",
+         "mudlib" : "LuminariMUD",
+         "name" : "LuminariMUD",
+         "online" : 0,
+         "port" : 4100,
+         "type" : "tbaMUD"
       },
       {
          "from_mssp" : 1,
@@ -612,7 +642,7 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "174.89.240.217",
+         "ipaddress" : "184.145.164.221",
          "md5" : "ef2151b9735cb2063c37e987893d5830",
          "mudlib" : "FluffOS",
          "name" : "Accursed-Lands",
@@ -649,6 +679,16 @@
          "online" : 0,
          "port" : 4000,
          "type" : "DikuMUD"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "54.186.128.181",
+         "md5" : "209acb409cdfd913db423b8d20e9cffc",
+         "mudlib" : "",
+         "name" : "The Final Challenge",
+         "online" : 0,
+         "port" : 4000,
+         "type" : ""
       },
       {
          "from_mssp" : 1,
@@ -702,22 +742,12 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "45.55.52.229",
+         "ipaddress" : "172.234.29.219",
          "md5" : "4f33cad67e7f119a9ae693026582dc5c",
          "mudlib" : "",
          "name" : "SWmud",
          "online" : 0,
          "port" : 6666,
-         "type" : ""
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "167.114.137.18",
-         "md5" : "e00104e73e8249633c6ee1d885a8a309",
-         "mudlib" : "Custom, TFE",
-         "name" : "The Forest's Edge",
-         "online" : 0,
-         "port" : 4000,
          "type" : ""
       },
       {
@@ -802,6 +832,26 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "144.217.205.176",
+         "md5" : "444aeaf5beb8e2ce6f781976e2c4400b",
+         "mudlib" : "PennMUSH 1.8.5p1",
+         "name" : "PersonaMUSH",
+         "online" : 0,
+         "port" : 2012,
+         "type" : "TinyMUD"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "173.255.201.173",
+         "md5" : "3de95e239def5d190d48e38c3867c9fe",
+         "mudlib" : "",
+         "name" : "Nuke",
+         "online" : 0,
+         "port" : 4080,
+         "type" : ""
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "45.79.146.119",
          "md5" : "2de3206987961b052a37604c390b2055",
          "mudlib" : "PennMUSH 1.8.8p0",
@@ -832,7 +882,7 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "74.208.10.81",
+         "ipaddress" : "45.43.24.146",
          "md5" : "b86e254a8d537aa8993047b741d3ea50",
          "mudlib" : "Custom",
          "name" : "Procedural Realms",
@@ -892,13 +942,13 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "35.171.219.224",
-         "md5" : "0dfee9330575b69aa098af750123f319",
-         "mudlib" : "CD",
-         "name" : "Sanity's Edge",
+         "ipaddress" : "54.39.50.121",
+         "md5" : "0afcae01031b87fe4a82fd2279ee50be",
+         "mudlib" : "ROM 2.4b6",
+         "name" : "Sentience",
          "online" : 0,
-         "port" : 2020,
-         "type" : "LPMud"
+         "port" : 9009,
+         "type" : ""
       },
       {
          "from_mssp" : 1,
@@ -909,6 +959,16 @@
          "online" : 0,
          "port" : 7000,
          "type" : "Custom"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "178.79.185.175",
+         "md5" : "3e7015fa02d4c541d206db4d98394621",
+         "mudlib" : "",
+         "name" : "sundering shadows",
+         "online" : 0,
+         "port" : 4016,
+         "type" : ""
       },
       {
          "from_mssp" : 1,
@@ -962,23 +1022,23 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "192.241.204.156",
-         "md5" : "54e4ffc0222e9166bbe0c16a76564348",
-         "mudlib" : "PennMUSH 1.8.7p0",
-         "name" : "Star Wars: Age of Alliances",
-         "online" : 0,
-         "port" : 5500,
-         "type" : "TinyMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "176.9.151.147",
          "md5" : "2d12f5a8c37894311ffb62cb8ca459ba",
          "mudlib" : "",
          "name" : "tbaMUD",
          "online" : 0,
-         "port" : "9091",
+         "port" : 9091,
          "type" : ""
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "107.2.136.24",
+         "md5" : "4860c9472766ee97f960eb060401079b",
+         "mudlib" : "PennMUSH 1.8.8p0",
+         "name" : "The Fairy Garden MUSH",
+         "online" : 0,
+         "port" : 3349,
+         "type" : "TinyMUD"
       },
       {
          "from_mssp" : 1,
@@ -989,6 +1049,16 @@
          "online" : 0,
          "port" : 3333,
          "type" : "LPMud"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "144.217.65.168",
+         "md5" : "f7f05a49d9d70e43acaf3e69f0f9228d",
+         "mudlib" : "LambdaMOO-ToastStunt 2.7.1r1",
+         "name" : "Miriani",
+         "online" : 0,
+         "port" : 1234,
+         "type" : "MOO"
       },
       {
          "from_mssp" : 1,
@@ -1032,13 +1102,13 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "170.187.162.171",
-         "md5" : "594714aba872c530d96a1790bd271e93",
-         "mudlib" : "TMI-2 1.5.1",
-         "name" : "EyeMUD",
+         "ipaddress" : "68.80.56.106",
+         "md5" : "392947648a974a16591fba7df2dd8293",
+         "mudlib" : "CircleMUD",
+         "name" : "The World of Pain",
          "online" : 0,
-         "port" : "2222",
-         "type" : "LPMud"
+         "port" : 6969,
+         "type" : ""
       },
       {
          "from_mssp" : 1,

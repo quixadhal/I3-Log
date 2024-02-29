@@ -1,1 +1,1 @@
-{"ipaddress":"178.79.173.99","login":0,"geoip":{"latitude":51.5088,"region_name":"ENG","country_name":"United Kingdom","country_code":"GB","city":"London","ip":"178.79.173.99","longitude":-0.093},"name":"WarofLegend"}
+{"geoip":{"country_name":"United Kingdom","country_code":"GB","latitude":51.5088,"longitude":-0.093,"ip":"178.79.173.99","city":"London","region_name":"ENG"},"login":0,"name":"WarofLegend","ipaddress":"178.79.173.99"}

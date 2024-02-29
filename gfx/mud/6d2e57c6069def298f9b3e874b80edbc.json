@@ -1,1 +1,1 @@
-{"login":0,"name":"SOD","geoip":{"ip":"163.27.9.55","longitude":120.4498,"region_name":"CYI","latitude":23.4815,"country_code":"TW","country_name":"Taiwan","city":"Chiayi City"},"ipaddress":"163.27.9.55"}
+{"name":"SOD","ipaddress":"163.27.9.55","login":0,"geoip":{"city":"Chiayi City","longitude":120.4498,"ip":"163.27.9.55","latitude":23.4815,"region_name":"CYI","country_name":"Taiwan","country_code":"TW"}}

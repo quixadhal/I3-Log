@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"longitude":-73.8736,"latitude":45.3161,"country_code":"CA","country_name":"Canada","region_name":"QC","ip":"144.217.65.168","city":"Beauharnois"},"ipaddress":"144.217.65.168","name":"Miriani"}
+{"geoip":{"country_code":"CA","country_name":"Canada","region_name":"QC","latitude":45.322,"city":"Beauharnois","longitude":-73.8741,"ip":"144.217.65.168"},"ipaddress":"144.217.65.168","name":"Miriani","login":1}

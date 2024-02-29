@@ -1,1 +1,1 @@
-{"geoip":{"longitude":17.0672,"ip":"193.170.138.1","city":"Nickelsdorf","country_code":"AT","country_name":"Austria","region_name":"1","latitude":47.9414},"name":"testserver","login":0,"ipaddress":"193.170.138.1"}
+{"geoip":{"country_name":"Austria","country_code":"AT","latitude":48.2583,"ip":"193.170.138.1","longitude":16.3377,"city":"Vienna","region_name":"9"},"login":0,"ipaddress":"193.170.138.1","name":"testserver"}

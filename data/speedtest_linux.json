@@ -1,41 +1,41 @@
 {
     "type": "result",
-    "timestamp": "2023-11-22T00:10:18Z",
+    "timestamp": "2024-02-29T00:10:16Z",
     "ping": {
-        "jitter": 0.085,
-        "latency": 2.071,
-        "low": 1.988,
-        "high": 2.168
+        "jitter": 0.034,
+        "latency": 1.961,
+        "low": 1.923,
+        "high": 1.992
     },
     "download": {
-        "bandwidth": 111828737,
-        "bytes": 450645112,
-        "elapsed": 4003,
+        "bandwidth": 81169859,
+        "bytes": 634043424,
+        "elapsed": 7910,
         "latency": {
-            "iqm": 2.999,
-            "low": 2.067,
-            "high": 3.808,
-            "jitter": 0.351
+            "iqm": 6.127,
+            "low": 2.095,
+            "high": 10.180,
+            "jitter": 0.845
         }
     },
     "upload": {
-        "bandwidth": 116805463,
-        "bytes": 592583855,
-        "elapsed": 5099,
+        "bandwidth": 73436397,
+        "bytes": 309779492,
+        "elapsed": 4214,
         "latency": {
-            "iqm": 38.524,
-            "low": 3.019,
-            "high": 541.147,
-            "jitter": 30.213
+            "iqm": 7.421,
+            "low": 3.359,
+            "high": 10.594,
+            "jitter": 1.135
         }
     },
     "isp": "Condointernet.net",
     "interface": {
-        "internalIp": "192.168.0.12",
+        "internalIp": "2604:4080:1018:81a0:a00:27ff:fec1:6fd8",
         "name": "enp0s3",
         "macAddr": "08:00:27:C1:6F:D8",
         "isVpn": false,
-        "externalIp": "104.156.100.167"
+        "externalIp": "2604:4080:1018:81a0:a00:27ff:fec1:6fd8"
     },
     "server": {
         "id": 1782,
@@ -44,11 +44,11 @@
         "name": "Comcast",
         "location": "Seattle, WA",
         "country": "United States",
-        "ip": "69.241.104.42"
+        "ip": "2001:558:fe34:22::2"
     },
     "result": {
-        "id": "42aa2e53-8e48-402c-bee3-c5ff3282f726",
-        "url": "https://www.speedtest.net/result/c/42aa2e53-8e48-402c-bee3-c5ff3282f726",
+        "id": "37240114-2e8f-495b-b639-ec6e8e9e0a1c",
+        "url": "https://www.speedtest.net/result/c/37240114-2e8f-495b-b639-ec6e8e9e0a1c",
         "persisted": true
     }
 }

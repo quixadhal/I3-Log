@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"longitude":-122.0004,"latitude":37.5625,"country_name":"United States","country_code":"US","ip":"173.255.211.99","city":"Fremont","region_name":"CA"},"name":"Times of Chaos","ipaddress":"173.255.211.99"}
+{"login":0,"name":"Times of Chaos","geoip":{"city":"Fremont","longitude":-122.0004,"ip":"173.255.211.99","region_name":"CA","country_code":"US","latitude":37.5625,"country_name":"United States"},"ipaddress":"173.255.211.99"}

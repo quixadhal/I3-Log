@@ -1,1 +1,1 @@
-{"geoip":{"latitude":51.3062,"longitude":-114.0394,"country_name":"Canada","country_code":"CA","city":"Airdrie","ip":"75.155.43.240","region_name":"AB"},"ipaddress":"75.155.43.240","name":"Colony Test","login":0}
+{"name":"Colony Test","ipaddress":"199.212.41.25","geoip":{"city":"Calgary","ip":"199.212.41.25","longitude":-114.1102,"region_name":"AB","country_name":"Canada","latitude":51.0605,"country_code":"CA"},"login":0}
