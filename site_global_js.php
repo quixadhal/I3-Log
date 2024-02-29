@@ -139,3 +139,7 @@ function query_parameters() {
 function https() {
     return "<?php echo https(); ?>";
 }
+function hideFundme() {
+    clearTimeout(fundmeTimer);
+    hideDiv('fundme-div');
+}

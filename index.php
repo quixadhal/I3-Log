@@ -132,6 +132,8 @@ if(array_key_exists('nsfw', $_GET)) {
             var TheDate = "<?php echo $the_date; ?>";
             var DoExtraAjax = <?php echo $do_extra_ajax; ?>;
             var SearchTerm = "<?php echo $the_search_term; ?>";
+            var fundmeTimer;
+            var autoFundmeTime = 1000 * 15;
 
             function on_scroll() {
                 var body = document.body;
@@ -538,6 +540,10 @@ if(array_key_exists('nsfw', $_GET)) {
             $(document).ready(function() {
                 ContentTimer = setTimeout(updateContent, 100);
                 CountdownTimer = setTimeout(updateProcessingTime, 100);
+<?php if($NOBODY_CARES == false) { ?>
+                fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                showDiv('fundme-div');
+<?php } ?>
                 hideDiv('page-source');
                 //showDiv('page-load-time');
                 $("#datepicker").val(queryDate);
@@ -630,10 +636,10 @@ if(array_key_exists('nsfw', $_GET)) {
             <?php echo numbered_source(__FILE__); ?>
         </div>
 <?php if($NOBODY_CARES == false) { ?>
-        <div class="gfm-embed sticky-corner"
-             data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
+        <div class="<?php echo $FUNDME_CLASS; ?>" id="fundme-div"
+            data-url="<?php echo $FUNDME_DATA_URL; ?>">
         </div>
-        <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+        <script defer src="<?php echo $FUNDME_SRC_URL; ?>"></script>
 <?php } ?>
     </body>
 </html>

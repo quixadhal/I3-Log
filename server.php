@@ -364,6 +364,8 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
         <script language="javascript">
             var timeSpent;
             var backgroundTimer;
+            var fundmeTimer;
+            var autoFundmeTime = 1000 * 15;
 
             function toggleLight(divID) {
                 element = document.getElementById(divID);
@@ -389,6 +391,10 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
                 }
             }
             $(document).ready(function() {
+<?php if($NOBODY_CARES == false) { ?>
+                fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                showDiv('fundme-div');
+<?php } ?>
                 hideDiv('uptime');
                 hideDiv('network');
                 hideDiv('cpu');
@@ -741,10 +747,10 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
             timeSpent = "<?php printf("Page Loaded in %7.3f seconds.",  $time_spent); ?>";
         </script>
 <?php if($NOBODY_CARES == false) { ?>
-        <div class="gfm-embed sticky-corner"
-             data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
+        <div class="<?php echo $FUNDME_CLASS; ?>" id="fundme-div"
+            data-url="<?php echo $FUNDME_DATA_URL; ?>">
         </div>
-        <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+        <script defer src="<?php echo $FUNDME_SRC_URL; ?>"></script>
 <?php } ?>
     </body>
 </html>

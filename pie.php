@@ -50,6 +50,8 @@ $pie_data               = json_decode($pie_text, true, 512, JSON_INVALID_UTF8_SU
             var timeSpent;
             var backgroundTimer;
             var ContentTimer;
+            var fundmeTimer;
+            var autoFundmeTime = 1000 * 15;
             var pieData = <?php echo $pie_text; ?>;
 
             var en = [];
@@ -142,6 +144,10 @@ $pie_data               = json_decode($pie_text, true, 512, JSON_INVALID_UTF8_SU
             }
 
             $(document).ready(function() {
+<?php if($NOBODY_CARES == false) { ?>
+                fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                showDiv('fundme-div');
+<?php } ?>
                 $('#page-load-time').html(timeSpent);
                 showDiv('page-load-time');
                 dim(document.getElementById('navbar-button-pie'));
@@ -686,10 +692,10 @@ $pie_data               = json_decode($pie_text, true, 512, JSON_INVALID_UTF8_SU
             </div>
         </div>
 <?php if($NOBODY_CARES == false) { ?>
-        <div class="gfm-embed sticky-corner"
-             data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
+        <div class="<?php echo $FUNDME_CLASS; ?>" id="fundme-div"
+            data-url="<?php echo $FUNDME_DATA_URL; ?>">
         </div>
-        <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+        <script defer src="<?php echo $FUNDME_SRC_URL; ?>"></script>
 <?php } ?>
     </body>
 </html>

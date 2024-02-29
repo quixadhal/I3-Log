@@ -107,3 +107,7 @@ a:active, a:focus {
     max-width: 200;
     flex: 1;
 }
+#fundme-div {
+    display: none;
+}
+

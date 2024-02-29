@@ -44,6 +44,8 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
         <script language="javascript">
             var timeSpent;
             var backgroundTimer;
+            var fundmeTimer;
+            var autoFundmeTime = 1000 * 15;
 
             history.scrollRestoration = "manual";
             function scroll_to_center(id) {
@@ -101,6 +103,10 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
                 }
             }
             $(document).ready(function() {
+<?php if($NOBODY_CARES == false) { ?>
+                fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                showDiv('fundme-div');
+<?php } ?>
                 hideDiv('page-source');
                 $('#page-load-time').html(timeSpent);
                 showDiv('page-load-time');
@@ -469,10 +475,10 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
             btn.addEventListener('click', () => new lightbox('#modal'));
         </script>
 <?php if($NOBODY_CARES == false) { ?>
-        <div class="gfm-embed sticky-corner"
-             data-url="https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large">
+        <div class="<?php echo $FUNDME_CLASS; ?>" id="fundme-div"
+            data-url="<?php echo $FUNDME_DATA_URL; ?>">
         </div>
-        <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+        <script defer src="<?php echo $FUNDME_SRC_URL; ?>"></script>
 <?php } ?>
     </body>
 </html>
