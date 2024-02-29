@@ -95,7 +95,7 @@ require_once 'random_background.php';
         <script language="javascript">
             var autoSkipTime = 1000 * 60 * 0.5;
             var autoHelpTime = 1000 * 60 * 0.25;
-            var autoClockTime = 1000 * 60 & 0.1;
+            var autoClockTime = 1000 * 60 * 0.1;
 
             var backgroundTimer;
             var helpTimer;
