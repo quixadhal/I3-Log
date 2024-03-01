@@ -51,7 +51,7 @@ $pie_data               = json_decode($pie_text, true, 512, JSON_INVALID_UTF8_SU
             var backgroundTimer;
             var ContentTimer;
             var fundmeTimer;
-            var autoFundmeTime = 1000 * 15;
+            var autoFundmeTime = 1000 * 20;
             var pieData = <?php echo $pie_text; ?>;
 
             var en = [];
@@ -146,6 +146,7 @@ $pie_data               = json_decode($pie_text, true, 512, JSON_INVALID_UTF8_SU
             $(document).ready(function() {
 <?php if($NOBODY_CARES == false) { ?>
                 fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                addClass('fundme-div','fade');
                 showDiv('fundme-div');
 <?php } ?>
                 $('#page-load-time').html(timeSpent);

@@ -365,7 +365,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
             var timeSpent;
             var backgroundTimer;
             var fundmeTimer;
-            var autoFundmeTime = 1000 * 15;
+            var autoFundmeTime = 1000 * 20;
 
             function toggleLight(divID) {
                 element = document.getElementById(divID);
@@ -393,6 +393,7 @@ $speedtest_avg = json_decode($speedtest_avg_text, true, 512, JSON_INVALID_UTF8_S
             $(document).ready(function() {
 <?php if($NOBODY_CARES == false) { ?>
                 fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                addClass('fundme-div','fade');
                 showDiv('fundme-div');
 <?php } ?>
                 hideDiv('uptime');

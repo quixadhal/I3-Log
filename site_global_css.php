@@ -107,6 +107,23 @@ a:active, a:focus {
     max-width: 200;
     flex: 1;
 }
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+    }
+    5% {
+        opacity: 1;
+    }
+    80% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+.fade {
+    animation: fadeInOut 20s;
+}
 #fundme-div {
     display: none;
 }

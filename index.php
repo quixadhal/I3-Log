@@ -133,7 +133,7 @@ if(array_key_exists('nsfw', $_GET)) {
             var DoExtraAjax = <?php echo $do_extra_ajax; ?>;
             var SearchTerm = "<?php echo $the_search_term; ?>";
             var fundmeTimer;
-            var autoFundmeTime = 1000 * 15;
+            var autoFundmeTime = 1000 * 20;
 
             function on_scroll() {
                 var body = document.body;
@@ -542,6 +542,7 @@ if(array_key_exists('nsfw', $_GET)) {
                 CountdownTimer = setTimeout(updateProcessingTime, 100);
 <?php if($NOBODY_CARES == false) { ?>
                 fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                addClass('fundme-div','fade');
                 showDiv('fundme-div');
 <?php } ?>
                 hideDiv('page-source');
