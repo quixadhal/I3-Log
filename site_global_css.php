@@ -111,7 +111,7 @@ a:active, a:focus {
     0% {
         opacity: 0;
     }
-    5% {
+    10% {
         opacity: 1;
     }
     80% {
