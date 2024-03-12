@@ -1,1 +1,1 @@
-{"ipaddress":"104.248.122.65","name":"Erion MUD","login":1,"geoip":{"country_name":"United States","country_code":"US","ip":"104.248.122.65","longitude":-74.0247,"city":"North Bergen","latitude":40.793,"region_name":"NJ"}}
+{"geoip":{"latitude":40.793,"longitude":-74.0247,"country_code":"US","region_name":"NJ","country_name":"United States","ip":"104.248.122.65","city":"North Bergen"},"login":1,"name":"Erion MUD","ipaddress":"104.248.122.65"}

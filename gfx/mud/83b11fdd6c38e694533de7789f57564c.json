@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","country_code":"US","latitude":41.0909,"city":"Fort Wayne","longitude":-85.1605,"ip":"96.66.144.116","region_name":"IN"},"login":1,"ipaddress":"96.66.144.116","name":"NothingsMUD"}
+{"name":"NothingsMUD","login":1,"ipaddress":"96.66.144.116","geoip":{"ip":"96.66.144.116","longitude":-85.1605,"region_name":"IN","country_name":"United States","country_code":"US","latitude":41.0909,"city":"Fort Wayne"}}

@@ -1,1 +1,1 @@
-{"login":1,"name":"Arx: After the Reckoning","ipaddress":"45.33.87.194","geoip":{"region_name":"NJ","longitude":-74.4592,"city":"Cedar Knolls","ip":"45.33.87.194","latitude":40.8229,"country_code":"US","country_name":"United States"}}
+{"name":"Arx: After the Reckoning","geoip":{"city":"Cedar Knolls","ip":"45.33.87.194","country_code":"US","country_name":"United States","region_name":"NJ","longitude":-74.4592,"latitude":40.8229},"login":1,"ipaddress":"45.33.87.194"}

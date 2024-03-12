@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","country_name":"United States","region_name":"PA","latitude":42.0753,"longitude":-80.0671,"ip":"174.104.40.197","city":"Erie"},"ipaddress":"174.104.40.197","name":"Fever Dreams","login":0}
+{"login":0,"ipaddress":"174.104.40.197","geoip":{"city":"Erie","country_code":"US","latitude":42.0753,"country_name":"United States","region_name":"PA","ip":"174.104.40.197","longitude":-80.0671},"name":"Fever Dreams"}

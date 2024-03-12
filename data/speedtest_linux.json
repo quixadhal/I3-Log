@@ -1,41 +1,41 @@
 {
     "type": "result",
-    "timestamp": "2024-02-29T00:10:16Z",
+    "timestamp": "2024-03-11T23:10:14Z",
     "ping": {
-        "jitter": 0.034,
-        "latency": 1.961,
-        "low": 1.923,
-        "high": 1.992
+        "jitter": 0.185,
+        "latency": 2.045,
+        "low": 1.984,
+        "high": 2.311
     },
     "download": {
-        "bandwidth": 81169859,
-        "bytes": 634043424,
-        "elapsed": 7910,
+        "bandwidth": 82390170,
+        "bytes": 305856180,
+        "elapsed": 3712,
         "latency": {
-            "iqm": 6.127,
-            "low": 2.095,
-            "high": 10.180,
-            "jitter": 0.845
+            "iqm": 5.978,
+            "low": 2.182,
+            "high": 8.706,
+            "jitter": 0.832
         }
     },
     "upload": {
-        "bandwidth": 73436397,
-        "bytes": 309779492,
-        "elapsed": 4214,
+        "bandwidth": 76655981,
+        "bytes": 482331367,
+        "elapsed": 6314,
         "latency": {
-            "iqm": 7.421,
-            "low": 3.359,
-            "high": 10.594,
-            "jitter": 1.135
+            "iqm": 7.137,
+            "low": 2.364,
+            "high": 9.586,
+            "jitter": 0.859
         }
     },
     "isp": "Condointernet.net",
     "interface": {
-        "internalIp": "2604:4080:1018:81a0:a00:27ff:fec1:6fd8",
+        "internalIp": "2604:4080:1018:81a0:a67:4725:1f00:8332",
         "name": "enp0s3",
         "macAddr": "08:00:27:C1:6F:D8",
         "isVpn": false,
-        "externalIp": "2604:4080:1018:81a0:a00:27ff:fec1:6fd8"
+        "externalIp": "2604:4080:1018:81a0:a67:4725:1f00:8332"
     },
     "server": {
         "id": 1782,
@@ -47,8 +47,8 @@
         "ip": "2001:558:fe34:22::2"
     },
     "result": {
-        "id": "37240114-2e8f-495b-b639-ec6e8e9e0a1c",
-        "url": "https://www.speedtest.net/result/c/37240114-2e8f-495b-b639-ec6e8e9e0a1c",
+        "id": "cede6ffb-e770-4a87-93f0-f99d7d41f0a1",
+        "url": "https://www.speedtest.net/result/c/cede6ffb-e770-4a87-93f0-f99d7d41f0a1",
         "persisted": true
     }
 }

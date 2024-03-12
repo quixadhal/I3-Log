@@ -1,1 +1,1 @@
-{"ipaddress":"51.161.59.12","name":"Elessar Mush","login":1,"geoip":{"country_name":"Canada","country_code":"CA","latitude":43.6319,"longitude":-79.3716,"ip":"51.161.59.12","city":"","region_name":""}}
+{"ipaddress":"51.161.59.12","name":"Elessar Mush","geoip":{"country_name":"Canada","region_name":"","country_code":"CA","latitude":43.6319,"longitude":-79.3716,"city":"","ip":"51.161.59.12"},"login":1}

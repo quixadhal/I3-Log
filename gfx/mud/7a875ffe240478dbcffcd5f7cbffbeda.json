@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","country_code":"US","ip":"24.18.14.120","longitude":-122.2031,"city":"Everett","latitude":47.8948,"region_name":"WA"},"login":0,"ipaddress":"24.18.14.120","name":"FOR_NOW"}
+{"ipaddress":"24.18.14.120","geoip":{"city":"Everett","ip":"24.18.14.120","country_code":"US","country_name":"United States","region_name":"WA","longitude":-122.2031,"latitude":47.8948},"login":0,"name":"FOR_NOW"}

@@ -1,1 +1,1 @@
-{"login":0,"ipaddress":"209.139.208.64","name":"SlothMUD","geoip":{"latitude":43.6319,"city":"","longitude":-79.3716,"ip":"209.139.208.64","region_name":"","country_name":"Canada","country_code":"CA"}}
+{"geoip":{"country_code":"CA","region_name":"","country_name":"Canada","latitude":43.6319,"longitude":-79.3716,"city":"","ip":"209.139.208.64"},"login":0,"name":"SlothMUD","ipaddress":"209.139.208.64"}

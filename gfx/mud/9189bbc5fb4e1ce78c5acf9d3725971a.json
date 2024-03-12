@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United Kingdom","country_code":"GB","latitude":52.323,"city":"Redditch","longitude":-1.8952,"ip":"82.38.155.209","region_name":"ENG"},"ipaddress":"82.38.155.209","name":"Discworld_wodan","login":0}
+{"login":0,"ipaddress":"82.38.155.209","geoip":{"latitude":52.323,"country_code":"GB","city":"Redditch","country_name":"United Kingdom","longitude":-1.8952,"ip":"82.38.155.209","region_name":"ENG"},"name":"Discworld_wodan"}

@@ -1,1 +1,1 @@
-{"ipaddress":"95.85.50.124","name":"Abandoned Codex","login":1,"geoip":{"city":"Amsterdam","longitude":4.9479,"ip":"95.85.50.124","latitude":52.3006,"region_name":"NH","country_name":"Netherlands","country_code":"NL"}}
+{"name":"Abandoned Codex","login":1,"geoip":{"ip":"95.85.50.124","city":"Amsterdam","longitude":4.9479,"latitude":52.3006,"country_name":"Netherlands","region_name":"NH","country_code":"NL"},"ipaddress":"95.85.50.124"}

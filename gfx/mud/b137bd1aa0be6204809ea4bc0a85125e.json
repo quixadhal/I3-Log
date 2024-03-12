@@ -1,1 +1,1 @@
-{"login":0,"name":"6Dragons","ipaddress":"198.44.140.220","geoip":{"country_name":"Canada","country_code":"CA","ip":"198.44.140.220","longitude":-79.3892,"city":"Toronto","latitude":43.6227,"region_name":"ON"}}
+{"name":"6Dragons","geoip":{"region_name":"ON","longitude":-79.3892,"ip":"198.44.140.220","city":"Toronto","latitude":43.6227,"country_code":"CA","country_name":"Canada"},"login":0,"ipaddress":"198.44.140.220"}

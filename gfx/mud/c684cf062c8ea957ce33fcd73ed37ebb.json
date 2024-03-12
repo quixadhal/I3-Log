@@ -1,1 +1,1 @@
-{"ipaddress":"3.143.128.195","name":"Cleft of Dimensions","login":1,"geoip":{"country_code":"US","country_name":"United States","region_name":"OH","ip":"3.143.128.195","longitude":-83.0061,"city":"Columbus","latitude":39.9625}}
+{"login":1,"geoip":{"longitude":-83.0061,"latitude":39.9625,"region_name":"OH","country_name":"United States","country_code":"US","ip":"3.143.128.195","city":"Columbus"},"name":"Cleft of Dimensions","ipaddress":"3.143.128.195"}

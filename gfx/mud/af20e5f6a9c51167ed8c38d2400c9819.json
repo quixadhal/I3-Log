@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","country_code":"US","latitude":37.3931,"ip":"161.35.235.80","longitude":-121.962,"city":"Santa Clara","region_name":"CA"},"name":"Aarchon MUD","ipaddress":"161.35.235.80","login":1}
+{"ipaddress":"161.35.235.80","name":"Aarchon MUD","geoip":{"city":"Santa Clara","ip":"161.35.235.80","region_name":"CA","country_name":"United States","country_code":"US","longitude":-121.962,"latitude":37.3931},"login":1}

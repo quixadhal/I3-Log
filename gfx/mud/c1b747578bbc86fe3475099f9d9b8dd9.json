@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"PA","longitude":-79.9856,"ip":"74.109.222.19","city":"Pittsburgh","latitude":40.4064,"country_code":"US","country_name":"United States"},"login":0,"name":"Lima FluffOS Win32","ipaddress":"74.109.222.19"}
+{"login":0,"geoip":{"city":"Pittsburgh","latitude":40.4064,"country_code":"US","country_name":"United States","region_name":"PA","longitude":-79.9856,"ip":"74.109.222.19"},"ipaddress":"74.109.222.19","name":"Lima FluffOS Win32"}

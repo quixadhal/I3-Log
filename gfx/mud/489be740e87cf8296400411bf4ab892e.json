@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"MX","country_name":"Mexico","region_name":"GUA","longitude":-101.6026,"ip":"189.162.193.85","city":"León","latitude":21.0827},"login":0,"ipaddress":"189.162.193.85","name":"GurbaLib-Rlyeh"}
+{"login":0,"ipaddress":"189.162.193.85","geoip":{"city":"León","country_code":"MX","latitude":21.0827,"country_name":"Mexico","region_name":"GUA","ip":"189.162.193.85","longitude":-101.6026},"name":"GurbaLib-Rlyeh"}

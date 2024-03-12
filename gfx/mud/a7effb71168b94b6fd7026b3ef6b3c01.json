@@ -1,1 +1,1 @@
-{"login":1,"name":"Final Realms","ipaddress":"178.164.15.6","geoip":{"country_name":"Norway","country_code":"NO","longitude":12.3113,"city":"Hoylandet","ip":"178.164.15.6","latitude":64.6288,"region_name":"50"}}
+{"login":1,"geoip":{"city":"Hoylandet","ip":"178.164.15.6","region_name":"50","country_name":"Norway","country_code":"NO","latitude":64.6288,"longitude":12.3113},"name":"Final Realms","ipaddress":"178.164.15.6"}

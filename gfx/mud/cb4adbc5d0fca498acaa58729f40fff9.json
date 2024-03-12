@@ -1,1 +1,1 @@
-{"login":0,"name":"The World","ipaddress":"76.32.107.116","geoip":{"region_name":"CA","longitude":-118.3324,"ip":"76.32.107.116","city":"Los Angeles","latitude":34.0511,"country_code":"US","country_name":"United States"}}
+{"name":"The World","geoip":{"country_name":"United States","latitude":34.0511,"country_code":"US","city":"Los Angeles","longitude":-118.3324,"ip":"76.32.107.116","region_name":"CA"},"login":0,"ipaddress":"76.32.107.116"}

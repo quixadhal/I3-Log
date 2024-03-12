@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"18","latitude":60.1719,"longitude":24.9347,"city":"Helsinki","ip":"95.216.243.162","country_code":"FI","country_name":"Finland"},"ipaddress":"95.216.243.162","name":"Icesus64","login":1}
+{"geoip":{"ip":"95.216.243.162","city":"Helsinki","longitude":24.9347,"latitude":60.1719,"country_code":"FI","region_name":"18","country_name":"Finland"},"login":1,"name":"Icesus64","ipaddress":"95.216.243.162"}

@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"11","latitude":38.7373,"city":"Lisbon","longitude":-9.1945,"ip":"88.210.73.164","country_code":"PT","country_name":"Portugal"},"name":"Iberia","ipaddress":"88.210.73.164","login":1}
+{"ipaddress":"88.210.73.164","geoip":{"ip":"88.210.73.164","city":"Lisbon","longitude":-9.1945,"latitude":38.7373,"region_name":"11","country_name":"Portugal","country_code":"PT"},"login":1,"name":"Iberia"}

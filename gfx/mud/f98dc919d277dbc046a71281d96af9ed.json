@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"ENG","latitude":51.5088,"ip":"178.79.173.99","longitude":-0.093,"city":"London","country_code":"GB","country_name":"United Kingdom"},"login":0,"ipaddress":"178.79.173.99","name":"CoTN4.0"}
+{"ipaddress":"178.79.173.99","geoip":{"latitude":51.5088,"longitude":-0.093,"country_code":"GB","region_name":"ENG","country_name":"United Kingdom","ip":"178.79.173.99","city":"London"},"login":0,"name":"CoTN4.0"}

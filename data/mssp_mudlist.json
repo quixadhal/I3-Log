@@ -233,9 +233,9 @@
       {
          "from_mssp" : 1,
          "ipaddress" : "99.88.247.49",
-         "md5" : "c13bf593842773affe0ed7e58a5432f2",
+         "md5" : "d41d8cd98f00b204e9800998ecf8427e",
          "mudlib" : "CoffeeMUD v5.10.3",
-         "name" : "134 MUDs",
+         "name" : "",
          "online" : 0,
          "port" : "2329",
          "type" : "CoffeeMUD"
@@ -294,7 +294,7 @@
          "from_mssp" : 1,
          "ipaddress" : "107.170.45.104",
          "md5" : "5875098eb59b3665fab3de6e30b5085c",
-         "mudlib" : "PennMUSH 1.8.6p2",
+         "mudlib" : "PennMUSH 1.8.8p0",
          "name" : "Dream Chasers",
          "online" : 0,
          "port" : 4767,
@@ -313,9 +313,9 @@
       {
          "from_mssp" : 1,
          "ipaddress" : "217.155.36.23",
-         "md5" : "c13bf593842773affe0ed7e58a5432f2",
-         "mudlib" : "EoM 4.18.8",
-         "name" : "134 MUDs",
+         "md5" : "d41d8cd98f00b204e9800998ecf8427e",
+         "mudlib" : "EoM 4.19",
+         "name" : "",
          "online" : 0,
          "port" : 8010,
          "type" : "CoffeeMUD"
@@ -344,7 +344,7 @@
          "from_mssp" : 1,
          "ipaddress" : "63.142.253.253",
          "md5" : "0824a782b7baf6955c0ffd7e557aa31b",
-         "mudlib" : "EmpireMUD 2.0 beta 5.174",
+         "mudlib" : "EmpireMUD 2.0 beta 5.179",
          "name" : "EmpireMUD",
          "online" : 0,
          "port" : 4000,
@@ -452,16 +452,6 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "74.219.230.98",
-         "md5" : "370d51e7f597ad3bc0d8a1f1a976e4cd",
-         "mudlib" : "JediMUD",
-         "name" : "JediMUD",
-         "online" : 0,
-         "port" : 4000,
-         "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "66.228.58.232",
          "md5" : "42d95ad530242544a9da75b42e308de8",
          "mudlib" : "PennMUSH 1.8.8p0",
@@ -504,7 +494,7 @@
          "from_mssp" : 1,
          "ipaddress" : "70.226.30.1",
          "md5" : "9b61e5f8598c3a3c420de51457e0c9e3",
-         "mudlib" : "LastOutpost 4.25",
+         "mudlib" : "LastOutpost 4.28",
          "name" : "The Last Outpost",
          "online" : 0,
          "port" : 4000,
@@ -642,7 +632,7 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "184.145.164.221",
+         "ipaddress" : "184.145.208.28",
          "md5" : "ef2151b9735cb2063c37e987893d5830",
          "mudlib" : "FluffOS",
          "name" : "Accursed-Lands",
@@ -713,16 +703,6 @@
       {
          "from_mssp" : 1,
          "ipaddress" : "170.103.86.127",
-         "md5" : "c7f309a9f8a9416061fabb82959dba94",
-         "mudlib" : "GodWars Deluxe",
-         "name" : "GodWars: Genesis",
-         "online" : 0,
-         "port" : 5321,
-         "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "170.103.86.127",
          "md5" : "e8f7b1f061cef4353f5a893242543d1e",
          "mudlib" : "Smaug 1.4a",
          "name" : "Dragonball Z: The New World",
@@ -782,16 +762,6 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "104.244.72.60",
-         "md5" : "30151bdc86ef1e89d47419d2d796308f",
-         "mudlib" : "PennMUSH 1.8.8p0",
-         "name" : "Cosmic Cuttlefish",
-         "online" : 0,
-         "port" : 8178,
-         "type" : "TinyMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "52.206.44.215",
          "md5" : "897161c068daf8e8216625c697147880",
          "mudlib" : "PennMUSH 1.8.8p0",
@@ -842,6 +812,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "207.162.200.121",
+         "md5" : "2378865ed5c632b3df4095159c0e5e64",
+         "mudlib" : "",
+         "name" : "Nanvaent",
+         "online" : 0,
+         "port" : 23,
+         "type" : ""
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "173.255.201.173",
          "md5" : "3de95e239def5d190d48e38c3867c9fe",
          "mudlib" : "",
@@ -889,16 +869,6 @@
          "online" : 0,
          "port" : 3000,
          "type" : "Custom"
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "52.2.244.77",
-         "md5" : "43278651215b092116db68bfb5e55448",
-         "mudlib" : "PennMUSH 1.8.5p6",
-         "name" : "Star Wars: Omens MUSH",
-         "online" : 0,
-         "port" : 7827,
-         "type" : "TinyMUD"
       },
       {
          "from_mssp" : 1,

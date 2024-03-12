@@ -1,1 +1,1 @@
-{"login":0,"name":"Rebirth","ipaddress":"140.225.68.5","geoip":{"longitude":-93.1545,"city":"Saint Paul","ip":"140.225.68.5","latitude":45.0139,"region_name":"MN","country_name":"United States","country_code":"US"}}
+{"name":"Rebirth","login":0,"geoip":{"region_name":"MN","longitude":-93.1545,"ip":"140.225.68.5","city":"Saint Paul","latitude":45.0139,"country_code":"US","country_name":"United States"},"ipaddress":"140.225.68.5"}

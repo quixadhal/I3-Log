@@ -1,1 +1,1 @@
-{"ipaddress":"173.17.69.98","name":"Evermud","login":0,"geoip":{"region_name":"IL","latitude":40.3072,"city":"Rantoul","longitude":-88.1445,"ip":"173.17.69.98","country_code":"US","country_name":"United States"}}
+{"name":"Evermud","ipaddress":"173.17.69.98","login":0,"geoip":{"city":"Rantoul","country_code":"US","latitude":40.3072,"country_name":"United States","region_name":"IL","ip":"173.17.69.98","longitude":-88.1445}}

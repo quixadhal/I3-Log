@@ -1,1 +1,1 @@
-{"ipaddress":"174.104.40.197","name":"Nameless","login":0,"geoip":{"latitude":42.0753,"longitude":-80.0671,"city":"Erie","ip":"174.104.40.197","region_name":"PA","country_name":"United States","country_code":"US"}}
+{"login":0,"geoip":{"latitude":42.0753,"country_code":"US","city":"Erie","country_name":"United States","longitude":-80.0671,"ip":"174.104.40.197","region_name":"PA"},"ipaddress":"174.104.40.197","name":"Nameless"}

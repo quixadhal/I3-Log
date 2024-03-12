@@ -1,1 +1,1 @@
-{"login":1,"ipaddress":"136.144.155.250","name":"Way of the Force","geoip":{"region_name":"NH","latitude":52.364,"longitude":4.8913,"city":"Amsterdam","ip":"136.144.155.250","country_code":"NL","country_name":"Netherlands"}}
+{"name":"Way of the Force","login":1,"geoip":{"ip":"136.144.155.250","city":"Amsterdam","latitude":52.364,"longitude":4.8913,"country_code":"NL","region_name":"NH","country_name":"Netherlands"},"ipaddress":"136.144.155.250"}

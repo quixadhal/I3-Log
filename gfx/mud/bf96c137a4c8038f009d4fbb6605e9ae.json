@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United Kingdom","country_code":"GB","latitude":51.5088,"ip":"178.79.173.99","longitude":-0.093,"city":"London","region_name":"ENG"},"login":0,"name":"GodWars: Apocalypse","ipaddress":"178.79.173.99"}
+{"name":"GodWars: Apocalypse","geoip":{"city":"London","ip":"178.79.173.99","region_name":"ENG","country_name":"United Kingdom","country_code":"GB","longitude":-0.093,"latitude":51.5088},"login":0,"ipaddress":"178.79.173.99"}

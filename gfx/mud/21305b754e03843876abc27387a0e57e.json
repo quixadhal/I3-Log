@@ -1,1 +1,1 @@
-{"name":"Warlock","ipaddress":"95.160.34.46","login":1,"geoip":{"country_name":"Poland","country_code":"PL","latitude":52.2296,"longitude":21.0067,"ip":"95.160.34.46","city":"Warsaw","region_name":"14"}}
+{"name":"Warlock","login":1,"geoip":{"city":"Warsaw","ip":"95.160.34.46","country_code":"PL","region_name":"14","country_name":"Poland","latitude":52.2296,"longitude":21.0067},"ipaddress":"95.160.34.46"}

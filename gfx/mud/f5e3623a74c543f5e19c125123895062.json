@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","country_name":"United States","region_name":"","city":"","longitude":-97.822,"ip":"185.52.3.213","latitude":37.751},"name":"GenericMUD","ipaddress":"185.52.3.213","login":0}
+{"geoip":{"region_name":"","longitude":-97.822,"ip":"185.52.3.213","city":"","latitude":37.751,"country_code":"US","country_name":"United States"},"login":0,"ipaddress":"185.52.3.213","name":"GenericMUD"}

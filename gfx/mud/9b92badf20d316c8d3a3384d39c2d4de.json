@@ -1,1 +1,1 @@
-{"ipaddress":"45.77.103.210","name":"Storm Hunters","login":1,"geoip":{"country_name":"United States","country_code":"US","latitude":40.5511,"ip":"45.77.103.210","longitude":-74.4606,"city":"Piscataway","region_name":"NJ"}}
+{"name":"Storm Hunters","login":1,"geoip":{"ip":"45.77.103.210","city":"Piscataway","latitude":40.5511,"longitude":-74.4606,"country_code":"US","region_name":"NJ","country_name":"United States"},"ipaddress":"45.77.103.210"}

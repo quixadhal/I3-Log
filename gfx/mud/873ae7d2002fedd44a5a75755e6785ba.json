@@ -1,1 +1,1 @@
-{"name":"-Djava.awt.headless=true","ipaddress":"90.190.98.51","geoip":{"country_name":"Estonia","latitude":59.4396,"country_code":"EE","region_name":"37","ip":"90.190.98.51","longitude":24.5068,"city":"Rannamõisa"},"login":0}
+{"ipaddress":"90.190.98.51","name":"-Djava.awt.headless=true","login":0,"geoip":{"ip":"90.190.98.51","city":"Tallinn","latitude":59.4381,"longitude":24.7369,"region_name":"37","country_name":"Estonia","country_code":"EE"}}

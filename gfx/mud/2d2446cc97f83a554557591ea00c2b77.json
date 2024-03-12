@@ -1,1 +1,1 @@
-{"login":0,"ipaddress":"2.56.191.77","name":"TestMud","geoip":{"country_name":"United States","country_code":"US","latitude":32.7908,"longitude":-96.8336,"city":"Dallas","ip":"2.56.191.77","region_name":"TX"}}
+{"name":"TestMud","login":0,"geoip":{"country_name":"United States","city":"Dallas","latitude":32.7908,"country_code":"US","region_name":"TX","longitude":-96.8336,"ip":"2.56.191.77"},"ipaddress":"2.56.191.77"}

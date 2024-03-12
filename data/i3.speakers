@@ -1,5 +1,5 @@
 #COUNT
-Count   3294
+Count   3307
 End
 
 #SPEAKER
@@ -2913,6 +2913,16 @@ Color   %^MAGENTA%^
 End
 
 #SPEAKER
+Name    christophe
+Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    christophe (neonmoo in gv)
+Color   %^BLACK%^%^B_GREEN%^
+End
+
+#SPEAKER
 Name    chrnos
 Color   %^MAGENTA%^
 End
@@ -3335,6 +3345,16 @@ End
 #SPEAKER
 Name    cyberbob
 Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    cyberpunker
+Color   %^YELLOW%^
+End
+
+#SPEAKER
+Name    cyberpunker (sindome in gv)
+Color   %^BLACK%^%^B_WHITE%^
 End
 
 #SPEAKER
@@ -4540,6 +4560,16 @@ End
 #SPEAKER
 Name    egfmghdjn
 Color   %^GREEN%^
+End
+
+#SPEAKER
+Name    eggsaresides
+Color   %^BLUE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    eggsaresides (sindome in gv)
+Color   %^MAGENTA%^
 End
 
 #SPEAKER
@@ -9108,6 +9138,16 @@ Color   %^WHITE%^%^B_RED%^
 End
 
 #SPEAKER
+Name    majere_draven
+Color   %^RED%^%^BOLD%^
+End
+
+#SPEAKER
+Name    majere_draven (sindome in gv)
+Color   %^BLACK%^%^BOLD%^
+End
+
+#SPEAKER
 Name    majin
 Color   %^WHITE%^
 End
@@ -9925,6 +9965,16 @@ End
 #SPEAKER
 Name    morris the moose (mongoose in gv)
 Color   %^WHITE%^%^BOLD%^
+End
+
+#SPEAKER
+Name    morris the mousse
+Color   %^MAGENTA%^%^BOLD%^
+End
+
+#SPEAKER
+Name    morris the mousse (mongoose in gv)
+Color   %^ORANGE%^
 End
 
 #SPEAKER
@@ -10795,6 +10845,11 @@ End
 #SPEAKER
 Name    omega
 Color   %^WHITE%^
+End
+
+#SPEAKER
+Name    ominous
+Color   %^CYAN%^%^BOLD%^
 End
 
 #SPEAKER
@@ -13395,6 +13450,16 @@ End
 #SPEAKER
 Name    sothis
 Color   %^BLACK%^%^B_RED%^
+End
+
+#SPEAKER
+Name    soultune
+Color   %^GREEN%^%^BOLD%^
+End
+
+#SPEAKER
+Name    soultune (sindome in gv)
+Color   %^RED%^
 End
 
 #SPEAKER

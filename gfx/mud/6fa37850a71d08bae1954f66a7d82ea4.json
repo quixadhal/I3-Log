@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-105.1897,"city":"Golden","ip":"50.214.28.50","latitude":39.7291,"region_name":"CO","country_name":"United States","country_code":"US"},"name":"Furryfaire","ipaddress":"50.214.28.50","login":1}
+{"login":1,"geoip":{"latitude":39.7291,"longitude":-105.1897,"country_code":"US","region_name":"CO","country_name":"United States","ip":"50.214.28.50","city":"Golden"},"name":"Furryfaire","ipaddress":"50.214.28.50"}

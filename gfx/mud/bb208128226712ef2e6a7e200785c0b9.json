@@ -1,1 +1,1 @@
-{"name":"Colony Test","ipaddress":"199.212.41.25","geoip":{"city":"Calgary","ip":"199.212.41.25","longitude":-114.1102,"region_name":"AB","country_name":"Canada","latitude":51.0605,"country_code":"CA"},"login":0}
+{"ipaddress":"199.212.41.25","name":"Colony Test","login":0,"geoip":{"country_code":"CA","country_name":"Canada","region_name":"","latitude":43.6319,"longitude":-79.3716,"city":"","ip":"199.212.41.25"}}

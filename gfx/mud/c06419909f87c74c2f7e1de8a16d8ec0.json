@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"NJ","latitude":40.5511,"longitude":-74.4606,"ip":"144.202.4.16","city":"Piscataway","country_code":"US","country_name":"United States"},"ipaddress":"144.202.4.16","name":"CrestFall","login":1}
+{"ipaddress":"144.202.4.16","login":1,"geoip":{"region_name":"NJ","country_name":"United States","country_code":"US","latitude":40.5511,"longitude":-74.4606,"city":"Piscataway","ip":"144.202.4.16"},"name":"CrestFall"}

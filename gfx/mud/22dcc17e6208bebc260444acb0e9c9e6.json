@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"62","latitude":41.8904,"longitude":12.5126,"city":"Rome","ip":"77.43.79.186","country_code":"IT","country_name":"Italy"},"login":1,"name":"Lumen et Umbra","ipaddress":"77.43.79.186"}
+{"ipaddress":"77.43.79.186","geoip":{"longitude":12.5126,"latitude":41.8904,"country_code":"IT","country_name":"Italy","region_name":"62","ip":"77.43.79.186","city":"Rome"},"login":1,"name":"Lumen et Umbra"}

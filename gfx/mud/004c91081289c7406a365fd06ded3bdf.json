@@ -1,1 +1,1 @@
-{"geoip":{"latitude":48.8538,"longitude":2.5616,"city":"Noisy-le-Grand","ip":"176.183.222.248","region_name":"IDF","country_name":"France","country_code":"FR"},"login":0,"ipaddress":"176.183.222.248","name":"My test mud"}
+{"name":"My test mud","login":0,"geoip":{"region_name":"IDF","longitude":2.5616,"ip":"176.183.222.248","country_name":"France","city":"Noisy-le-Grand","latitude":48.8538,"country_code":"FR"},"ipaddress":"176.183.222.248"}

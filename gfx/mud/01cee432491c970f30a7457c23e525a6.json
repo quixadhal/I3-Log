@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","country_name":"United States","region_name":"NJ","latitude":40.8229,"city":"Cedar Knolls","longitude":-74.4592,"ip":"50.116.58.24"},"login":1,"name":"Avatar MUD","ipaddress":"50.116.58.24"}
+{"ipaddress":"50.116.58.24","name":"Avatar MUD","login":1,"geoip":{"ip":"50.116.58.24","city":"Cedar Knolls","longitude":-74.4592,"latitude":40.8229,"region_name":"NJ","country_name":"United States","country_code":"US"}}

@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","country_code":"US","longitude":-122.0004,"ip":"198.74.51.182","city":"Fremont","latitude":37.5625,"region_name":"CA"},"name":"BRUINmud","ipaddress":"198.74.51.182","login":1}
+{"ipaddress":"198.74.51.182","name":"BRUINmud","login":1,"geoip":{"city":"Fremont","ip":"198.74.51.182","country_code":"US","country_name":"United States","region_name":"CA","longitude":-122.0004,"latitude":37.5625}}
