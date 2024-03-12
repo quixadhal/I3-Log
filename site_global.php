@@ -144,9 +144,10 @@ $VISITOR_IP                 = $_SERVER['REMOTE_ADDR'];
 
 $DOWNLOAD_URL               = "$URL_HOME/data/i3log.sql.xz";
 
-$NOBODY_CARES               = true;
+$NOBODY_CARES               = false;
 $FUNDME_CLASS               = "gfm-embed sticky-corner";
-$FUNDME_DATA_URL            = "https://www.gofundme.com/f/wds6br-please-help-me-save-my-cats/widget/large";
+$FUNDME_DATA_URL            = "https://www.gofundme.com/f/the-intermud-log-page/widget/large";
 $FUNDME_SRC_URL             = "https://www.gofundme.com/static/js/embed.js";
+// https://gofund.me/8ac3cf9d
 
 ?>
