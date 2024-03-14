@@ -143,3 +143,14 @@ function hideFundme() {
     clearTimeout(fundmeTimer);
     hideDiv('fundme-div');
 }
+function reshowFundme() {
+    clearTimeout(fundmeAgainTimer);
+    fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+    fundmeAgainTimer = setTimeout(reshowFundme, autoFundmeTime * 6);
+    showDiv('fundme-div');
+    var fd = document.getElementById('fundme-div');
+    fd.style.animation = 'none';
+    fd.offsetHeight;
+    fd.style.animation = null;
+}
+

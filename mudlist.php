@@ -45,6 +45,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
             var timeSpent;
             var backgroundTimer;
             var fundmeTimer;
+            var fundmeAgainTimer;
             var autoFundmeTime = 1000 * 20;
 
             history.scrollRestoration = "manual";
@@ -105,6 +106,7 @@ $MUDLIST_CSS        = "$URL_HOME/mudlist_css.php?version=$MUDLIST_TIME";
             $(document).ready(function() {
 <?php if($NOBODY_CARES == false) { ?>
                 fundmeTimer = setTimeout(hideFundme, autoFundmeTime);
+                fundmeAgainTimer = setTimeout(reshowFundme, autoFundmeTime * 6);
                 addClass('fundme-div','fade');
                 showDiv('fundme-div');
 <?php } ?>
