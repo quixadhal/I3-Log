@@ -1,1 +1,1 @@
-{"name":"MUME - Multi-Users in Middle-earth","login":1,"geoip":{"longitude":6.517,"latitude":46.53,"region_name":"VD","country_name":"Switzerland","country_code":"CH","ip":"193.134.218.98","city":"Lonay"},"ipaddress":"193.134.218.98"}
+{"geoip":{"country_name":"Switzerland","country_code":"CH","city":"Lonay","ip":"193.134.218.98","latitude":46.53,"region_name":"VD","longitude":6.517},"name":"MUME - Multi-Users in Middle-earth","login":1,"ipaddress":"193.134.218.98"}

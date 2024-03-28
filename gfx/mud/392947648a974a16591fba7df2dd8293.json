@@ -1,1 +1,1 @@
-{"ipaddress":"68.80.56.106","name":"The World of Pain","geoip":{"longitude":-75.1699,"latitude":39.981,"region_name":"PA","country_name":"United States","country_code":"US","ip":"68.80.56.106","city":"Philadelphia"},"login":1}
+{"ipaddress":"68.80.56.106","login":1,"name":"The World of Pain","geoip":{"ip":"68.80.56.106","country_name":"United States","country_code":"US","city":"Philadelphia","region_name":"PA","latitude":39.981,"longitude":-75.1699}}

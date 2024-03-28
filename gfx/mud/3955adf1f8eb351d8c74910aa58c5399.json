@@ -1,1 +1,1 @@
-{"name":"Colony Test Lib","geoip":{"city":"Airdrie","ip":"75.155.43.240","country_name":"Canada","region_name":"AB","country_code":"CA","longitude":-114.0394,"latitude":51.3062},"login":0,"ipaddress":"75.155.43.240"}
+{"geoip":{"region_name":"AB","latitude":51.3062,"longitude":-114.0394,"ip":"75.155.43.240","country_name":"Canada","city":"Airdrie","country_code":"CA"},"name":"Colony Test Lib","login":0,"ipaddress":"75.155.43.240"}

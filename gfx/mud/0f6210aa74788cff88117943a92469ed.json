@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"JP","country_name":"Japan","region_name":"","latitude":35.6897,"longitude":139.6895,"city":"","ip":"61.213.185.36"},"login":0,"name":"Dungeon Hunter","ipaddress":"61.213.185.36"}
+{"name":"Dungeon Hunter","ipaddress":"61.213.185.36","geoip":{"city":"","country_name":"Japan","region_name":"","latitude":35.6897,"ip":"61.213.185.36","country_code":"JP","longitude":139.6895},"login":0}

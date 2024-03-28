@@ -1,1 +1,1 @@
-{"ipaddress":"69.164.199.238","geoip":{"longitude":-96.7028,"latitude":32.9473,"country_name":"United States","region_name":"TX","country_code":"US","ip":"69.164.199.238","city":"Richardson"},"login":1,"name":"7thplane"}
+{"name":"7thplane","login":1,"geoip":{"ip":"69.164.199.238","country_name":"United States","country_code":"US","city":"Richardson","latitude":32.9473,"region_name":"TX","longitude":-96.7028},"ipaddress":"69.164.199.238"}

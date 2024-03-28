@@ -1,1 +1,1 @@
-{"ipaddress":"73.251.205.86","name":"Enon","login":0,"geoip":{"latitude":38.412,"longitude":-82.3698,"region_name":"WV","country_name":"United States","country_code":"US","ip":"73.251.205.86","city":"Huntington"}}
+{"login":0,"geoip":{"latitude":38.412,"city":"Huntington","country_name":"United States","region_name":"WV","longitude":-82.3698,"ip":"73.251.205.86","country_code":"US"},"ipaddress":"73.251.205.86","name":"Enon"}

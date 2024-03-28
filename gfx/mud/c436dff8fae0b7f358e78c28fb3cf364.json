@@ -1,1 +1,1 @@
-{"ipaddress":"213.162.73.36","login":0,"geoip":{"latitude":47.0949,"longitude":15.5751,"country_name":"Austria","region_name":"6","country_code":"AT","ip":"213.162.73.36","city":"Graz"},"name":"Frozen Zone"}
+{"ipaddress":"213.162.73.36","geoip":{"ip":"213.162.73.36","country_code":"AT","longitude":15.5751,"latitude":47.0949,"region_name":"6","city":"Graz","country_name":"Austria"},"login":0,"name":"Frozen Zone"}

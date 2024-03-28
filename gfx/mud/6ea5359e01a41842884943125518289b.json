@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"city":"Dallas","ip":"181.214.133.96","country_name":"United States","region_name":"TX","country_code":"US","latitude":32.8137,"longitude":-96.8704},"name":"Canvas","ipaddress":"181.214.133.96"}
+{"login":1,"name":"Canvas","geoip":{"country_name":"United States","city":"Dallas","country_code":"US","ip":"181.214.133.96","latitude":32.8137,"region_name":"TX","longitude":-96.8704},"ipaddress":"181.214.133.96"}

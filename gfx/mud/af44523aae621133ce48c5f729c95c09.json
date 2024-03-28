@@ -1,1 +1,1 @@
-{"ipaddress":"96.126.100.171","name":"The Beast Within: Resurrected","login":1,"geoip":{"country_code":"US","region_name":"CA","country_name":"United States","longitude":-122.0004,"latitude":37.5625,"city":"Fremont","ip":"96.126.100.171"}}
+{"ipaddress":"96.126.100.171","geoip":{"ip":"96.126.100.171","country_name":"United States","country_code":"US","city":"Fremont","region_name":"CA","latitude":37.5625,"longitude":-122.0004},"name":"The Beast Within: Resurrected","login":1}

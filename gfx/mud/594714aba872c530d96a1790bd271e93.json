@@ -1,1 +1,1 @@
-{"name":"EyeMUD","login":1,"geoip":{"latitude":40.8229,"longitude":-74.4592,"country_code":"US","region_name":"NJ","country_name":"United States","ip":"170.187.162.171","city":"Cedar Knolls"},"ipaddress":"170.187.162.171"}
+{"login":1,"name":"EyeMUD","geoip":{"country_code":"US","city":"Cedar Knolls","country_name":"United States","ip":"170.187.162.171","longitude":-74.4592,"region_name":"NJ","latitude":40.8229},"ipaddress":"170.187.162.171"}

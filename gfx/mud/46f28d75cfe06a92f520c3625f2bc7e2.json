@@ -1,1 +1,1 @@
-{"ipaddress":"198.12.67.250","name":"LooneyMUD","geoip":{"ip":"198.12.67.250","city":"","latitude":43.6319,"longitude":-79.3716,"country_name":"Canada","region_name":"","country_code":"CA"},"login":1}
+{"ipaddress":"198.12.67.250","geoip":{"ip":"198.12.67.250","country_name":"Canada","country_code":"CA","city":"","latitude":43.6319,"region_name":"","longitude":-79.3716},"login":1,"name":"LooneyMUD"}

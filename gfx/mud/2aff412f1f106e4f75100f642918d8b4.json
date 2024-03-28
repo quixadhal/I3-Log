@@ -1,1 +1,1 @@
-{"geoip":{"city":"Toronto","ip":"20.220.29.234","country_code":"CA","country_name":"Canada","region_name":"ON","latitude":43.709,"longitude":-79.4057},"login":0,"name":"ColonyTest","ipaddress":"20.220.29.234"}
+{"ipaddress":"20.220.29.234","login":0,"name":"ColonyTest","geoip":{"longitude":-79.4057,"region_name":"ON","latitude":43.709,"city":"Toronto","country_code":"CA","country_name":"Canada","ip":"20.220.29.234"}}

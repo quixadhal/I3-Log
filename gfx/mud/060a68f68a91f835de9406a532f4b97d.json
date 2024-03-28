@@ -1,1 +1,1 @@
-{"geoip":{"ip":"142.179.246.69","city":"Cold Lake","latitude":54.4465,"longitude":-110.2139,"country_code":"CA","region_name":"AB","country_name":"Canada"},"login":0,"name":"GuardianMUD","ipaddress":"142.179.246.69"}
+{"name":"GuardianMUD","login":0,"ipaddress":"142.179.246.69","geoip":{"latitude":54.4465,"city":"Cold Lake","country_name":"Canada","region_name":"AB","longitude":-110.2139,"country_code":"CA","ip":"142.179.246.69"}}

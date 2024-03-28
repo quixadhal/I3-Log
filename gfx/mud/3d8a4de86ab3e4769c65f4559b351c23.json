@@ -1,1 +1,1 @@
-{"ipaddress":"108.63.137.198","login":0,"geoip":{"ip":"108.63.137.198","longitude":-123.5313,"region_name":"BC","country_code":"CA","latitude":48.4771,"city":"Victoria","country_name":"Canada"},"name":"XRD"}
+{"ipaddress":"108.63.137.198","geoip":{"ip":"108.63.137.198","country_code":"CA","city":"Victoria","country_name":"Canada","longitude":-123.5313,"latitude":48.4771,"region_name":"BC"},"name":"XRD","login":0}

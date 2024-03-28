@@ -1,1 +1,1 @@
-{"ipaddress":"24.236.213.70","geoip":{"city":"Traverse City","ip":"24.236.213.70","country_code":"US","region_name":"MI","country_name":"United States","latitude":44.7603,"longitude":-85.618},"login":0,"name":"SlackMUD"}
+{"login":0,"geoip":{"country_code":"US","ip":"24.236.213.70","longitude":-85.618,"latitude":44.7603,"region_name":"MI","country_name":"United States","city":"Traverse City"},"ipaddress":"24.236.213.70","name":"SlackMUD"}

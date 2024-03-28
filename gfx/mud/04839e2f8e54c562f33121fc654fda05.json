@@ -1,1 +1,1 @@
-{"login":1,"geoip":{"latitude":52.364,"longitude":4.8913,"country_code":"NL","country_name":"Netherlands","region_name":"NH","ip":"136.144.155.250","city":"Amsterdam"},"name":"The Zone","ipaddress":"136.144.155.250"}
+{"geoip":{"ip":"136.144.155.250","country_name":"Netherlands","country_code":"NL","city":"Amsterdam","latitude":52.364,"region_name":"NH","longitude":4.8913},"login":1,"name":"The Zone","ipaddress":"136.144.155.250"}

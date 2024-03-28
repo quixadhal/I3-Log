@@ -1,1 +1,1 @@
-{"ipaddress":"199.212.41.25","name":"CypherCON","login":0,"geoip":{"city":"","ip":"199.212.41.25","region_name":"","country_name":"Canada","country_code":"CA","latitude":43.6319,"longitude":-79.3716}}
+{"geoip":{"ip":"199.212.41.25","country_code":"CA","longitude":-79.3716,"country_name":"Canada","city":"","region_name":"","latitude":43.6319},"ipaddress":"199.212.41.25","login":0,"name":"CypherCON"}

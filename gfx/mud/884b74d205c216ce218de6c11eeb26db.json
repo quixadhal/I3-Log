@@ -1,1 +1,1 @@
-{"ipaddress":"212.227.189.145","name":"ModMax","login":1,"geoip":{"ip":"212.227.189.145","city":"","latitude":51.2993,"longitude":9.491,"country_code":"DE","region_name":"","country_name":"Germany"}}
+{"ipaddress":"212.227.189.145","geoip":{"country_name":"Germany","city":"","country_code":"DE","ip":"212.227.189.145","latitude":51.2993,"region_name":"","longitude":9.491},"name":"ModMax","login":0}
