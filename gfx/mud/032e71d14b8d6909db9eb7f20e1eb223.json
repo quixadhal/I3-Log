@@ -1,1 +1,1 @@
-{"name":"Yourmudname","login":0,"geoip":{"longitude":-81.122,"region_name":"NC","latitude":35.2137,"ip":"104.139.54.11","city":"Gastonia","country_code":"US","country_name":"United States"},"ipaddress":"104.139.54.11"}
+{"name":"Yourmudname","ipaddress":"104.139.54.11","geoip":{"city":"Gastonia","country_name":"United States","ip":"104.139.54.11","longitude":-81.122,"region_name":"NC","country_code":"US","latitude":35.2137},"login":0}

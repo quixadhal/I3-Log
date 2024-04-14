@@ -1,1 +1,1 @@
-{"ipaddress":"73.255.65.155","name":"Forgotten Gods","login":0,"geoip":{"longitude":-95.6526,"region_name":"TX","latitude":29.6918,"ip":"73.255.65.155","country_code":"US","city":"Houston","country_name":"United States"}}
+{"ipaddress":"73.255.65.155","geoip":{"country_code":"US","ip":"73.255.65.155","latitude":29.6918,"city":"Houston","longitude":-95.6526,"country_name":"United States","region_name":"TX"},"login":0,"name":"Forgotten Gods"}

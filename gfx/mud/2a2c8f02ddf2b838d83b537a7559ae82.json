@@ -1,1 +1,1 @@
-{"ipaddress":"174.163.10.69","name":"MotM","login":1,"geoip":{"region_name":"GA","latitude":34.0414,"longitude":-84.5053,"ip":"174.163.10.69","country_name":"United States","country_code":"US","city":"Marietta"}}
+{"login":1,"name":"MotM","ipaddress":"174.163.10.69","geoip":{"latitude":34.0414,"ip":"174.163.10.69","country_code":"US","longitude":-84.5053,"city":"Marietta","country_name":"United States","region_name":"GA"}}

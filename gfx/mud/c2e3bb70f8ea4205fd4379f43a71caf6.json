@@ -1,1 +1,1 @@
-{"ipaddress":"136.144.155.250","login":1,"name":"The Zone-dalet","geoip":{"region_name":"NH","latitude":52.364,"longitude":4.8913,"country_name":"Netherlands","country_code":"NL","city":"Amsterdam","ip":"136.144.155.250"}}
+{"login":1,"name":"The Zone-dalet","ipaddress":"136.144.155.250","geoip":{"country_name":"Netherlands","region_name":"NH","latitude":52.364,"country_code":"NL","ip":"136.144.155.250","longitude":4.8913,"city":"Amsterdam"}}

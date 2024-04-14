@@ -1,1 +1,1 @@
-{"login":1,"name":"Toils MUD","geoip":{"country_name":"United States","country_code":"US","city":"Fremont","ip":"96.126.100.94","region_name":"CA","latitude":37.5625,"longitude":-122.0004},"ipaddress":"96.126.100.94"}
+{"geoip":{"ip":"96.126.100.94","country_code":"US","latitude":37.5625,"city":"Fremont","longitude":-122.0004,"country_name":"United States","region_name":"CA"},"ipaddress":"96.126.100.94","name":"Toils MUD","login":1}

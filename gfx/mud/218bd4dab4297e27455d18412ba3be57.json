@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United Kingdom","country_code":"GB","city":"London","ip":"139.162.227.40","latitude":51.5088,"region_name":"ENG","longitude":-0.093},"name":"Your MUD Name","login":1,"ipaddress":"139.162.227.40"}
+{"login":1,"name":"Your MUD Name","geoip":{"country_name":"United Kingdom","region_name":"ENG","ip":"139.162.227.40","country_code":"GB","latitude":51.5088,"city":"London","longitude":-0.093},"ipaddress":"139.162.227.40"}

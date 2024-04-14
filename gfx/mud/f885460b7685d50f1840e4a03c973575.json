@@ -1,1 +1,1 @@
-{"ipaddress":"83.254.109.185","name":"TestMUD","login":0,"geoip":{"longitude":18.0517,"region_name":"AB","latitude":59.3241,"ip":"83.254.109.185","country_code":"SE","city":"Stockholm","country_name":"Sweden"}}
+{"name":"TestMUD","login":0,"geoip":{"country_name":"Sweden","region_name":"AB","latitude":59.3241,"ip":"83.254.109.185","country_code":"SE","longitude":18.0517,"city":"Stockholm"},"ipaddress":"83.254.109.185"}

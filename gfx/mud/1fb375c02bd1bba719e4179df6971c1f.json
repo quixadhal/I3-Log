@@ -1,1 +1,1 @@
-{"ipaddress":"193.170.138.1","geoip":{"country_code":"AT","city":"Vienna","country_name":"Austria","ip":"193.170.138.1","longitude":16.3377,"latitude":48.2583,"region_name":"9"},"name":"testserver","login":0}
+{"name":"testserver","login":0,"ipaddress":"193.170.138.1","geoip":{"country_name":"Austria","region_name":"9","latitude":48.2583,"ip":"193.170.138.1","country_code":"AT","longitude":16.3377,"city":"Vienna"}}

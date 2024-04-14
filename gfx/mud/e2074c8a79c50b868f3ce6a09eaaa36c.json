@@ -1,1 +1,1 @@
-{"ipaddress":"170.187.150.187","geoip":{"region_name":"GA","latitude":33.7485,"longitude":-84.3871,"ip":"170.187.150.187","country_name":"United States","city":"Atlanta","country_code":"US"},"name":"ChaosMUD","login":1}
+{"login":1,"name":"ChaosMUD","ipaddress":"170.187.150.187","geoip":{"latitude":33.7485,"ip":"170.187.150.187","country_code":"US","longitude":-84.3871,"city":"Atlanta","country_name":"United States","region_name":"GA"}}

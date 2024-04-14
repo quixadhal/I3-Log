@@ -1,1 +1,1 @@
-{"name":"LibertyMUD","login":1,"geoip":{"city":"Tucumcari","country_code":"US","country_name":"United States","ip":"207.246.225.251","longitude":-103.7173,"latitude":35.1658,"region_name":"NM"},"ipaddress":"207.246.225.251"}
+{"geoip":{"city":"Tucumcari","longitude":-103.7173,"country_code":"US","ip":"207.246.225.251","latitude":35.1658,"region_name":"NM","country_name":"United States"},"ipaddress":"207.246.225.251","login":0,"name":"LibertyMUD"}

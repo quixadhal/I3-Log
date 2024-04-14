@@ -1,1 +1,1 @@
-{"geoip":{"latitude":49.6113,"region_name":"LU","longitude":6.1294,"ip":"104.244.72.60","country_name":"Luxembourg","country_code":"LU","city":"Luxembourg"},"login":1,"name":"Cosmic Cuttlefish","ipaddress":"104.244.72.60"}
+{"name":"Cosmic Cuttlefish","login":1,"ipaddress":"104.244.72.60","geoip":{"region_name":"LU","country_name":"Luxembourg","city":"Luxembourg","longitude":6.1294,"ip":"104.244.72.60","country_code":"LU","latitude":49.6113}}

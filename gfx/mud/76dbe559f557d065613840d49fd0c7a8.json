@@ -1,1 +1,1 @@
-{"ipaddress":"85.10.205.77","login":1,"name":"Avalon","geoip":{"country_code":"DE","city":"Dietramszell","country_name":"Germany","ip":"85.10.205.77","longitude":11.6011,"latitude":47.8477,"region_name":"BY"}}
+{"ipaddress":"85.10.205.77","geoip":{"latitude":47.8477,"country_code":"DE","ip":"85.10.205.77","longitude":11.6011,"city":"Dietramszell","country_name":"Germany","region_name":"BY"},"name":"Avalon","login":1}

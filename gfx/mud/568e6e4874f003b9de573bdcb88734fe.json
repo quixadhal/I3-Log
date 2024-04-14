@@ -1,1 +1,1 @@
-{"geoip":{"ip":"68.162.152.183","country_name":"United States","city":"Pittsburgh","country_code":"US","region_name":"PA","latitude":40.4064,"longitude":-79.9856},"login":0,"name":"Oblivion","ipaddress":"68.162.152.183"}
+{"ipaddress":"68.162.152.183","geoip":{"city":"Pittsburgh","longitude":-79.9856,"country_code":"US","ip":"68.162.152.183","latitude":40.4064,"region_name":"PA","country_name":"United States"},"name":"Oblivion","login":0}

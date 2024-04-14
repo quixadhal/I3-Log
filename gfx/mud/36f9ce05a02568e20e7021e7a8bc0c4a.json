@@ -1,1 +1,1 @@
-{"ipaddress":"88.99.194.184","name":"Dei Delle Ere","login":1,"geoip":{"longitude":10.5491,"region_name":"BY","latitude":48.648,"city":"Lutzingen","country_code":"DE","country_name":"Germany","ip":"88.99.194.184"}}
+{"ipaddress":"88.99.194.184","geoip":{"ip":"88.99.194.184","country_code":"DE","latitude":48.648,"city":"Lutzingen","longitude":10.5491,"country_name":"Germany","region_name":"BY"},"name":"Dei Delle Ere","login":1}

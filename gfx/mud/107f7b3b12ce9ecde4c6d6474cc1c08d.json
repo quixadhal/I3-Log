@@ -1,1 +1,1 @@
-{"name":"MetaFossMud","login":1,"geoip":{"latitude":51.5088,"region_name":"ENG","longitude":-0.093,"country_name":"United Kingdom","city":"London","country_code":"GB","ip":"178.79.143.114"},"ipaddress":"178.79.143.114"}
+{"geoip":{"region_name":"ENG","country_name":"United Kingdom","longitude":-0.093,"city":"London","latitude":51.5088,"country_code":"GB","ip":"178.79.143.114"},"ipaddress":"178.79.143.114","login":1,"name":"MetaFossMud"}

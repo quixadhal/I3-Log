@@ -1,1 +1,1 @@
-{"login":1,"name":"Space MUD","geoip":{"country_code":"US","city":"Richardson","country_name":"United States","ip":"139.144.35.74","longitude":-96.7028,"region_name":"TX","latitude":32.9473},"ipaddress":"139.144.35.74"}
+{"name":"Space MUD","login":1,"geoip":{"longitude":-96.7028,"city":"Richardson","latitude":32.9473,"ip":"139.144.35.74","country_code":"US","region_name":"TX","country_name":"United States"},"ipaddress":"139.144.35.74"}

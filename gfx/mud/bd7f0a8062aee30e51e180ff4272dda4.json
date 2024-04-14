@@ -1,1 +1,1 @@
-{"geoip":{"longitude":-79.3716,"region_name":"","latitude":43.6319,"city":"","country_code":"CA","country_name":"Canada","ip":"216.251.47.10"},"name":"Realms of Despair","login":1,"ipaddress":"216.251.47.10"}
+{"name":"Realms of Despair","login":1,"geoip":{"latitude":43.6319,"country_code":"CA","ip":"216.251.47.10","longitude":-79.3716,"city":"","country_name":"Canada","region_name":""},"ipaddress":"216.251.47.10"}

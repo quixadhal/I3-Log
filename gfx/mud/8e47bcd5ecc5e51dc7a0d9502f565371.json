@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"18","latitude":60.1797,"longitude":24.9344,"ip":"65.108.64.221","country_name":"Finland","city":"Helsinki","country_code":"FI"},"login":0,"name":"Thunraz Dungeon","ipaddress":"65.108.64.221"}
+{"login":0,"name":"Thunraz Dungeon","geoip":{"latitude":60.1797,"country_code":"FI","ip":"65.108.64.221","longitude":24.9344,"city":"Helsinki","country_name":"Finland","region_name":"18"},"ipaddress":"65.108.64.221"}

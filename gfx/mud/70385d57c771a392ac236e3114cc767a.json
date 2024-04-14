@@ -1,1 +1,1 @@
-{"ipaddress":"18.143.166.28","geoip":{"country_code":"SG","city":"Singapore","country_name":"Singapore","ip":"18.143.166.28","longitude":103.8503,"latitude":1.2868,"region_name":""},"login":0,"name":"My First MUD"}
+{"login":0,"ipaddress":"18.143.166.28","name":"My First MUD","geoip":{"ip":"18.143.166.28","longitude":103.8503,"country_code":"SG","region_name":"","latitude":1.2868,"city":"Singapore","country_name":"Singapore"}}

@@ -1,1 +1,1 @@
-{"ipaddress":"128.76.165.163","name":"AgeOfHeroes","login":1,"geoip":{"region_name":"83","latitude":55.5114,"longitude":9.7495,"ip":"128.76.165.163","country_name":"Denmark","city":"Middelfart","country_code":"DK"}}
+{"name":"AgeOfHeroes","login":1,"ipaddress":"128.76.165.163","geoip":{"region_name":"83","country_name":"Denmark","city":"Middelfart","longitude":9.7495,"ip":"128.76.165.163","country_code":"DK","latitude":55.5114}}

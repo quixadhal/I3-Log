@@ -1,1 +1,1 @@
-{"ipaddress":"52.28.187.130","login":1,"name":"EternityMUD","geoip":{"ip":"52.28.187.130","country_code":"DE","city":"Frankfurt am Main","country_name":"Germany","longitude":8.6843,"latitude":50.1188,"region_name":"HE"}}
+{"name":"EternityMUD","login":1,"geoip":{"country_name":"Germany","region_name":"HE","latitude":50.1188,"country_code":"DE","ip":"52.28.187.130","longitude":8.6843,"city":"Frankfurt am Main"},"ipaddress":"52.28.187.130"}
