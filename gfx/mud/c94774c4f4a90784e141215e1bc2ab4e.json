@@ -1,1 +1,1 @@
-{"name":"CoffeeMud","login":1,"ipaddress":"99.88.247.49","geoip":{"longitude":-97.7649,"ip":"99.88.247.49","country_name":"United States","city":"Austin","region_name":"TX","country_code":"US","latitude":30.3471}}
+{"login":1,"geoip":{"region_name":"TX","latitude":30.3471,"longitude":-97.7649,"city":"Austin","ip":"99.88.247.49","country_name":"United States","country_code":"US"},"ipaddress":"99.88.247.49","name":"CoffeeMud"}

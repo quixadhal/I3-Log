@@ -1,1 +1,1 @@
-{"name":"The Burning Eye","login":1,"ipaddress":"96.126.123.70","geoip":{"latitude":32.9473,"city":"Richardson","country_code":"US","region_name":"TX","longitude":-96.7028,"ip":"96.126.123.70","country_name":"United States"}}
+{"ipaddress":"96.126.123.70","geoip":{"region_name":"TX","latitude":32.9473,"longitude":-96.7028,"city":"Richardson","ip":"96.126.123.70","country_name":"United States","country_code":"US"},"login":1,"name":"The Burning Eye"}

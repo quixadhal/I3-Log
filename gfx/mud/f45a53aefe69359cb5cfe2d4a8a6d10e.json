@@ -1,1 +1,1 @@
-{"ipaddress":"50.116.61.33","geoip":{"longitude":-74.4592,"country_name":"United States","ip":"50.116.61.33","city":"Cedar Knolls","region_name":"NJ","country_code":"US","latitude":40.8229},"name":"Yuriba MUSH","login":1}
+{"name":"Yuriba MUSH","login":1,"geoip":{"country_code":"US","country_name":"United States","ip":"50.116.61.33","city":"Cedar Knolls","longitude":-74.4592,"latitude":40.8229,"region_name":"NJ"},"ipaddress":"50.116.61.33"}

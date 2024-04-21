@@ -1,1 +1,1 @@
-{"name":"A Tale of Light","login":1,"ipaddress":"107.202.216.110","geoip":{"region_name":"TX","country_code":"US","city":"Cedar Park","country_name":"United States","ip":"107.202.216.110","longitude":-97.8209,"latitude":30.5045}}
+{"login":1,"geoip":{"city":"Cedar Park","country_name":"United States","country_code":"US","ip":"107.202.216.110","latitude":30.5045,"longitude":-97.8209,"region_name":"TX"},"ipaddress":"107.202.216.110","name":"A Tale of Light"}

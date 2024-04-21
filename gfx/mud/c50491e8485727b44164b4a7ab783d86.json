@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"VA","country_code":"US","city":"Leesburg","country_name":"United States","ip":"71.171.93.80","longitude":-77.6042,"latitude":39.0448},"ipaddress":"71.171.93.80","name":"Calaveras","login":1}
+{"ipaddress":"71.171.93.80","geoip":{"city":"Leesburg","ip":"71.171.93.80","country_name":"United States","country_code":"US","region_name":"VA","latitude":39.0448,"longitude":-77.6042},"login":1,"name":"Calaveras"}

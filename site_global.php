@@ -143,8 +143,9 @@ $LOG_PAGE_JS                = "$URL_HOME/log_page_js.php";
 $VISITOR_IP                 = $_SERVER['REMOTE_ADDR'];
 
 $DOWNLOAD_URL               = "$URL_HOME/data/i3log.sql.xz";
+$VM_URL                     = "$URL_HOME/../stuff/WileyMUD/";
 
-$NOBODY_CARES               = false;
+$NOBODY_CARES               = true;
 $FUNDME_CLASS               = "gfm-embed sticky-corner";
 $FUNDME_DATA_URL            = "https://www.gofundme.com/f/the-intermud-log-page/widget/large";
 $FUNDME_SRC_URL             = "https://www.gofundme.com/static/js/embed.js";

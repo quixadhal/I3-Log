@@ -1,1 +1,1 @@
-{"login":0,"name":"Abandoned Realms","ipaddress":"45.79.228.121","geoip":{"latitude":37.5625,"city":"Fremont","region_name":"CA","country_code":"US","longitude":-122.0004,"country_name":"United States","ip":"45.79.228.121"}}
+{"name":"Abandoned Realms","login":0,"geoip":{"country_name":"United States","country_code":"US","ip":"45.79.228.121","city":"Fremont","latitude":37.5625,"longitude":-122.0004,"region_name":"CA"},"ipaddress":"45.79.228.121"}

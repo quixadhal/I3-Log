@@ -1,1 +1,1 @@
-{"login":0,"name":"Deneiri","ipaddress":"74.83.45.226","geoip":{"longitude":-84.5455,"country_name":"United States","ip":"74.83.45.226","city":"Cincinnati","region_name":"OH","country_code":"US","latitude":39.2413}}
+{"name":"Deneiri","ipaddress":"74.83.45.226","geoip":{"longitude":-84.5455,"latitude":39.2413,"region_name":"OH","city":"Cincinnati","country_code":"US","country_name":"United States","ip":"74.83.45.226"},"login":0}

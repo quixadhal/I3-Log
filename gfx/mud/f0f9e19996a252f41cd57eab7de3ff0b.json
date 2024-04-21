@@ -1,1 +1,1 @@
-{"geoip":{"latitude":51.394,"ip":"88.97.75.68","country_name":"United Kingdom","longitude":-2.3227,"country_code":"GB","region_name":"ENG","city":"Bath"},"ipaddress":"88.97.75.68","name":"Archipelago","login":1}
+{"name":"Archipelago","login":1,"ipaddress":"88.97.75.68","geoip":{"longitude":-2.3227,"latitude":51.394,"region_name":"ENG","country_code":"GB","country_name":"United Kingdom","ip":"88.97.75.68","city":"Bath"}}

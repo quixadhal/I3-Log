@@ -21,7 +21,8 @@ var BG_OFF = "<?php echo $BG_OFF_ICON; ?>";
 var Random = new MersenneTwister();
 var NoBackground = Cookies.get('nobackground') || false;
 var BoringBackground = Cookies.get('boringbackground') || false;
-var NSFW = Cookies.get('nsfw') || false;
+//var NSFW = Cookies.get('nsfw') || false;
+var NSFW = true;
 
 function toggleBackground() {
     NoBackground = Cookies.get('nobackground') || false;

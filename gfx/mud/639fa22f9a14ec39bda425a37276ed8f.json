@@ -1,1 +1,1 @@
-{"geoip":{"country_name":"United States","ip":"157.230.232.3","longitude":-74.0247,"region_name":"NJ","country_code":"US","city":"North Bergen","latitude":40.793},"ipaddress":"157.230.232.3","login":0,"name":"HavenTestMud"}
+{"name":"HavenTestMud","geoip":{"city":"North Bergen","ip":"157.230.232.3","country_code":"US","country_name":"United States","region_name":"NJ","longitude":-74.0247,"latitude":40.793},"ipaddress":"157.230.232.3","login":0}

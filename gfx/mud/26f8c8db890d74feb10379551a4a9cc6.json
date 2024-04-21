@@ -1,1 +1,1 @@
-{"geoip":{"latitude":38.6583,"region_name":"VA","country_code":"US","city":"","ip":"147.135.1.116","country_name":"United States","longitude":-77.2481},"ipaddress":"147.135.1.116","login":0,"name":"ChatMUD"}
+{"login":0,"ipaddress":"147.135.1.116","geoip":{"country_name":"United States","country_code":"US","ip":"147.135.1.116","city":"","latitude":38.6583,"longitude":-77.2481,"region_name":"VA"},"name":"ChatMUD"}

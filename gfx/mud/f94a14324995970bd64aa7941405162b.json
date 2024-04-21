@@ -1,1 +1,1 @@
-{"geoip":{"latitude":38.9887,"city":"Prairie Village","country_code":"US","region_name":"KS","longitude":-94.6341,"country_name":"United States","ip":"136.37.133.14"},"ipaddress":"136.37.133.14","name":"MarsHill MUD","login":0}
+{"ipaddress":"136.37.133.14","geoip":{"ip":"136.37.133.14","country_code":"US","country_name":"United States","city":"Prairie Village","region_name":"KS","longitude":-94.6341,"latitude":38.9887},"login":0,"name":"MarsHill MUD"}

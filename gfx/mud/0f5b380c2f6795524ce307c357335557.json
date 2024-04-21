@@ -1,1 +1,1 @@
-{"name":"A.HEGY","login":1,"geoip":{"longitude":19.0947,"country_name":"Hungary","ip":"89.133.44.171","city":"Budapest","country_code":"HU","region_name":"BU","latitude":47.5636},"ipaddress":"89.133.44.171"}
+{"geoip":{"city":"Budapest","country_code":"HU","country_name":"Hungary","ip":"89.133.44.171","longitude":19.0947,"latitude":47.5636,"region_name":"BU"},"ipaddress":"89.133.44.171","login":1,"name":"A.HEGY"}

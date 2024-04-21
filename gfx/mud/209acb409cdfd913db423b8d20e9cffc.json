@@ -1,1 +1,1 @@
-{"ipaddress":"54.186.128.181","geoip":{"latitude":45.8234,"ip":"54.186.128.181","country_name":"United States","longitude":-119.7257,"country_code":"US","region_name":"OR","city":"Boardman"},"name":"The Final Challenge","login":1}
+{"login":1,"ipaddress":"54.186.128.181","geoip":{"city":"Boardman","ip":"54.186.128.181","country_name":"United States","country_code":"US","region_name":"OR","latitude":45.8234,"longitude":-119.7257},"name":"The Final Challenge"}

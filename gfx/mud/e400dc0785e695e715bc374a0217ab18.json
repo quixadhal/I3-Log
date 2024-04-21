@@ -1,1 +1,1 @@
-{"ipaddress":"50.36.182.182","geoip":{"city":"Yale","region_name":"MI","country_code":"US","longitude":-82.8295,"ip":"50.36.182.182","country_name":"United States","latitude":43.126},"name":"Realm of Cernunnos","login":1}
+{"name":"Realm of Cernunnos","login":1,"geoip":{"longitude":-82.8295,"latitude":43.126,"region_name":"MI","country_code":"US","country_name":"United States","ip":"50.36.182.182","city":"Yale"},"ipaddress":"50.36.182.182"}

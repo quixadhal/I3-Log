@@ -1,1 +1,1 @@
-{"ipaddress":"178.79.173.99","geoip":{"latitude":51.5088,"longitude":-0.093,"country_name":"United Kingdom","ip":"178.79.173.99","city":"London","country_code":"GB","region_name":"ENG"},"name":"Rogue-Edition","login":0}
+{"geoip":{"region_name":"ENG","latitude":51.5088,"longitude":-0.093,"ip":"178.79.173.99","country_name":"United Kingdom","country_code":"GB","city":"London"},"ipaddress":"178.79.173.99","login":0,"name":"Rogue-Edition"}

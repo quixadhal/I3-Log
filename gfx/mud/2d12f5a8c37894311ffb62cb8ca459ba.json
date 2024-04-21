@@ -1,1 +1,1 @@
-{"login":1,"name":"tbaMUD","ipaddress":"176.9.151.147","geoip":{"latitude":54.0633,"longitude":10.7705,"country_name":"Germany","ip":"176.9.151.147","city":"Sierksdorf","country_code":"DE","region_name":"SH"}}
+{"login":1,"geoip":{"longitude":10.7705,"latitude":54.0633,"region_name":"SH","city":"Sierksdorf","country_code":"DE","country_name":"Germany","ip":"176.9.151.147"},"ipaddress":"176.9.151.147","name":"tbaMUD"}

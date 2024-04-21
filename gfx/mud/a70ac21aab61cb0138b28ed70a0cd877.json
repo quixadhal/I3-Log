@@ -1,1 +1,1 @@
-{"geoip":{"latitude":47.6131,"ip":"104.156.100.167","country_name":"United States","longitude":-122.2053,"region_name":"WA","country_code":"US","city":"Bellevue"},"ipaddress":"104.156.100.167","login":1,"name":"WileyMUD"}
+{"ipaddress":"104.156.100.167","geoip":{"ip":"104.156.100.167","country_name":"United States","country_code":"US","city":"Bellevue","region_name":"WA","latitude":47.6131,"longitude":-122.2053},"login":1,"name":"WileyMUD"}

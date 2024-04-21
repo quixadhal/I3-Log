@@ -1,1 +1,1 @@
-{"name":"Ancient Empires MUD","login":1,"ipaddress":"138.197.15.166","geoip":{"ip":"138.197.15.166","country_name":"United States","longitude":-74.1403,"country_code":"US","region_name":"NJ","city":"Clifton","latitude":40.8364}}
+{"name":"Ancient Empires MUD","login":1,"geoip":{"latitude":40.8364,"longitude":-74.1403,"region_name":"NJ","country_name":"United States","country_code":"US","ip":"138.197.15.166","city":"Clifton"},"ipaddress":"138.197.15.166"}

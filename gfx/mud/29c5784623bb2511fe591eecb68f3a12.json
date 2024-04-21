@@ -1,1 +1,1 @@
-{"login":1,"name":"Pocket Steam","ipaddress":"45.56.87.163","geoip":{"longitude":-122.0004,"ip":"45.56.87.163","country_name":"United States","city":"Fremont","country_code":"US","region_name":"CA","latitude":37.5625}}
+{"geoip":{"ip":"45.56.87.163","country_code":"US","country_name":"United States","city":"Fremont","region_name":"CA","longitude":-122.0004,"latitude":37.5625},"ipaddress":"45.56.87.163","login":1,"name":"Pocket Steam"}

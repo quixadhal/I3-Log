@@ -1,1 +1,1 @@
-{"ipaddress":"173.255.218.215","geoip":{"country_code":"US","region_name":"CA","city":"Fremont","ip":"173.255.218.215","country_name":"United States","longitude":-122.0004,"latitude":37.5625},"login":1,"name":"Mystic Shores MUD"}
+{"name":"Mystic Shores MUD","ipaddress":"173.255.218.215","geoip":{"longitude":-122.0004,"latitude":37.5625,"region_name":"CA","city":"Fremont","country_code":"US","country_name":"United States","ip":"173.255.218.215"},"login":1}

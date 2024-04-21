@@ -1,1 +1,1 @@
-{"ipaddress":"128.130.95.62","geoip":{"latitude":48.1951,"city":"Vienna","country_code":"AT","region_name":"9","longitude":16.3483,"ip":"128.130.95.62","country_name":"Austria"},"login":1,"name":"Beutelland"}
+{"login":1,"geoip":{"country_code":"AT","country_name":"Austria","ip":"128.130.95.62","city":"Vienna","longitude":16.3483,"latitude":48.1951,"region_name":"9"},"ipaddress":"128.130.95.62","name":"Beutelland"}

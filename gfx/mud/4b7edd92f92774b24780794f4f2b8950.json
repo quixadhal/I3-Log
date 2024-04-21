@@ -1,1 +1,1 @@
-{"name":"Dragon's Den","login":1,"ipaddress":"74.109.126.27","geoip":{"latitude":40.2104,"country_code":"US","region_name":"PA","city":"Yardley","country_name":"United States","ip":"74.109.126.27","longitude":-74.8278}}
+{"ipaddress":"74.109.126.27","geoip":{"city":"Yardley","country_code":"US","country_name":"United States","ip":"74.109.126.27","longitude":-74.8278,"latitude":40.2104,"region_name":"PA"},"login":1,"name":"Dragon's Den"}

@@ -35,13 +35,13 @@ $NAVBAR_CSS             = "$URL_HOME/navbar_css.php?version=$NAVBAR_TIME";
 $NAVBAR_JS              = "$URL_HOME/navbar_js.php";
 
 $MUDLIST_URL            = "$URL_HOME/mudlist.php";
-$LOG_URL                = "$URL_HOME/";
+$LOG_URL                = "$URL_HOME/main.php";
 $OTHER_LOG_URL          = "https://themud.org/chanhist.php#Channel=all";
 $PIE_URL                = "$URL_HOME/pie.php";
-$QUESTION_URL           = "$URL_HOME/random_video.php";
-if($isLocal) {
-    $QUESTION_URL       = "$URL_HOME/all_videos.php";
-}
+$QUESTION_URL           = "$URL_HOME/bio.php";
+//if($isLocal) {
+//    $QUESTION_URL       = "$URL_HOME/all_videos.php";
+//}
 $FORUM_URL              = "$URL_HOME/lpmuds.net/forum/index.html";
 $SERVER_URL             = "$URL_HOME/server.php";
 $GITHUB_URL             = "https://github.com/quixadhal/I3-Log";

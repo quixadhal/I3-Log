@@ -107,7 +107,7 @@
          "mudlib" : "PennMUSH 1.8.5p1",
          "name" : "Angelic Layer MUSH 3.0",
          "online" : 0,
-         "port" : "7705",
+         "port" : 7705,
          "type" : "TinyMUD"
       },
       {
@@ -187,7 +187,7 @@
          "mudlib" : "PennMUSH 1.8.4p9",
          "name" : "Champions MUSH",
          "online" : 0,
-         "port" : "6363",
+         "port" : 6363,
          "type" : "TinyMUD"
       },
       {

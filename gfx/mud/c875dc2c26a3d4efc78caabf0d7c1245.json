@@ -1,1 +1,1 @@
-{"geoip":{"country_code":"US","region_name":"CA","city":"Fremont","ip":"50.116.10.59","country_name":"United States","longitude":-122.0004,"latitude":37.5625},"ipaddress":"50.116.10.59","login":1,"name":"Heroes of Olde"}
+{"name":"Heroes of Olde","geoip":{"country_name":"United States","country_code":"US","ip":"50.116.10.59","city":"Fremont","latitude":37.5625,"longitude":-122.0004,"region_name":"CA"},"ipaddress":"50.116.10.59","login":1}

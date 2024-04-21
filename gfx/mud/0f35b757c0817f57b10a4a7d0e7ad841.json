@@ -1,1 +1,1 @@
-{"geoip":{"latitude":39.0469,"ip":"54.172.123.224","country_name":"United States","longitude":-77.4903,"region_name":"VA","country_code":"US","city":"Ashburn"},"ipaddress":"54.172.123.224","name":"Forgotten-Gods","login":1}
+{"name":"Forgotten-Gods","geoip":{"ip":"54.172.123.224","country_code":"US","country_name":"United States","city":"Ashburn","region_name":"VA","longitude":-77.4903,"latitude":39.0469},"ipaddress":"54.172.123.224","login":1}
