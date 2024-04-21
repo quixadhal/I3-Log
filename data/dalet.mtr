@@ -1,22 +1,20 @@
-Start: 2024-03-12T04:09:01-0700
+Start: 2024-04-20T18:09:01-0700
 HOST: wileymud3                                           Loss%   Snt   Last   Avg  Best  Wrst StDev
   1.|-- _gateway                                             0.0%    10    0.3   0.3   0.2   0.4   0.1
-  2.|-- br1-venn-v100.bb.as54858.net                         0.0%    10    1.2   1.2   1.0   1.5   0.1
+  2.|-- br1-venn-v100.bb.as54858.net                         0.0%    10    1.1   1.3   1.1   1.5   0.1
   3.|-- 172.16.101.125                                       0.0%    10    1.9   1.9   1.8   2.1   0.1
   4.|-- agg2-sea-b-t9-4.bb.spectrumnet.us                    0.0%    10    1.9   1.7   1.6   1.9   0.1
-  5.|-- be12.cr3-sea-b.bb.as11404.net                        0.0%    10    1.8   1.8   1.6   2.0   0.1
-  6.|-- be10.cr3-sea-a.bb.as11404.net                        0.0%    10    1.7   1.8   1.6   2.4   0.2
-  7.|-- be55.cr2-sea-a.bb.as11404.net                        0.0%    10    1.8   1.9   1.6   2.2   0.2
-  8.|-- sea-b1-link.ip.twelve99.net                          0.0%    10    1.8   1.8   1.7   2.0   0.1
-  9.|-- akamai-ic-340715.ip.twelve99-cust.net                0.0%    10    1.8   1.9   1.8   2.0   0.1
- 10.|-- ae12.r02.sea01.icn.netarch.akamai.com                0.0%    10    1.6   1.6   1.6   1.7   0.0
- 11.|-- ae31.r01.ord01.icn.netarch.akamai.com                0.0%    10   45.0  45.0  44.9  45.3   0.1
- 12.|-- ae28.r01.iad02.icn.netarch.akamai.com                0.0%    10   63.6  63.7  63.5  64.4   0.3
- 13.|-- ae11.r02.ewr01.icn.netarch.akamai.com                0.0%    10   69.3  69.4  69.3  69.5   0.1
- 14.|-- ae0.r01.ewr01.icn.netarch.akamai.com                 0.0%    10   69.3  69.3  69.3  69.6   0.1
- 15.|-- ae1.r01.ewr01.ien.netarch.akamai.com                 0.0%    10   69.0  69.1  69.0  69.3   0.1
- 16.|-- a23-203-154-23.deploy.static.akamaitechnologies.com  0.0%    10   64.6  64.5  64.1  65.9   0.5
+  5.|-- be12.cr3-sea-b.bb.as11404.net                        0.0%    10    1.8   1.8   1.7   1.9   0.1
+  6.|-- be10.cr3-sea-a.bb.as11404.net                        0.0%    10    1.8   1.7   1.7   1.8   0.1
+  7.|-- be55.cr2-sea-a.bb.as11404.net                        0.0%    10    1.6   1.8   1.6   2.1   0.2
+  8.|-- sea-b1-link.ip.twelve99.net                          0.0%    10    2.1   1.9   1.7   2.1   0.1
+  9.|-- akamai-ic-340715.ip.twelve99-cust.net                0.0%    10    2.0   2.1   1.8   3.1   0.4
+ 10.|-- ae12.r02.sea01.icn.netarch.akamai.com                0.0%    10    1.6   1.6   1.5   1.8   0.1
+ 11.|-- ae31.r01.ord01.icn.netarch.akamai.com                0.0%    10   44.7  44.7  44.6  44.8   0.1
+ 12.|-- ae15.r01.ewr01.icn.netarch.akamai.com                0.0%    10   60.4  60.5  60.3  60.9   0.2
+ 13.|-- ae1.r01.ewr01.ien.netarch.akamai.com                 0.0%    10   61.2  61.3  61.2  61.5   0.1
+ 14.|-- a23-203-154-23.deploy.static.akamaitechnologies.com  0.0%    10   61.7  61.9  61.7  62.3   0.2
+ 15.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
+ 16.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
  17.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
- 18.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
- 19.|-- ???                                                 100.0    10    0.0   0.0   0.0   0.0   0.0
- 20.|-- dalet.themud.org                                     0.0%    10   63.1  63.3  63.1  63.4   0.1
+ 18.|-- dalet.themud.org                                     0.0%    10   61.2  61.3  61.1  61.4   0.1

@@ -1,1 +1,1 @@
-{"geoip":{"region_name":"GA","country_name":"United States","longitude":-84.3871,"city":"Atlanta","latitude":33.7485,"country_code":"US","ip":"66.228.58.232"},"ipaddress":"66.228.58.232","login":1,"name":"Cypress Knee MUSH"}
+{"login":1,"name":"Cypress Knee MUSH","ipaddress":"66.228.58.232","geoip":{"latitude":33.7485,"country_name":"United States","ip":"66.228.58.232","longitude":-84.3871,"country_code":"US","region_name":"GA","city":"Atlanta"}}

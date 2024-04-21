@@ -1,41 +1,41 @@
 {
     "type": "result",
-    "timestamp": "2024-03-11T23:10:14Z",
+    "timestamp": "2024-04-20T23:10:12Z",
     "ping": {
-        "jitter": 0.185,
-        "latency": 2.045,
-        "low": 1.984,
-        "high": 2.311
+        "jitter": 0.062,
+        "latency": 2.160,
+        "low": 2.079,
+        "high": 2.225
     },
     "download": {
-        "bandwidth": 82390170,
-        "bytes": 305856180,
-        "elapsed": 3712,
+        "bandwidth": 84018035,
+        "bytes": 302376144,
+        "elapsed": 3607,
         "latency": {
-            "iqm": 5.978,
-            "low": 2.182,
-            "high": 8.706,
-            "jitter": 0.832
+            "iqm": 6.336,
+            "low": 2.310,
+            "high": 10.337,
+            "jitter": 0.816
         }
     },
     "upload": {
-        "bandwidth": 76655981,
-        "bytes": 482331367,
-        "elapsed": 6314,
+        "bandwidth": 77123772,
+        "bytes": 424003465,
+        "elapsed": 5500,
         "latency": {
-            "iqm": 7.137,
-            "low": 2.364,
-            "high": 9.586,
-            "jitter": 0.859
+            "iqm": 7.344,
+            "low": 2.567,
+            "high": 12.849,
+            "jitter": 0.993
         }
     },
     "isp": "Condointernet.net",
     "interface": {
-        "internalIp": "2604:4080:1018:81a0:a67:4725:1f00:8332",
+        "internalIp": "2604:4080:1018:81a0:9e17:17c2:bbe7:76f1",
         "name": "enp0s3",
         "macAddr": "08:00:27:C1:6F:D8",
         "isVpn": false,
-        "externalIp": "2604:4080:1018:81a0:a67:4725:1f00:8332"
+        "externalIp": "2604:4080:1018:81a0:9e17:17c2:bbe7:76f1"
     },
     "server": {
         "id": 1782,
@@ -47,8 +47,8 @@
         "ip": "2001:558:fe34:22::2"
     },
     "result": {
-        "id": "cede6ffb-e770-4a87-93f0-f99d7d41f0a1",
-        "url": "https://www.speedtest.net/result/c/cede6ffb-e770-4a87-93f0-f99d7d41f0a1",
+        "id": "0a388f2d-a2a5-4bb1-9cce-2e1b7133033f",
+        "url": "https://www.speedtest.net/result/c/0a388f2d-a2a5-4bb1-9cce-2e1b7133033f",
         "persisted": true
     }
 }

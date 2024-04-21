@@ -1,1 +1,1 @@
-{"name":"GurbaLab","login":0,"geoip":{"region_name":"NB","longitude":5.7326,"ip":"185.26.59.68","country_name":"Netherlands","city":"Langenboom","latitude":51.7071,"country_code":"NL"},"ipaddress":"185.26.59.68"}
+{"login":0,"name":"GurbaLab","ipaddress":"185.26.59.68","geoip":{"longitude":5.7326,"country_name":"Netherlands","ip":"185.26.59.68","city":"Langenboom","region_name":"NB","country_code":"NL","latitude":51.7071}}

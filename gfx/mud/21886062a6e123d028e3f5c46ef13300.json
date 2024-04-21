@@ -1,1 +1,1 @@
-{"login":0,"name":"Adaka","geoip":{"country_name":"Switzerland","region_name":"BL","ip":"85.3.64.137","country_code":"CH","latitude":47.4533,"city":"Gelterkinden","longitude":7.8566},"ipaddress":"85.3.64.137"}
+{"ipaddress":"85.3.64.137","geoip":{"latitude":47.4533,"longitude":7.8566,"ip":"85.3.64.137","country_name":"Switzerland","city":"Gelterkinden","region_name":"BL","country_code":"CH"},"name":"Adaka","login":0}

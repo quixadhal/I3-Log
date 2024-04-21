@@ -1,1 +1,1 @@
-{"name":"Alter Aeon","login":1,"ipaddress":"173.255.226.43","geoip":{"city":"Cedar Knolls","longitude":-74.4592,"ip":"173.255.226.43","country_code":"US","latitude":40.8229,"region_name":"NJ","country_name":"United States"}}
+{"geoip":{"region_name":"NJ","country_code":"US","city":"Cedar Knolls","ip":"173.255.226.43","country_name":"United States","longitude":-74.4592,"latitude":40.8229},"ipaddress":"173.255.226.43","name":"Alter Aeon","login":1}

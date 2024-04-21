@@ -1,1 +1,1 @@
-{"login":1,"name":"lpcdb","ipaddress":"136.144.155.250","geoip":{"region_name":"NH","country_name":"Netherlands","city":"Amsterdam","longitude":4.8913,"country_code":"NL","ip":"136.144.155.250","latitude":52.364}}
+{"name":"lpcdb","login":1,"geoip":{"ip":"136.144.155.250","country_name":"Netherlands","longitude":4.8913,"country_code":"NL","region_name":"NH","city":"Amsterdam","latitude":52.364},"ipaddress":"136.144.155.250"}

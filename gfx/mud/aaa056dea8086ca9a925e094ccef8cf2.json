@@ -1,1 +1,1 @@
-{"name":"Your Muds Name Here","login":0,"geoip":{"country_code":"US","ip":"204.111.74.52","latitude":39.4615,"city":"Martinsburg","longitude":-77.9742,"country_name":"United States","region_name":"WV"},"ipaddress":"204.111.74.52"}
+{"login":0,"name":"Your Muds Name Here","ipaddress":"204.111.74.52","geoip":{"city":"Martinsburg","region_name":"WV","country_code":"US","longitude":-77.9742,"ip":"204.111.74.52","country_name":"United States","latitude":39.4615}}

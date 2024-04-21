@@ -1,1 +1,1 @@
-{"login":1,"name":"Mystic","ipaddress":"45.79.130.170","geoip":{"longitude":-74.4592,"city":"Cedar Knolls","latitude":40.8229,"ip":"45.79.130.170","country_code":"US","region_name":"NJ","country_name":"United States"}}
+{"geoip":{"country_name":"United States","ip":"45.79.130.170","longitude":-74.4592,"region_name":"NJ","country_code":"US","city":"Cedar Knolls","latitude":40.8229},"ipaddress":"45.79.130.170","login":1,"name":"Mystic"}

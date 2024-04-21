@@ -1,1 +1,1 @@
-{"login":1,"name":"United Heroes MUSH","ipaddress":"159.223.173.196","geoip":{"region_name":"NJ","country_name":"United States","longitude":-74.0247,"city":"North Bergen","latitude":40.793,"ip":"159.223.173.196","country_code":"US"}}
+{"login":1,"name":"United Heroes MUSH","geoip":{"latitude":40.793,"country_name":"United States","ip":"159.223.173.196","longitude":-74.0247,"region_name":"NJ","country_code":"US","city":"North Bergen"},"ipaddress":"159.223.173.196"}

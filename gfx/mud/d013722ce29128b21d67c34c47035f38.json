@@ -1,1 +1,1 @@
-{"geoip":{"city":"Fremont","longitude":-122.0004,"ip":"45.33.43.151","country_code":"US","latitude":37.5625,"region_name":"CA","country_name":"United States"},"ipaddress":"45.33.43.151","name":"SpesMUD","login":1}
+{"name":"SpesMUD","login":1,"geoip":{"latitude":37.5625,"city":"Fremont","region_name":"CA","country_code":"US","longitude":-122.0004,"country_name":"United States","ip":"45.33.43.151"},"ipaddress":"45.33.43.151"}

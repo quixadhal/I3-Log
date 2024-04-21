@@ -1,1 +1,1 @@
-{"name":"????","login":1,"geoip":{"longitude":116.395,"city":"Beijing","latitude":39.911,"country_code":"CN","ip":"49.232.101.182","region_name":"BJ","country_name":"China"},"ipaddress":"49.232.101.182"}
+{"login":1,"name":"????","geoip":{"country_code":"CN","region_name":"BJ","city":"Beijing","country_name":"China","ip":"49.232.101.182","longitude":116.395,"latitude":39.911},"ipaddress":"49.232.101.182"}

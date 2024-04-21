@@ -1,4 +1,5 @@
-2024-01-02
+2024-03-19
+    apt install python3-bottle python3-wheel2024-01-02
     apt install ncal
 
     -- might not apply to us?
@@ -7,7 +8,8 @@
       TLSv1.0, TLSv1.1 and DTLS 1.0 work only at security level 0 (it was
       previously allowed at security level 0). If you are still using them, you
       need lower security level (via CipherString = DEFAULT:@SECLEVEL=0)
-      additionally to the MinProtocol setting.2023-11-30
+      additionally to the MinProtocol setting.
+2023-11-30
     Pro-tip:  Upgrading the video drivers on the host causes VirtualBox
     to crash, likely because it keeps hooks to the .DLLs of the driver
     for the host/guest integration.  So, make sure you suspend or shutdown

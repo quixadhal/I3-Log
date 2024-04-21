@@ -1,1 +1,1 @@
-{"name":"Enden's Keep","login":1,"geoip":{"country_code":"US","ip":"45.79.66.115","latitude":37.5625,"city":"Fremont","longitude":-122.0004,"country_name":"United States","region_name":"CA"},"ipaddress":"45.79.66.115"}
+{"login":1,"name":"Enden's Keep","geoip":{"longitude":-122.0004,"ip":"45.79.66.115","country_name":"United States","city":"Fremont","region_name":"CA","country_code":"US","latitude":37.5625},"ipaddress":"45.79.66.115"}

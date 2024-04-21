@@ -1,1 +1,1 @@
-{"name":"Sentience","login":0,"ipaddress":"54.39.50.121","geoip":{"country_name":"Canada","region_name":"QC","ip":"54.39.50.121","country_code":"CA","latitude":45.3161,"city":"Beauharnois","longitude":-73.8736}}
+{"login":0,"name":"Sentience","ipaddress":"54.39.50.121","geoip":{"country_code":"CA","region_name":"QC","city":"Beauharnois","country_name":"Canada","ip":"54.39.50.121","longitude":-73.8736,"latitude":45.3161}}

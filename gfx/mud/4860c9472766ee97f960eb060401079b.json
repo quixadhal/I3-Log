@@ -1,1 +1,1 @@
-{"login":1,"name":"The Fairy Garden MUSH","ipaddress":"107.2.136.24","geoip":{"region_name":"CO","country_name":"United States","city":"Greeley","longitude":-104.7584,"country_code":"US","ip":"107.2.136.24","latitude":40.4102}}
+{"login":1,"name":"The Fairy Garden MUSH","geoip":{"latitude":40.4102,"country_name":"United States","ip":"107.2.136.24","longitude":-104.7584,"region_name":"CO","country_code":"US","city":"Greeley"},"ipaddress":"107.2.136.24"}

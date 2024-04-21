@@ -1,1 +1,1 @@
-{"name":"TestFieldoria","login":0,"geoip":{"longitude":-81.7597,"city":"Clermont","latitude":28.5531,"ip":"67.8.105.110","country_code":"US","region_name":"FL","country_name":"United States"},"ipaddress":"67.8.105.110"}
+{"login":0,"name":"TestFieldoria","ipaddress":"67.8.105.110","geoip":{"latitude":28.5531,"country_name":"United States","ip":"67.8.105.110","longitude":-81.7597,"country_code":"US","region_name":"FL","city":"Clermont"}}

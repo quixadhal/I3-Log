@@ -1,1 +1,1 @@
-{"login":1,"name":"Genesis","ipaddress":"195.22.75.126","geoip":{"country_name":"Sweden","region_name":"T","country_code":"SE","ip":"195.22.75.126","latitude":59.3203,"city":"Karlskoga","longitude":14.5298}}
+{"login":1,"name":"Genesis","geoip":{"latitude":59.3203,"country_name":"Sweden","ip":"195.22.75.126","longitude":14.5298,"region_name":"T","country_code":"SE","city":"Karlskoga"},"ipaddress":"195.22.75.126"}

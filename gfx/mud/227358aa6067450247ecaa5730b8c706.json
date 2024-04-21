@@ -1,1 +1,1 @@
-{"name":"Emberfell","login":0,"geoip":{"latitude":44.8783,"ip":"198.98.206.48","country_code":"US","longitude":-93.3713,"city":"Minneapolis","country_name":"United States","region_name":"MN"},"ipaddress":"198.98.206.48"}
+{"geoip":{"latitude":44.8783,"longitude":-93.3713,"ip":"198.98.206.48","country_name":"United States","city":"Minneapolis","region_name":"MN","country_code":"US"},"ipaddress":"198.98.206.48","name":"Emberfell","login":0}

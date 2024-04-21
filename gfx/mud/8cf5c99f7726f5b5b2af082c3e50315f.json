@@ -1,1 +1,1 @@
-{"geoip":{"city":"Fremont","country_code":"US","latitude":37.5625,"country_name":"United States","region_name":"CA","ip":"45.79.85.15","longitude":-122.0004},"login":1,"ipaddress":"45.79.85.15","name":"SilverN"}
+{"geoip":{"latitude":37.5625,"longitude":-122.0004,"ip":"45.79.85.15","country_name":"United States","city":"Fremont","region_name":"CA","country_code":"US"},"ipaddress":"45.79.85.15","name":"SilverN","login":1}

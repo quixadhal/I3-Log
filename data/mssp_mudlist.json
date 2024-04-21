@@ -107,7 +107,7 @@
          "mudlib" : "PennMUSH 1.8.5p1",
          "name" : "Angelic Layer MUSH 3.0",
          "online" : 0,
-         "port" : 7705,
+         "port" : "7705",
          "type" : "TinyMUD"
       },
       {
@@ -164,7 +164,7 @@
          "from_mssp" : 1,
          "ipaddress" : "128.130.95.62",
          "md5" : "0678010beaf1a94121980ca51367aa95",
-         "mudlib" : "LDMud 3.6.7-2-gb5e8cac1",
+         "mudlib" : "RoleMUD",
          "name" : "Beutelland",
          "online" : 0,
          "port" : 5678,
@@ -172,7 +172,7 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "184.172.26.162",
+         "ipaddress" : "154.16.79.77",
          "md5" : "e5e24676c176ac641f8d3611dafb8944",
          "mudlib" : "PennMUSH 1.8.7p0",
          "name" : "Blood of Dragons",
@@ -187,7 +187,7 @@
          "mudlib" : "PennMUSH 1.8.4p9",
          "name" : "Champions MUSH",
          "online" : 0,
-         "port" : 6363,
+         "port" : "6363",
          "type" : "TinyMUD"
       },
       {
@@ -233,11 +233,11 @@
       {
          "from_mssp" : 1,
          "ipaddress" : "99.88.247.49",
-         "md5" : "d41d8cd98f00b204e9800998ecf8427e",
+         "md5" : "c13bf593842773affe0ed7e58a5432f2",
          "mudlib" : "CoffeeMUD v5.10.3",
-         "name" : "",
+         "name" : "134 MUDs",
          "online" : 0,
-         "port" : "2329",
+         "port" : "2330",
          "type" : "CoffeeMUD"
       },
       {
@@ -313,9 +313,9 @@
       {
          "from_mssp" : 1,
          "ipaddress" : "217.155.36.23",
-         "md5" : "d41d8cd98f00b204e9800998ecf8427e",
+         "md5" : "c13bf593842773affe0ed7e58a5432f2",
          "mudlib" : "EoM 4.19",
-         "name" : "",
+         "name" : "134 MUDs",
          "online" : 0,
          "port" : 8010,
          "type" : "CoffeeMUD"
@@ -344,7 +344,7 @@
          "from_mssp" : 1,
          "ipaddress" : "63.142.253.253",
          "md5" : "0824a782b7baf6955c0ffd7e557aa31b",
-         "mudlib" : "EmpireMUD 2.0 beta 5.179",
+         "mudlib" : "EmpireMUD 2.0 beta 5.184",
          "name" : "EmpireMUD",
          "online" : 0,
          "port" : 4000,
@@ -432,16 +432,6 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "178.79.173.99",
-         "md5" : "a148635a008daf3c85080dba15f87ed6",
-         "mudlib" : "Dystopia 1.4",
-         "name" : "Age of Heroes",
-         "online" : 0,
-         "port" : "2250",
-         "type" : "DikuMUD"
-      },
-      {
-         "from_mssp" : 1,
          "ipaddress" : "95.216.243.162",
          "md5" : "c6d3391b8542eb1ebd8641224378368f",
          "mudlib" : "",
@@ -449,6 +439,16 @@
          "online" : 0,
          "port" : 23,
          "type" : ""
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "74.219.230.98",
+         "md5" : "370d51e7f597ad3bc0d8a1f1a976e4cd",
+         "mudlib" : "JediMUD",
+         "name" : "JediMUD",
+         "online" : 0,
+         "port" : 4000,
+         "type" : "DikuMUD"
       },
       {
          "from_mssp" : 1,
@@ -494,7 +494,7 @@
          "from_mssp" : 1,
          "ipaddress" : "70.226.30.1",
          "md5" : "9b61e5f8598c3a3c420de51457e0c9e3",
-         "mudlib" : "LastOutpost 4.28",
+         "mudlib" : "LastOutpost 4.29",
          "name" : "The Last Outpost",
          "online" : 0,
          "port" : 4000,
@@ -632,7 +632,7 @@
       },
       {
          "from_mssp" : 1,
-         "ipaddress" : "184.145.208.28",
+         "ipaddress" : "184.145.167.34",
          "md5" : "ef2151b9735cb2063c37e987893d5830",
          "mudlib" : "FluffOS",
          "name" : "Accursed-Lands",
@@ -703,6 +703,16 @@
       {
          "from_mssp" : 1,
          "ipaddress" : "170.103.86.127",
+         "md5" : "c7f309a9f8a9416061fabb82959dba94",
+         "mudlib" : "GodWars Deluxe",
+         "name" : "GodWars: Genesis",
+         "online" : 0,
+         "port" : 5321,
+         "type" : "DikuMUD"
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "170.103.86.127",
          "md5" : "e8f7b1f061cef4353f5a893242543d1e",
          "mudlib" : "Smaug 1.4a",
          "name" : "Dragonball Z: The New World",
@@ -762,6 +772,16 @@
       },
       {
          "from_mssp" : 1,
+         "ipaddress" : "104.244.72.60",
+         "md5" : "30151bdc86ef1e89d47419d2d796308f",
+         "mudlib" : "PennMUSH 1.8.8p0",
+         "name" : "Cosmic Cuttlefish",
+         "online" : 0,
+         "port" : 8178,
+         "type" : "TinyMUD"
+      },
+      {
+         "from_mssp" : 1,
          "ipaddress" : "52.206.44.215",
          "md5" : "897161c068daf8e8216625c697147880",
          "mudlib" : "PennMUSH 1.8.8p0",
@@ -809,16 +829,6 @@
          "online" : 0,
          "port" : 2012,
          "type" : "TinyMUD"
-      },
-      {
-         "from_mssp" : 1,
-         "ipaddress" : "207.162.200.121",
-         "md5" : "2378865ed5c632b3df4095159c0e5e64",
-         "mudlib" : "",
-         "name" : "Nanvaent",
-         "online" : 0,
-         "port" : 23,
-         "type" : ""
       },
       {
          "from_mssp" : 1,
@@ -1079,6 +1089,16 @@
          "online" : 0,
          "port" : 6969,
          "type" : ""
+      },
+      {
+         "from_mssp" : 1,
+         "ipaddress" : "170.187.162.171",
+         "md5" : "594714aba872c530d96a1790bd271e93",
+         "mudlib" : "TMI-2 1.5.1",
+         "name" : "EyeMUD",
+         "online" : 0,
+         "port" : "2222",
+         "type" : "LPMud"
       },
       {
          "from_mssp" : 1,

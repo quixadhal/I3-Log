@@ -1,1 +1,1 @@
-{"name":"HEAVY MIDNIGHT","login":0,"geoip":{"longitude":-122.3414,"city":"Seattle","latitude":47.6034,"country_code":"US","ip":"193.37.33.194","region_name":"WA","country_name":"United States"},"ipaddress":"193.37.33.194"}
+{"login":0,"name":"HEAVY MIDNIGHT","geoip":{"latitude":47.6034,"longitude":-122.3414,"ip":"193.37.33.194","country_name":"United States","city":"Seattle","region_name":"WA","country_code":"US"},"ipaddress":"193.37.33.194"}

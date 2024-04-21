@@ -1,1 +1,1 @@
-{"name":"PersonaMUSH","login":1,"geoip":{"region_name":"QC","country_name":"Canada","city":"Beauharnois","longitude":-73.8741,"ip":"144.217.205.176","country_code":"CA","latitude":45.322},"ipaddress":"144.217.205.176"}
+{"geoip":{"country_name":"Canada","ip":"144.217.205.176","longitude":-73.8741,"region_name":"QC","country_code":"CA","city":"Beauharnois","latitude":45.322},"ipaddress":"144.217.205.176","name":"PersonaMUSH","login":1}

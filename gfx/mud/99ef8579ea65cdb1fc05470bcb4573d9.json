@@ -1,1 +1,1 @@
-{"name":"Tolgath","login":0,"geoip":{"city":"Grand Junction","longitude":-108.4925,"country_code":"US","ip":"184.166.28.140","latitude":39.0809,"region_name":"CO","country_name":"United States"},"ipaddress":"184.166.28.140"}
+{"login":0,"name":"Tolgath","geoip":{"latitude":39.0809,"ip":"184.166.28.140","country_name":"United States","longitude":-108.4925,"country_code":"US","region_name":"CO","city":"Grand Junction"},"ipaddress":"184.166.28.140"}

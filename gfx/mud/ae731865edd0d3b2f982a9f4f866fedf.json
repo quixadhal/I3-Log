@@ -1,1 +1,1 @@
-{"login":1,"name":"ANSIQuest","geoip":{"region_name":"CO","country_name":"United States","longitude":-104.7005,"city":"Colorado Springs","latitude":38.9203,"country_code":"US","ip":"98.38.199.179"},"ipaddress":"98.38.199.179"}
+{"geoip":{"latitude":38.9203,"longitude":-104.7005,"country_name":"United States","ip":"98.38.199.179","city":"Colorado Springs","region_name":"CO","country_code":"US"},"ipaddress":"98.38.199.179","name":"ANSIQuest","login":1}

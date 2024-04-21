@@ -1,1 +1,1 @@
-{"ipaddress":"134.122.38.91","geoip":{"country_name":"Canada","region_name":"ON","latitude":43.709,"country_code":"CA","ip":"134.122.38.91","longitude":-79.4057,"city":"Toronto"},"name":"Realm of Shadows","login":1}
+{"login":1,"name":"Realm of Shadows","geoip":{"city":"Toronto","country_code":"CA","region_name":"ON","longitude":-79.4057,"country_name":"Canada","ip":"134.122.38.91","latitude":43.709},"ipaddress":"134.122.38.91"}
