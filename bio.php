@@ -12,6 +12,14 @@ $GOLD_IMG               = "$URL_HOME/gfx/gold.png";
 $SCOOGE_URL             = "$URL_HOME/data/scooge.pdf";
 $GOLD_URL               = "$URL_HOME/data/gold.pdf";
 
+$day = date('d');
+$days_left = 25 - $day;
+
+$time_left = "As you read this, I have only " . $days_left . " days left.";
+if($days_left < 1) {
+    $time_left = "As you read this, I am already out of time.";
+}
+
 ?>
 <html>
     <head>
@@ -643,8 +651,7 @@ $GOLD_URL               = "$URL_HOME/data/gold.pdf";
                 anything new unless I can do it on my own dime, in a vacuum.  I am
                 dead broke, and am being evicted onto the streets 6 months sooner
                 than I expected, due to a legal maneuver that short-circuits the
-                trial and forces a default judgement on me.  As I write this,
-                I have 6 days left.
+                trial and forces a default judgement on me.  <?php echo $time_left; ?>
             </p>
             <p>
                 I'm not looking for pity.  What I'd really like is for someone
