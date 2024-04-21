@@ -13,7 +13,7 @@ $SCOOGE_URL             = "$URL_HOME/data/scooge.pdf";
 $GOLD_URL               = "$URL_HOME/data/gold.pdf";
 
 $day = date('d');
-$days_left = 25 - $day;
+$days_left = 26 - $day;
 
 $time_left = "As you read this, I have only " . $days_left . " days left.";
 if($days_left < 1) {
