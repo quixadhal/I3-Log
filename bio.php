@@ -692,11 +692,11 @@ if($days_left < 1) {
             </p>
             <h1> <font color="red"> 永遠にさようなら </font> </h1>
             <a href="<?php echo $DOWNLOAD_URL; ?>">
-                <tt><?php system("/bin/ls -lhG --time-style=\"+%Y-%M-%d %H:%M:%S\" $FILE_HOME/data/i3log.sql.xz | /usr/bin/colrm 1 18"); ?></tt>
+                <tt><?php system("/bin/ls -lhG --time-style=\"+%Y-%m-%d %H:%M:%S\" $FILE_HOME/data/i3log.sql.xz | /usr/bin/colrm 1 18"); ?></tt>
             </a>
             <br />
             <a href="<?php echo $VM_URL; ?>">
-                <tt>&nbsp;<?php system("/bin/du -shL --time --time-style=\"+%Y-%M-%d %H:%M:%S\" $FILE_HOME/../stuff/WileyMUD/"); ?></tt>
+                <tt>&nbsp;<?php system("/bin/du -shL --time --time-style=\"+%Y-%m-%d %H:%M:%S\" $FILE_HOME/../stuff/WileyMUD/"); ?></tt>
             </a>
             <div id="corner-log-div">
                 <img class="nav-img glowing" id="navbar-button-themudorg" title="I3 Log Page" src="<?php echo $LOG_ICON; ?>" onclick="window.location.href='<?php echo $LOG_URL; ?>';" />
