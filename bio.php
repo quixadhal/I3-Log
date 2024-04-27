@@ -12,13 +12,14 @@ $GOLD_IMG               = "$URL_HOME/gfx/gold.png";
 $SCOOGE_URL             = "$URL_HOME/data/scooge.pdf";
 $GOLD_URL               = "$URL_HOME/data/gold.pdf";
 
-$day = date('d');
-$days_left = 26 - $day;
+//$day = date('d');
+//$days_left = 26 - $day;
 
-$time_left = "As you read this, I have only " . $days_left . " days left.";
-if($days_left < 1) {
-    $time_left = "As you read this, I am already out of time.";
-}
+//$time_left = "As you read this, I have only " . $days_left . " days left.";
+//if($days_left < 1) {
+//    $time_left = "As you read this, I am already out of time.";
+//}
+$time_left = "As you read this, it may already be too late.";
 
 ?>
 <html>
