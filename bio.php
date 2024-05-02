@@ -12,14 +12,21 @@ $GOLD_IMG               = "$URL_HOME/gfx/gold.png";
 $SCOOGE_URL             = "$URL_HOME/data/scooge.pdf";
 $GOLD_URL               = "$URL_HOME/data/gold.pdf";
 
-//$day = date('d');
-//$days_left = 26 - $day;
+$court_day = "May 21st";
+$year = date('Y');
+$month = date('m');
+$day = date('d');
 
-//$time_left = "As you read this, I have only " . $days_left . " days left.";
-//if($days_left < 1) {
-//    $time_left = "As you read this, I am already out of time.";
-//}
 $time_left = "As you read this, it may already be too late.";
+
+if ($year == 2024 && $month == 05 && $day < 21) {
+    $days_left = 21 - $day;
+    $plural = "s";
+    if ($days_left < 2) {
+        $plural = "";
+    }
+    $time_left = "As you read this, I have only " . $days_left . " day" . $plural . " left.";
+}
 
 ?>
 <html>
@@ -165,7 +172,7 @@ $time_left = "As you read this, it may already be too late.";
                 it's too late, and that's why I showed them again.  I deserve my
                 fate, but they don't.  The day I have to walk out, they're going
                 to either be euthanized, or die slowly in a shelter.  Do something
-                for them, if you can.  If it's past April 25th, it's too late.
+                for them, if you can.  If it's past <?php echo $court_day; ?>, it's too late.
             </p>
             <h1> <font color="yellow"> Growing Up </font> </h1>
             <p>
