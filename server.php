@@ -96,7 +96,7 @@ if(!array_key_exists('result', $speedtest_windows)) {
 
 $speedtest_linux_text = file_get_contents($SPEEDTEST_LINUX_FILE);
 $speedtest_linux = json_decode($speedtest_linux_text, true, 512, JSON_INVALID_UTF8_SUBSTITUTE);
-if(!array_key_exists('result', $speedtest_linux)) {
+if(!$speedtest_linux || !array_key_exists('result', $speedtest_linux)) {
     $speedtest_linux["unix_timestamp"] = time();
     $speedtest_linux["the_time"] = strftime("%Y-%m-%d %H:%M:%S %Z", time());
     $speedtest_linux["speedtest_current"] = $NOT_AVAILABLE_ICON;
